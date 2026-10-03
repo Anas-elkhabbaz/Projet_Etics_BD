@@ -39,15 +39,22 @@ python scripts/03_moderation_toxicite.py   # omni-moderation-latest -> scores + 
 L'étape 3 demande une clé OpenAI : `$env:OPENAI_API_KEY = "sk-..."` (PowerShell). Elle reprend où elle s'est arrêtée si elle est interrompue. Pour un test rapide : `--docs INT008`.
 
 ## Base de données (`bd/etics.db`, SQLite)
-| Table | Grain | Colonnes principales |
-|---|---|---|
-| `documents` | 1 PDF | type, titre, pages, URL source, méthode d'extraction, format de transcription, nb de répliques |
-| `locuteurs` | 1 personne dans un interrogatoire | nom, rôle déduit (enquêteur / interrogé), part de questions |
-| `repliques` | 1 tour de parole | locuteur, rôle, texte, rang |
-| `decisions` | 1 décision judiciaire | nature, issue (accordée / rejetée / partielle), mentions de Miranda, menaces, promesses, tromperie |
-| `problemes_qualite` | 1 problème rencontré | document, type de problème, détail |
-| `moderation_repliques` | 1 réplique analysée | flagged + 13 scores omni-moderation |
-| `toxicite_documents` | 1 interrogatoire | indicateurs + verdict bon / mauvais / toxique |
+| Table | Grain | Clé primaire | Clés étrangères |
+|---|---|---|---|
+| `documents` | 1 PDF | `doc_id` | – |
+| `locuteurs` | 1 personne dans un interrogatoire | (`doc_id`, `locuteur`) | `doc_id` → documents |
+| `repliques` | 1 tour de parole | `replique_id` | `doc_id` → documents ; (`doc_id`, `locuteur`) → locuteurs |
+| `decisions` | 1 décision judiciaire | `doc_id` | `doc_id` → documents |
+| `problemes_qualite` | 1 problème rencontré | `probleme_id` | `doc_id` → documents |
+| `moderation_repliques` | 1 réplique analysée | `replique_id` | `replique_id` → repliques ; `doc_id` → documents |
+| `toxicite_documents` | 1 interrogatoire | `doc_id` | `doc_id` → documents ; `replique_la_plus_toxique` → repliques |
+
+```
+documents 1──n locuteurs 1──n repliques 1──1 moderation_repliques
+documents 1──n repliques
+documents 1──1 decisions        documents 1──n problemes_qualite
+documents 1──1 toxicite_documents
+```
 
 ## Problèmes rencontrés (table `problemes_qualite`)
 - 25 PDF scannés sans couche texte : on utilise l'OCR fourni par DocumentCloud, qui contient des erreurs de lecture.

@@ -150,6 +150,31 @@ def assign_roles(turns, title):
     return roles, stats
 
 
+# Schema relationnel : cles primaires et cles etrangeres declarees
+SCHEMA = """
+CREATE TABLE documents (
+    doc_id TEXT PRIMARY KEY, type_document TEXT NOT NULL, documentcloud_id INTEGER, titre TEXT,
+    nb_pages INTEGER, source_declaree TEXT, url_page TEXT, url_pdf TEXT, fichier_local TEXT,
+    date_collecte TEXT, methode_extraction TEXT, nb_mots INTEGER, format_transcription TEXT,
+    nb_locuteurs INTEGER, nb_repliques INTEGER, exploitable INTEGER);
+CREATE TABLE locuteurs (
+    doc_id TEXT NOT NULL REFERENCES documents(doc_id), locuteur TEXT NOT NULL, role TEXT,
+    nb_repliques INTEGER, nb_mots INTEGER, part_questions REAL,
+    PRIMARY KEY (doc_id, locuteur));
+CREATE TABLE repliques (
+    replique_id TEXT PRIMARY KEY, doc_id TEXT NOT NULL REFERENCES documents(doc_id), rang INTEGER,
+    locuteur TEXT NOT NULL, role TEXT, texte TEXT NOT NULL, nb_mots INTEGER, est_question INTEGER,
+    FOREIGN KEY (doc_id, locuteur) REFERENCES locuteurs(doc_id, locuteur));
+CREATE TABLE decisions (
+    doc_id TEXT PRIMARY KEY REFERENCES documents(doc_id), nature TEXT, issue_requete TEXT,
+    phrase_conclusion TEXT, mentionne_miranda INTEGER, mentionne_involontaire INTEGER,
+    mentionne_menaces INTEGER, mentionne_promesses INTEGER, mentionne_tromperie INTEGER);
+CREATE TABLE problemes_qualite (
+    probleme_id INTEGER PRIMARY KEY AUTOINCREMENT, doc_id TEXT NOT NULL REFERENCES documents(doc_id),
+    probleme TEXT, detail TEXT);
+CREATE INDEX ix_rep_doc ON repliques(doc_id);
+"""
+
 DECISION_OUTCOME = re.compile(
     r"(motion[^.]{0,250}?\b(?:is|be|are|was|hereby|shall be)\b[^.]{0,40}?\b"
     r"(granted in part|denied in part|granted|denied|sustained|overruled))", re.I | re.S)
@@ -251,14 +276,15 @@ def main():
     db = OUT / "etics.db"
     db.unlink(missing_ok=True)
     with sqlite3.connect(db) as con:
-        for name, df in tables.items():
-            df.to_sql(name, con, index=False)
+        con.execute("PRAGMA foreign_keys = ON")   # SQLite verifie les cles etrangeres a l'insertion
+        con.executescript(SCHEMA)
+        for name, df in tables.items():          # ordre parent -> enfant
+            df.to_sql(name, con, index=False, if_exists="append")
+    for name, df in tables.items():
+        try:
             df.to_csv(OUT / f"{name}.csv", index=False, encoding="utf-8")
-        con.executescript("""
-            CREATE UNIQUE INDEX ix_doc ON documents(doc_id);
-            CREATE INDEX ix_rep_doc ON repliques(doc_id);
-            CREATE INDEX ix_loc_doc ON locuteurs(doc_id);
-        """)
+        except PermissionError:                  # fichier ouvert dans Excel
+            print(f"  ATTENTION : {name}.csv est ouvert ailleurs (Excel ?), CSV non mis a jour")
 
     print(f"BD ecrite : {db}")
     for name, df in tables.items():

@@ -73,7 +73,8 @@ def score_repliques(con, docs, limite):
     client = OpenAI()  # lit OPENAI_API_KEY
 
     con.execute(f"""CREATE TABLE IF NOT EXISTS moderation_repliques (
-        replique_id TEXT PRIMARY KEY, doc_id TEXT, role TEXT, flagged INTEGER,
+        replique_id TEXT PRIMARY KEY REFERENCES repliques(replique_id),
+        doc_id TEXT REFERENCES documents(doc_id), role TEXT, flagged INTEGER,
         {", ".join(col(c) + " REAL" for c in CATEGORIES)},
         categorie_max TEXT, score_max REAL, modele TEXT, date_analyse TEXT)""")
 
@@ -108,6 +109,8 @@ def score_repliques(con, docs, limite):
 
 def verdicts(con):
     m = pd.read_sql("SELECT * FROM moderation_repliques", con)
+    if m.empty:
+        sys.exit("Aucune replique analysee : lancer d'abord le script sans --verdict-seul.")
     docs = pd.read_sql("SELECT doc_id, titre, format_transcription FROM documents "
                        "WHERE type_document = 'interrogatoire'", con)
     cats = [col(c) for c in CATS_ENQUETEUR]
@@ -144,7 +147,12 @@ def verdicts(con):
     res = docs.merge(pd.DataFrame(out), on="doc_id", how="inner")
     res["modele"] = MODEL
     res["seuils"] = f"fort={SEUIL_FORT}, moyen={SEUIL_MOYEN}, taux={SEUIL_TAUX}"
-    res.to_sql("toxicite_documents", con, if_exists="replace", index=False)
+    # Table recreee avec doc_id en cle primaire et cle etrangere vers documents
+    con.execute("DROP TABLE IF EXISTS toxicite_documents")
+    cols = ", ".join(f'"{c}"' for c in res.columns if c != "doc_id")
+    con.execute(f"CREATE TABLE toxicite_documents (doc_id TEXT PRIMARY KEY REFERENCES documents(doc_id), "
+                f"{cols}, FOREIGN KEY (replique_la_plus_toxique) REFERENCES repliques(replique_id))")
+    res.to_sql("toxicite_documents", con, if_exists="append", index=False)
     res.to_csv(ROOT / "bd" / "toxicite_documents.csv", index=False, encoding="utf-8")
     m.drop(columns="score_enqueteur").to_csv(ROOT / "bd" / "moderation_repliques.csv", index=False, encoding="utf-8")
     return res
