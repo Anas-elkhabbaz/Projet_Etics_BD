@@ -1,8 +1,8 @@
 """
 Projet ETICS (P02, Sujet 3) - Etape 3 : evaluation de la toxicite avec omni-moderation-latest (OpenAI).
 
-Entree : bd/etics.db (table repliques, produite par 02_extraction_bd.py)
-Sortie : nouvelles tables dans bd/etics.db + CSV dans bd/
+Entree : bd/repliques.csv et bd/documents.csv (produits par 02_extraction_bd.py)
+Sortie : deux nouvelles tables en CSV dans bd/ (chargees ensuite dans Oracle par 04_chargement_oracle.py)
   moderation_repliques   scores des 13 categories du modele pour chaque replique
   toxicite_documents     1 ligne par interrogatoire : indicateurs + verdict bon / mauvais / toxique
 
@@ -27,9 +27,9 @@ Usage (depuis le dossier "Projet BD Etics") :
   python scripts/03_moderation_toxicite.py --docs INT008   # test sur un document
   python scripts/03_moderation_toxicite.py --limite 200    # test sur 200 repliques
   python scripts/03_moderation_toxicite.py --verdict-seul  # recalcule les verdicts sans appeler l'API
+  puis : python scripts/04_chargement_oracle.py            # recharge la BD Oracle avec les resultats
 """
 import argparse
-import sqlite3
 import sys
 import time
 from datetime import datetime
@@ -38,7 +38,8 @@ from pathlib import Path
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parent.parent
-DB = ROOT / "bd" / "etics.db"
+BD = ROOT / "bd"
+MODERATION_CSV = BD / "moderation_repliques.csv"
 MODEL = "omni-moderation-latest"
 BATCH = 32            # repliques envoyees par requete
 MAX_CHARS = 4000      # les blocs tres longs sont tronques
@@ -68,31 +69,26 @@ def moderate(client, texts):
     raise RuntimeError("API de moderation indisponible apres 6 essais")
 
 
-def score_repliques(con, docs, limite):
+def score_repliques(docs, limite):
     from openai import OpenAI
     client = OpenAI()  # lit OPENAI_API_KEY
 
-    con.execute(f"""CREATE TABLE IF NOT EXISTS moderation_repliques (
-        replique_id TEXT PRIMARY KEY REFERENCES repliques(replique_id),
-        doc_id TEXT REFERENCES documents(doc_id), role TEXT, flagged INTEGER,
-        {", ".join(col(c) + " REAL" for c in CATEGORIES)},
-        categorie_max TEXT, score_max REAL, modele TEXT, date_analyse TEXT)""")
-
-    todo = pd.read_sql("""
-        SELECT r.replique_id, r.doc_id, r.role, r.texte FROM repliques r
-        JOIN documents d ON d.doc_id = r.doc_id
-        WHERE d.type_document = 'interrogatoire'
-          AND r.replique_id NOT IN (SELECT replique_id FROM moderation_repliques)
-        ORDER BY r.replique_id""", con)
+    rep = pd.read_csv(BD / "repliques.csv")
+    doc = pd.read_csv(BD / "documents.csv")
+    rep = rep[rep.doc_id.isin(doc[doc.type_document == "interrogatoire"].doc_id)]
+    deja = set(pd.read_csv(MODERATION_CSV).replique_id) if MODERATION_CSV.exists() else set()
+    todo = rep[~rep.replique_id.isin(deja)]       # reprise : on saute ce qui est deja analyse
     if docs:
         todo = todo[todo.doc_id.isin(docs)]
     if limite:
         todo = todo.head(limite)
     print(f"{len(todo)} repliques a analyser avec {MODEL}")
 
+    columns = ["replique_id", "doc_id", "role", "flagged", *[col(c) for c in CATEGORIES],
+               "categorie_max", "score_max", "modele", "date_analyse"]
     for start in range(0, len(todo), BATCH):
         chunk = todo.iloc[start:start + BATCH]
-        results = moderate(client, [t[:MAX_CHARS] for t in chunk.texte])
+        results = moderate(client, [str(t)[:MAX_CHARS] for t in chunk.texte])
         rows = []
         for (_, r), res in zip(chunk.iterrows(), results):
             scores = res.category_scores.model_dump(by_alias=True)
@@ -100,19 +96,19 @@ def score_repliques(con, docs, limite):
             best = max(range(len(CATEGORIES)), key=lambda i: vals[i])
             rows.append((r.replique_id, r.doc_id, r.role, int(res.flagged), *vals,
                          CATEGORIES[best], vals[best], MODEL, datetime.now().isoformat(timespec="seconds")))
-        con.executemany(f"INSERT OR REPLACE INTO moderation_repliques VALUES ({','.join('?' * len(rows[0]))})", rows)
-        con.commit()
+        pd.DataFrame(rows, columns=columns).to_csv(MODERATION_CSV, mode="a", index=False, encoding="utf-8",
+                                                   header=not MODERATION_CSV.exists())
         done = min(start + BATCH, len(todo))
         if done % (BATCH * 20) == 0 or done == len(todo):
             print(f"  {done}/{len(todo)}")
 
 
-def verdicts(con):
-    m = pd.read_sql("SELECT * FROM moderation_repliques", con)
-    if m.empty:
+def verdicts():
+    if not MODERATION_CSV.exists():
         sys.exit("Aucune replique analysee : lancer d'abord le script sans --verdict-seul.")
-    docs = pd.read_sql("SELECT doc_id, titre, format_transcription FROM documents "
-                       "WHERE type_document = 'interrogatoire'", con)
+    m = pd.read_csv(MODERATION_CSV).drop_duplicates("replique_id", keep="last")
+    docs = pd.read_csv(BD / "documents.csv")
+    docs = docs[docs.type_document == "interrogatoire"][["doc_id", "titre", "format_transcription"]]
     cats = [col(c) for c in CATS_ENQUETEUR]
     m["score_enqueteur"] = m[cats].max(axis=1)
     out = []
@@ -147,14 +143,7 @@ def verdicts(con):
     res = docs.merge(pd.DataFrame(out), on="doc_id", how="inner")
     res["modele"] = MODEL
     res["seuils"] = f"fort={SEUIL_FORT}, moyen={SEUIL_MOYEN}, taux={SEUIL_TAUX}"
-    # Table recreee avec doc_id en cle primaire et cle etrangere vers documents
-    con.execute("DROP TABLE IF EXISTS toxicite_documents")
-    cols = ", ".join(f'"{c}"' for c in res.columns if c != "doc_id")
-    con.execute(f"CREATE TABLE toxicite_documents (doc_id TEXT PRIMARY KEY REFERENCES documents(doc_id), "
-                f"{cols}, FOREIGN KEY (replique_la_plus_toxique) REFERENCES repliques(replique_id))")
-    res.to_sql("toxicite_documents", con, if_exists="append", index=False)
-    res.to_csv(ROOT / "bd" / "toxicite_documents.csv", index=False, encoding="utf-8")
-    m.drop(columns="score_enqueteur").to_csv(ROOT / "bd" / "moderation_repliques.csv", index=False, encoding="utf-8")
+    res.to_csv(BD / "toxicite_documents.csv", index=False, encoding="utf-8")
     return res
 
 
@@ -165,13 +154,12 @@ def main():
     ap.add_argument("--verdict-seul", action="store_true", help="ne pas appeler l'API, recalculer les verdicts")
     args = ap.parse_args()
 
-    with sqlite3.connect(DB) as con:
-        if not args.verdict_seul:
-            import os
-            if not os.environ.get("OPENAI_API_KEY"):
-                sys.exit("OPENAI_API_KEY absente. PowerShell : $env:OPENAI_API_KEY = \"sk-...\"")
-            score_repliques(con, args.docs.split(",") if args.docs else None, args.limite)
-        res = verdicts(con)
+    if not args.verdict_seul:
+        import os
+        if not os.environ.get("OPENAI_API_KEY"):
+            sys.exit("OPENAI_API_KEY absente. PowerShell : $env:OPENAI_API_KEY = \"sk-...\"")
+        score_repliques(args.docs.split(",") if args.docs else None, args.limite)
+    res = verdicts()
 
     print("\nVerdicts :", res.verdict.value_counts().to_dict())
     print(res[["doc_id", "verdict", "fiabilite", "nb_repliques_jugees", "nb_signalees",

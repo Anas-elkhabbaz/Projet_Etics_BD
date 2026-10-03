@@ -2,7 +2,7 @@
 Projet ETICS (P02, Sujet 3) - Etape 2 : des PDF (non structures) vers une BD structuree.
 
 Entree : documents/pdf/*/*.pdf + documents/ocr_documentcloud/*.txt + documents/catalogue_documents.csv
-Sortie : bd/etics.db (SQLite) + un CSV par table dans bd/
+Sortie : un CSV par table dans bd/ (chargement dans Oracle : 04_chargement_oracle.py)
 
 Tables
   documents         1 ligne par PDF (metadonnees, methode d'extraction, qualite)
@@ -15,7 +15,7 @@ Usage : python scripts/02_extraction_bd.py   (depuis le dossier "Projet BD Etics
 """
 import csv
 import re
-import sqlite3
+import sys
 from collections import Counter
 from pathlib import Path
 
@@ -150,31 +150,6 @@ def assign_roles(turns, title):
     return roles, stats
 
 
-# Schema relationnel : cles primaires et cles etrangeres declarees
-SCHEMA = """
-CREATE TABLE documents (
-    doc_id TEXT PRIMARY KEY, type_document TEXT NOT NULL, documentcloud_id INTEGER, titre TEXT,
-    nb_pages INTEGER, source_declaree TEXT, url_page TEXT, url_pdf TEXT, fichier_local TEXT,
-    date_collecte TEXT, methode_extraction TEXT, nb_mots INTEGER, format_transcription TEXT,
-    nb_locuteurs INTEGER, nb_repliques INTEGER, exploitable INTEGER);
-CREATE TABLE locuteurs (
-    doc_id TEXT NOT NULL REFERENCES documents(doc_id), locuteur TEXT NOT NULL, role TEXT,
-    nb_repliques INTEGER, nb_mots INTEGER, part_questions REAL,
-    PRIMARY KEY (doc_id, locuteur));
-CREATE TABLE repliques (
-    replique_id TEXT PRIMARY KEY, doc_id TEXT NOT NULL REFERENCES documents(doc_id), rang INTEGER,
-    locuteur TEXT NOT NULL, role TEXT, texte TEXT NOT NULL, nb_mots INTEGER, est_question INTEGER,
-    FOREIGN KEY (doc_id, locuteur) REFERENCES locuteurs(doc_id, locuteur));
-CREATE TABLE decisions (
-    doc_id TEXT PRIMARY KEY REFERENCES documents(doc_id), nature TEXT, issue_requete TEXT,
-    phrase_conclusion TEXT, mentionne_miranda INTEGER, mentionne_involontaire INTEGER,
-    mentionne_menaces INTEGER, mentionne_promesses INTEGER, mentionne_tromperie INTEGER);
-CREATE TABLE problemes_qualite (
-    probleme_id INTEGER PRIMARY KEY AUTOINCREMENT, doc_id TEXT NOT NULL REFERENCES documents(doc_id),
-    probleme TEXT, detail TEXT);
-CREATE INDEX ix_rep_doc ON repliques(doc_id);
-"""
-
 DECISION_OUTCOME = re.compile(
     r"(motion[^.]{0,250}?\b(?:is|be|are|was|hereby|shall be)\b[^.]{0,40}?\b"
     r"(granted in part|denied in part|granted|denied|sustained|overruled))", re.I | re.S)
@@ -267,26 +242,23 @@ def main():
               "repliques": pd.DataFrame(repliques), "decisions": pd.DataFrame(decisions),
               "problemes_qualite": pd.DataFrame(problemes)}
 
-    # Controles d'integrite
-    d, r = tables["documents"], tables["repliques"]
+    tables["problemes_qualite"].insert(0, "probleme_id", range(1, len(problemes) + 1))
+
+    # Controles d'integrite : memes regles que les cles primaires / etrangeres d'Oracle
+    d, r, l = tables["documents"], tables["repliques"], tables["locuteurs"]
     assert d.doc_id.is_unique and r.replique_id.is_unique
-    assert set(r.doc_id) <= set(d.doc_id)
+    assert not l.duplicated(["doc_id", "locuteur"]).any()
+    assert set(r.doc_id) <= set(d.doc_id) and set(l.doc_id) <= set(d.doc_id)
+    assert set(zip(r.doc_id, r.locuteur)) <= set(zip(l.doc_id, l.locuteur))
     assert (r.texte.str.len() > 0).all()
 
-    db = OUT / "etics.db"
-    db.unlink(missing_ok=True)
-    with sqlite3.connect(db) as con:
-        con.execute("PRAGMA foreign_keys = ON")   # SQLite verifie les cles etrangeres a l'insertion
-        con.executescript(SCHEMA)
-        for name, df in tables.items():          # ordre parent -> enfant
-            df.to_sql(name, con, index=False, if_exists="append")
     for name, df in tables.items():
         try:
             df.to_csv(OUT / f"{name}.csv", index=False, encoding="utf-8")
         except PermissionError:                  # fichier ouvert dans Excel
-            print(f"  ATTENTION : {name}.csv est ouvert ailleurs (Excel ?), CSV non mis a jour")
+            sys.exit(f"{name}.csv est ouvert dans un autre programme (Excel ?) : fermez-le puis relancez.")
 
-    print(f"BD ecrite : {db}")
+    print(f"Tables ecrites dans {OUT}")
     for name, df in tables.items():
         print(f"  {name:18s} {len(df):6d} lignes")
     print("\nInterrogatoires :")

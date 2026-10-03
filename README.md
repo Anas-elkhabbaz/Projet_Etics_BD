@@ -14,9 +14,11 @@ Projet BD Etics/
 │   └── catalogue_documents.csv    titre, source, URL, pages de chaque PDF
 ├── scripts/
 │   ├── 01_collecte_documents.py   télécharge les PDF
-│   ├── 02_extraction_bd.py        PDF -> base de données
-│   └── 03_moderation_toxicite.py  omni-moderation-latest -> verdicts
-├── bd/                            base SQLite etics.db + une copie CSV par table
+│   ├── 02_extraction_bd.py        PDF -> tables structurées (CSV)
+│   ├── 03_moderation_toxicite.py  omni-moderation-latest -> verdicts
+│   └── 04_chargement_oracle.py    CSV -> base Oracle (schéma ETICS)
+├── bd/                            une table par fichier CSV
+├── oracle/                        scripts SQL : utilisateur, schéma (clés), données
 └── archive_crime/                 ancienne piste C.R.I.M.E. (abandonnée, gardée pour mémoire)
 ```
 
@@ -33,12 +35,17 @@ Les PDF ne sont pas versionnés sur GitHub (trop volumineux) : `01_collecte_docu
 
 ```
 python scripts/01_collecte_documents.py    # télécharge les PDF + l'OCR DocumentCloud -> documents/
-python scripts/02_extraction_bd.py         # PDF -> BD structurée bd/etics.db (+ CSV)
+python scripts/02_extraction_bd.py         # PDF -> tables structurées dans bd/*.csv
 python scripts/03_moderation_toxicite.py   # omni-moderation-latest -> scores + verdicts
+python scripts/04_chargement_oracle.py     # crée le schéma ETICS dans Oracle et charge toutes les tables
 ```
 L'étape 3 demande une clé OpenAI : `$env:OPENAI_API_KEY = "sk-..."` (PowerShell). Elle reprend où elle s'est arrêtée si elle est interrompue. Pour un test rapide : `--docs INT008`.
 
-## Base de données (`bd/etics.db`, SQLite)
+## Base de données Oracle (PDB `FREEPDB1`, schéma `ETICS`)
+Dans SQL Developer, avec la connexion SYSTEM sur FREEPDB1 : *Autres utilisateurs > ETICS > Tables*, ou `SELECT * FROM etics.repliques;`.
+Le schéma est créé sans mot de passe. Pour s'y connecter directement : `ALTER USER etics IDENTIFIED BY "mot_de_passe";`.
+Sans Python, on peut exécuter `oracle/00_utilisateur.sql`, `01_schema.sql` puis `02_donnees.sql` dans SQL Developer (F5).
+
 | Table | Grain | Clé primaire | Clés étrangères |
 |---|---|---|---|
 | `documents` | 1 PDF | `doc_id` | – |
