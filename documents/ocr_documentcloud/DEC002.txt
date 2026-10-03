@@ -1,0 +1,532 @@
+Case 3:20-cr-00056-WQH Document 67 Filed 11/19/20 PageID.219 Page 1 of 6
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+UNITED STATES DISTRICT COURT
+
+9
+
+SOUTHERN DISTRICT OF CALIFORNIA
+
+10
+11
+
+UNITED STATES OF AMERICA,
+
+Case No.: 20cr56 WQH
+
+Plaintiff,
+
+12
+13
+
+v.
+
+14
+
+ANGEL SIGALA,
+
+ORDER
+
+Defendant.
+
+15
+16
+17
+18
+19
+
+HAYES Judge:
+The matter before the motion to suppress statements (ECF No. 42) filed by
+Defendant.
+
+20
+
+On November 7, 2019, at 12:10 p.m., Defendant drove from Mexico into the San
+
+21
+
+Ysidro Port of Entry in a rented Penske truck. A dog trained to detect contraband alerted
+
+22
+
+to the cargo area in the back of the truck. An officer of Customs and Border Patrol entered
+
+23
+
+the back of the truck and saw a separation and bulging in the middle of the front wall.
+
+24
+
+Using a screwdriver, the officer pried open the separation and saw a person laying against
+
+25
+
+the wall. The truck was sent to secondary inspection and Defendant was placed in
+
+26
+
+handcuffs and escorted to the security office. In secondary, the officers found six people
+
+27
+
+inside the false wall in the truck later found to be citizens of China without documents to
+
+28
+
+lawfully enter the United States.
+1
+20cr56 WQH
+
+ Case 3:20-cr-00056-WQH Document 67 Filed 11/19/20 PageID.220 Page 2 of 6
+
+1
+
+Officers arrested Sigala for alien smuggling. Around 2:53 p.m., CBP Officers
+
+2
+
+Wagoner and Curtis interviewed Defendant. Officer Wagoner started the interview with
+
+3
+
+booking questions.1 Around 3 p.m., Officer Wagoner told Sigala that he would be charged
+
+4
+
+with alien smuggling, read him his Miranda rights, had him acknowledge his rights orally
+
+5
+
+two times, and had him sign a waiver:
+Wagoner: Ok, so we’re conducting an investigation . . . about your application
+for admission to the United States to-day. So, the government is charging you
+with 8 U.S.C. 1324 which is alien smuggling. Before I ask you any questions,
+I need to read you your rights and I need to make sure you understand your
+rights, ok? I’m gonna read one by one. You have the right to remain silent.
+Do you understand?
+Sigala: Mm-hmm.
+Wagoner: Anything you say can be used against you in court or in any
+immigration or administrative proceeding.
+Sigala: Mm-hmm.
+Wagoner: [Y]ou have the right to talk to a lawyer for advice before we ask
+you any questions and to have him with you during questioning.
+Sigala: Mm-hmm.
+Wagoner: If you cannot afford a lawyer one will be appointed for you, before
+answering any questions if you wish.
+Sigala: Mm-hmm.
+Wagoner: If you decide to answer questions now, without a lawyer present,
+you will still have the right to stop answering at any time.
+Sigala: Mm-hmm.
+Wagoner: And you also have the right to stop answering at any time, until
+you talk to a lawyer.
+Sigala: Mm-hmm.
+Wagoner: Do you understand your rights, as I read them?
+Sigala: Mm-hmm.
+Wagoner: Ok, if you understand your rights, please read this phrase out loud.
+Or, if you want to re-read them and then read this when you’re ready, out loud.
+Sigala: I have read, or have had read to me, the statement of my rights and I
+understand what my rights are.
+Wagoner: Do you agree with that statement?
+Sigala: Yes.
+
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+1
+
+28
+
+At this stage in the proceedings, Plaintiff United States has not stated an intention to introduce any
+booking statements at trial.
+2
+20cr56 WQH
+
+ Case 3:20-cr-00056-WQH Document 67 Filed 11/19/20 PageID.221 Page 3 of 6
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+
+Wagoner: And here please, that you agree, you understand your rights.
+Alrighty, and we’re at the San Ysidro port of entry. Ok so understanding your
+rights, do you wish to speak with me at this moment? Talk about what happened?
+Sigala: Yes.
+Wagoner: [O]k, now, if you’re willing to speak to me, if you can read this[.]
+Sigala: I am willing to make a statement and answer ques-tions, I do not want
+a lawyer at this time, I understand and know what I am doing. No promises or
+threats have been made to me, and no pressure or correctionWagoner: Coercion
+Sigala: Oh, coercion, of any kind is being used against me.
+Wagoner: Do you agree with that statement?
+Sigala: Yes.
+Wagoner: Ok, please sign here.
+(ECF No. 42-1 at 7-9). Defendant signed the written waiver stating that he understood his
+rights and agreed to waive them and speak with officers without a lawyer. (ECF No. 442). Defendant answered each question asked during the interview and did not indicate any
+intention to terminate the interview or to seek the advice of counsel.
+On January 7, 2020, the grand jury returned an Indictment charging Defendant with
+six counts of bringing in aliens for financial gain in violation of 8 U.S.C. § 1324(a)(2)(B)(ii)
+and six counts of bringing in aliens without presentation in violation of 8 U.S.C. §
+1324(a)(2)(B)(iii).
+Defendant contends that the post-Miranda statement to the officer must be
+suppressed because the officer downplayed the importance of the Fifth Amendment right
+against self-incrimination by suggesting that the Defendant might be involved in
+immigration or administrative proceedings. Defendant further contends that the Miranda
+warnings infringed upon Defendant’s Sixth Amendment right to counsel by suggesting that
+he would be required to answer questions if he summoned a lawyer.
+
+Plaintiff
+
+United
+
+States contends that the agent complied with Miranda, and that the Defendant waived his
+Miranda rights, and that Defendant gave a knowing and voluntary statement to agents.
+
+27
+28
+3
+20cr56 WQH
+
+ Case 3:20-cr-00056-WQH Document 67 Filed 11/19/20 PageID.222 Page 4 of 6
+
+1
+
+The adequacy of a Miranda warning is a question of law. United States v. Connell,
+
+2
+
+869 F.2d 1349, 1351 (9th Cir. 1989). Individuals possess the right to be informed, prior to
+
+3
+
+custodial interrogation, “that [they have] the right to the presence of an attorney, and that
+
+4
+
+if [they] cannot afford an attorney one will be appointed for [them] prior to any questioning
+
+5
+
+if [they] so desire[ ].” Miranda v. Arizona, 384 U.S. 436, 479 (1966). “[W]hat Miranda
+
+6
+
+requires ‘is meaningful advice to the unlettered and unlearned in language which [they]
+
+7
+
+can comprehend and on which [they] can knowingly act.’” Connell, 869 F.2d at 1351
+
+8
+
+(quoting Coyote v. United States, 380 F.2d 305, 308 (10th Cir. 1967)). In order for the
+
+9
+
+warning to be valid, the combination or the wording of its warnings cannot be affirmatively
+
+10
+
+misleading. See Connell, 869 F.2d at 1352. “The warning must be clear and not susceptible
+
+11
+
+to equivocation.” United States v. San Juan-Cruz, 314 F.3d 384, 387 (9th Cir. 2002).
+
+12
+
+“For inculpatory statements made by a defendant during custodial interrogation to
+
+13
+
+be admissible in evidence, the defendant’s waiver of Miranda rights must be voluntary,
+
+14
+
+knowing, and intelligent.” United States v. Garibay, 143 F.3d 534, 536 (9th Cir. 1998).
+
+15
+
+“Only if the totality of the circumstances surrounding the interrogation reveal both an
+
+16
+
+uncoerced choice and the requisite level of comprehension may a court properly conclude
+
+17
+
+that the Miranda rights have been waived.” Moran v. Burdine, 475 U.S. 412, 421 (1986).
+
+18
+
+There is a presumption against waiver which the Government bears the burden of
+
+19
+
+overcoming by a preponderance of evidence. See Garibay, 143 F.3d at 536; see also
+
+20
+
+Berghuis v. Thompkins, 560 U.S. 370, 384 (2012) (“[T]his ‘heavy burden’ is not more than
+
+21
+
+the burden to establish waiver by a preponderance of the evidence.”). The validity of a
+
+22
+
+waiver depends upon the particular facts and circumstances of the case, including the
+
+23
+
+background, experience and conduct of the defendant. See Edwards v. Arizona, 451 U.S.
+
+24
+
+477, 482 (1981). “Several factors to consider are (i) defendant’s mental capacity; (ii)
+
+25
+
+whether the defendant signed a written waiver; (iii) whether the defendant was advised in
+
+26
+
+his native tongue or had a translator; (iv) whether the defendant appeared to understand his
+
+27
+
+rights; (v) whether the defendant’s rights were individually and repeatedly explained to
+
+28
+4
+20cr56 WQH
+
+ Case 3:20-cr-00056-WQH Document 67 Filed 11/19/20 PageID.223 Page 5 of 6
+
+1
+
+him; and (vi) whether the defendant had prior experience with the criminal justice system.”
+
+2
+
+United States v. Crews, 502 F.3d 1130, 1140 (9th Cir. 2007).
+
+3
+
+In this case, the officer informed the Defendant that “we’re conducting an
+
+4
+
+investigation . . . about your application for admission to the United States to-day. So, the
+
+5
+
+government is charging you with 8 U.S.C. 1324 which is alien smuggling. Before I ask you
+
+6
+
+any questions, I need to read you your rights and I need to make sure you understand your
+
+7
+
+rights, ok? I’m gonna read one by one. You have the right to remain silent. Do you
+
+8
+
+understand?” Defendant responded “Mm-hmm.” The officer stated “Anything you say
+
+9
+
+can be used against you in court or in any immigration or administrative proceeding.”
+
+10
+
+Defendant responded “Mm-hmm.” (ECF No. 42-1 at 7-8). The officer clearly informed
+
+11
+
+the Defendant that the “government is charging you with 8 U.S.C. 1324 which is alien
+
+12
+
+smuggling” and that “Anything you say can be used against you in court.” The warnings
+
+13
+
+conveyed clearly that Defendant was being charged with a criminal offense and that his
+
+14
+
+statements could be used against him in court. These warnings were “clear and not
+
+15
+
+susceptible to equivocation.” San Juan-Cruz, 314 F.3d at 387.
+
+16
+
+The officer informed Defendant of his “right to talk to a lawyer for advice before we
+
+17
+
+ask you any questions and to have him with you during questioning” and “If you decide to
+
+18
+
+answer questions now, without a lawyer present, you will still have the right to stop
+
+19
+
+answering at any time.” Defendant indicated that he understood and the officer continued,
+
+20
+
+“And you also have the right to stop answering at any time, until you talk to a lawyer.”
+
+21
+
+(ECF No. 42-1). The officer clearly informed Defendant that he had a right to talk to a
+
+22
+
+lawyer before any questioning and that he had the right to stop answering any time and talk
+
+23
+
+to a lawyer. Defendant answered each question asked during the interview and did not
+
+24
+
+indicate any intention to terminate the interview or to seek the advice of counsel.
+
+25
+
+The video and the transcript show that the officer informed Defendant individually
+
+26
+
+of each of his Miranda rights. Defendant individually acknowledged each right. Defendant
+
+27
+
+read the acknowledgement of his rights aloud and signed the acknowledgement. Defendant
+
+28
+
+read the written waiver aloud, signed a written waiver, and answered the questions.
+5
+20cr56 WQH
+
+ Case 3:20-cr-00056-WQH Document 67 Filed 11/19/20 PageID.224 Page 6 of 6
+
+1
+
+Defendant stated that English was his native language and all aspects of the interview were
+
+2
+
+in the English language. Defendant was articulate and composed at all times. Defendant
+
+3
+
+clearly stated that he was willing to speak with the officer.
+
+4
+
+Based upon the record, and considering the totality of the circumstances, the Court
+
+5
+
+concludes that the Miranda warnings were adequate and that Government has carried its
+
+6
+
+burden to establish by a preponderance of the evidence that Defendant was fully informed
+
+7
+
+of his Miranda rights, that Defendant acknowledged that he understood his rights, and that
+
+8
+
+Defendant voluntarily, knowingly, and intelligently waived his rights prior to questioning.
+
+9
+
+IT IS HEREBY ORDERED that the motion to suppress statements (ECF No. 42) is
+
+10
+11
+
+denied.
+Dated: November 19, 2020
+
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+6
+20cr56 WQH
+
+ 

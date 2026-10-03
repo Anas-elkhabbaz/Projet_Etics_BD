@@ -1,0 +1,3051 @@
+Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.731 Page 1 of 30
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF CALIFORNIA
+
+10
+11
+
+UNITED STATES OF AMERICA,
+Plaintiff,
+
+12
+13
+
+Case No.: 3:18-cr-02611-GPC
+ORDER GRANTING IN PART AND
+DENYING IN PART DEFENDANT’S
+MOTION TO SUPPRESS
+STATEMENTS
+
+vs.
+
+14
+15
+16
+
+AARON A. BOOKER,
+[ECF No. 27.]
+
+Defendant.
+
+17
+18
+19
+20
+
+Miranda v. Arizona, 384 U.S. 436 (1965), established a prophylactic rule in support
+of the Fifth Amendment requiring investigators to inform a suspect of his right to an
+attorney and right to remain silent before custodial interrogation. Unless these Miranda
+
+21
+
+rights are waived, law enforcement officers are not allowed to interrogate the suspect about
+
+22
+
+a crime. Violations of this rule result in the suppression of statements taken in violation of
+
+23
+
+Miranda in the Government’s case in chief. Except where the statements are involuntary,
+
+24
+
+they may be used for impeachment if a defendant testifies. See Pollard v. Galaza, 290 F.3d
+
+25
+
+1030, 1033 (9th Cir. 2002) (“Although a statement, taken in violation of Miranda, may not
+
+26
+
+be used substantively in the prosecution’s case-in-chief, such a statement, if voluntary, may
+
+27
+
+be used for impeachment should the Defendant testify inconsistently.”); see also Harris v.
+
+28
+
+New York, 401 U.S. 222, 224 (1971).
+1
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.732 Page 2 of 30
+
+1
+
+Defendant Aaron A. Booker (“Defendant”) has moved to suppress statements made
+
+2
+
+to Naval Criminal Investigative Service (“NCIS”) agents on March 13, 2017, May 25, 2017
+
+3
+
+and May 26, 2017, alleging that each statement was obtained in violation of his Fifth and
+
+4
+
+Sixth Amendment rights. (ECF No. 27-17 at 9.)
+
+5
+
+In its response to the motion, the Government argued that although none of the
+
+6
+
+statements were custodial (and therefore, subject to Miranda), it would not offer, in its
+
+7
+
+case-in-chief, any post-Miranda statements on March 13, 2017 and May 25, 2017. (ECF
+
+8
+
+No. 31 at 9, ECF No. 60 at 1-2.) Instead, it reserves the right to use these two sets of
+
+9
+
+statements as impeachment should Mr. Booker testify at trial. (Id. at 2.) With respect to
+
+10
+
+the May 26, 2016 telephone call initiated by Mr. Booker to NCIS Agent Joseph Warpinski,
+
+11
+
+Defendant claims that the statement was the fruit of an earlier Miranda violation and is
+
+12
+
+tainted by high pressure tactics employed during the May 25, 2017 custodial interrogation.
+
+13
+
+The Government opposes and asserts that Mr. Booker’s telephone call and statements are
+
+14
+
+untainted by any alleged Miranda violations or government conduct.
+
+15
+
+Based on the pleadings, evidence submitted at the evidentiary hearing and arguments
+
+16
+
+of counsel, the motion to suppress statements is determined to be MOOT in part, is
+
+17
+
+GRANTED in part and DENIED in part.
+
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+I.
+
+PROCEDURAL HISTORY
+
+On May 23, 2018, a federal grand jury returned an indictment charging Mr. Booker
+with the Possession of Stolen Explosives, to wit, twenty MK3A2 grenades, also known as
+G911 grenades, in violation of 18 U.S.C. §§ 842(h), 844(a)(1). (ECF No. 15.)
+On October 2, 2018, Mr. Booker filed the instant Motion to Suppress Statements.
+(ECF No. 27.) The Government filed its original response and opposition on October 19,
+2018. (ECF No. 31.) An evidentiary hearing was held on January 15, 2019. Supplemental
+briefing was requested by the Court and has been filed by the parties. (ECF Nos. 42, 54,
+60, 63, 67.)
+II. FACTUAL BACKGROUND
+A. Theft of 20 Grenades
+
+28
+2
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.733 Page 3 of 30
+
+1
+
+According to the Government, on January 20, 2016, the USS Pinckney, a U.S. Navy
+
+2
+
+destroyer, received 60 MK3A2 concussion hand grenades packaged and sealed in three
+
+3
+
+wooden crates with 20 grenades per crate. The grenades were stored inside of Ready
+
+4
+
+Service Locker-6 (“RSL”), and secured with a heavy duty, military issued key lock
+
+5
+
+accessible only to the Gunner’s Mates (“GM”) on duty.
+
+6
+
+On August 26, 2016, there was a full inventory of explosives onboard the USS
+
+7
+
+Pinckney which accounted for all 60 grenades. On February 8, 2017, another routine
+
+8
+
+inventory was conducted when it was discovered that one of the crates had a missing seal
+
+9
+
+and all 20 MK3A2 grenades were missing. Since access to RSL-6 was limited, NCIS
+
+10
+
+interviewed 15 sailors who had access to RSL-6 between August 26, 2016 and February 9,
+
+11
+
+2017. At the time the grenades were discovered missing, Mr. Booker, a GM, was in the
+
+12
+
+process of transferring to his new command in Great Lakes, Illinois. He, reportedly, was
+
+13
+
+the sole person assigned to complete temperature checks for RSL-6 on a number of days
+
+14
+
+during his time on the USS Pinckney from November 2016 and January 8, 2017. Mr.
+
+15
+
+Booker officially detached from the command on February 14, 2017 and on March 6, 2017,
+
+16
+
+he checked into his new command in Great Lakes, Illinois.
+
+17
+
+B. March 13, 2017 Interview
+
+18
+
+On March 13, 2017, NCIS Special Agents Tom Donnelly and Warpinski contacted
+
+19
+20
+21
+22
+23
+24
+25
+26
+
+Mr. Booker’s commanding officer at Great Lakes, Illinois to arrange for a command
+representative to pull Mr. Booker out of training to meet with the agents for questioning.
+(ECF. No. 52 at 45-46; Booker Declaration, ECF No. 42-1 at 1.) Mr. Booker understood
+that he was being ordered to submit to the interview. (Id.) The interview took place at the
+NCIS offices located on the second floor of the legal building, which are access controlled
+for entry only. (ECF. No. 52 at 45.) The main entrance door opens into a lobby area where
+there are three interview rooms. SA Warpinski testified that the doors to those interview
+rooms are unlocked. (Id.) Mr. Booker was interviewed in one of the interview rooms.
+According to SA Warpinski, Mr. Booker was free to walk out of that room and out the
+
+27
+28
+3
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.734 Page 4 of 30
+
+1
+
+main lobby door without assistance from an agent. However, Mr. Booker was never
+
+2
+
+informed that he was free to go at any time.
+
+3
+
+Mr. Booker has offered a declaration from a former NCIS agent, Anthony Perrin,
+
+4
+
+that asserts that when the military tells a member to report to NCIS, this directive is
+
+5
+
+considered a lawful order and a refusal to report can be charged as a “minor offense” for
+
+6
+
+failure to follow orders. (Perrin Declaration, ECF 42-2.) Further, Mr. Perrin declared that,
+
+7
+
+while it was presented as a request, the military imposes adverse consequences on
+
+8
+
+individuals who elect not to cooperate. Meanwhile, SA Warpinski testified that, in his
+
+9
+
+experience, he was unaware of individuals who refused to submit to an interview being
+
+10
+
+charged or punished.
+
+11
+
+The interview of Mr. Booker was recorded. (ECF No. 40, Exh. 1A.) SA Donnelly
+
+12
+
+read Mr. Booker his Article 31(b) rights, the equivalent of Miranda warnings, which is
+
+13
+
+required whenever a military member is interviewed about potential incriminating
+
+14
+
+evidence regardless of the setting or circumstances.1 After reading his rights, the agent
+
+15
+
+asked if he wanted to talk to them. Mr. Booker stated, “I don’t mind. . . I just don’t want to
+
+16
+
+get involved, that’s all. Sure I will talk to you. But I can terminate at any time, right?” Mr.
+
+17
+
+Booker agreed to speak with the agents without an attorney present. (Ex. 1A at 10:37-
+
+18
+
+10:39.)
+Approximately one hour into the interview, the agents told Mr. Booker that they had
+
+19
+20
+21
+22
+23
+
+seized evidence, sent it to the lab and had it processed, and the evidence (including
+fingerprint and DNA evidence) implicated Mr. Booker. (Id. at 11:28.) The agents then
+informed Mr. Booker that they did not believe he was being honest and they “know you
+did it.” (Id.) Mr. Booker replied, “That’s why I want to stop this right now because this is
+
+24
+25
+26
+27
+28
+
+Mr. Booker states in his pleadings that the “Military Article 31 rights are the standard Miranda
+warnings.” (ECF No. 27-1, at 4.) This equivalency finds support in caselaw. Brosius v. Warden, U.S.
+Penitentiary, Lewisburg, PA, 278 F.3d 239, 245 (3d Cir. 2002) (Article 31(b) of the Uniform Code of
+Military Justice, 10 U.S.C § 831(b) “differs from Miranda in that it requires warnings whenever a
+service member is ‘suspected of an offense’ and is being interrogated. It may thus apply in situations in
+which a service member is not in ‘custody’.”)
+1
+
+4
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.735 Page 5 of 30
+
+1
+
+kind of overbroad.” When an agent asked: “You don’t want to talk to us anymore?”
+
+2
+
+Booker replied “no.” The agents left the room and returned after 15 minutes. Agent
+
+3
+
+Donnelly then made a number of accusatory statements that led Mr. Booker to briefly
+
+4
+
+discuss the evidence, dangers of the grenades, and a polygraph. (Id. at 11:27–11:33.)
+
+5
+
+Around time 11:33:40 on the video recording, Mr. Booker stated that he did not want to
+
+6
+
+speak with the agents anymore.
+
+7
+
+Afterwards, the agents left the room and returned approximately 15 minutes later,
+
+8
+
+explaining that they were waiting for a driver to transport Mr. Booker back to his post. For
+
+9
+
+the next 24 minutes, the agents confronted Mr. Booker and pressed him to make a statement
+
+10
+
+by letting Mr. Booker know that the case involved public safety, the severe consequences
+
+11
+
+if someone ended up hurt by one of the grenades, and the fact that the agents were not just
+
+12
+
+going to go away. Finally, the interview was concluded and the NCIS agents returned Mr.
+
+13
+
+Booker to his command.
+
+14
+
+C. Discovery of Backpack with 18 Missing Grenades
+
+15
+
+On April 20, 2017, a black backpack containing 18 MK3A2 grenades was
+
+16
+
+discovered on the side of the road on Interstate 15 near mileposts 21 and 22 in northwest
+
+17
+
+Arizona. The backpack with the 18 grenades was turned over to an Arizona Department of
+
+18
+
+Public Safety (“AZDPS”) Officer on April 20, 2017. That officer then turned the bag and
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+grenades over to the Federal Bureau of Investigation (“FBI”). The grenades had the same
+lot number as the missing grenades from the USS Pinckney. The black bag was a standard
+military style backpack with “GM2 BOOKER” handwritten on a tag inside the bag.
+D. May 25, 2017 Interview
+On May 25, 2017, Special Agents Warpinski and Bell arranged with Mr. Booker’s
+commanding officer to speak with Mr. Booker again in Great Lakes, Illinois at the legal
+building. (ECF. No. 52 at 52-53.) SA Warpinski testified at the January 15, 2019 hearing
+that Mr. Booker was notified that he needed to report to NCIS offices and a command
+representative drove Mr. Booker to the legal building. (Id. at 54.) There, the agents met
+with Mr. Booker in the same NCIS office where they had previously interviewed Mr.
+
+28
+5
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.736 Page 6 of 30
+
+1
+
+Booker. (Id.) Mr. Booker again understood that attendance at the interview had been
+
+2
+
+ordered by his commanding officer. (Booker Declaration, ECF No. 42-1 at 2.)
+
+3
+
+SA Warpinski began the interview by directing Mr. Booker not to say anything and
+
+4
+
+to listen for a little while. (ECF No. 54-1 at 1.) He proceeded to inform Mr. Booker,
+
+5
+
+among other things, that a backpack bearing his DNA was discovered near a highway in
+
+6
+
+Arizona and was found to contain 18 of the missing grenades. Agent Warpinski then
+
+7
+
+explained that the agents had an entire case against Mr. Booker and that Mr. Booker had
+
+8
+
+two options when it came to acceptance of responsibility: he could refuse to acknowledge
+
+9
+
+responsibility or he could acknowledge what happened, who was involved and account
+
+10
+
+for the last two grenades. SA Warpinski then read Mr. Booker his Article 31(b) rights,
+
+11
+
+and Mr. Booker requested legal counsel.
+
+12
+
+The agents left the room at approximately 8:57 on the video recording, and when
+
+13
+
+they returned nine minutes later, they informed Mr. Booker that they were preparing to
+
+14
+
+execute search warrants as follows:
+9:06:38 [Agents return.]
+
+15
+16
+17
+18
+19
+20
+21
+
+SA Warpinski: All right man, um, I got some questions for you that are not related
+to the case that are safety questions. Um, we are, we have a series of search
+warrants that we are about to go execute um we have one for your car, we have one
+for your house. Um, and I want to know, I mean there’s two ways we can do these
+things, we can breakdown your door, which I know you don’t want us to do
+because you don’t want to pay for it. Um, if you want to tell us where your keys
+are, give is (sic) your keys, so we can just open your door, um same things goes for
+your car.
+A. Booker: Can I be present when you do
+
+22
+
+this?
+
+23
+
+SA Warpinski: Uh you can.
+
+24
+
+SA Bell: We will take you with you, (sic) you are not going to be in the house or
+in, you can be outside the residence in the car with me or something. You are not
+going to be in there.
+
+25
+26
+27
+28
+
+A. Booker: Do you have to?
+SA Bell: Oh, we are doing it dude, I don’t, I don’t, yeah, I don’t know you
+listened to Joe in the beginning, but this is big time.
+6
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.737 Page 7 of 30
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+A. Booker: Oh yeah, I see.
+SA Bell: This is joint terrorism FBI stuff, right.
+A. Booker: No, no, no I was willing to . . . I am still willing to cooperate
+(unintelligible –
+SA Bell talking over Booker).
+SA Bell: So, so I hope you understand it now it’s, it’s gone a little bit beyond the
+military right. These aren’t military warrants; these are Federal search warrants.
+Mr. Booker stated that he believed that the agents had engaged in good cop/bad
+
+9
+
+cop and that ultimately he wanted the agents to see that there was no evidence of any
+
+10
+
+crime at his home or his car. This remark prompted the following exchange:
+SA Bell: I know you have never met me, but I want you to, because you never
+met me, I want you to know me. I don’t bullshit dude; I got no issues; I got
+nothing to do with that, right. The good cop/bad cop thing is not a real thing.
+What today was, you know why we came back today really right?
+
+11
+12
+13
+14
+
+A. Booker: Because of the pictures and stuff.
+
+16
+
+SA Bell: No, well okay. That was part of it, we didn’t have to come back today.
+We did that right. Joe is completely 100% truthful with you; the evidence speaks
+for itself.
+
+17
+
+A. Booker: Uh huh.
+
+18
+
+SA Bell: Today was an opportunity for you just to talk and tell us your
+story.
+
+15
+
+19
+20
+21
+
+A. Booker: Yeah.
+SA Bell: So we could go back and do good work, write good reports, talk to the
+right people and tell them exactly what you told us.
+
+22
+23
+
+At this point, Mr. Booker spoke about his backpack and explained why he would
+
+24
+
+not be involved with stealing the grenades. The agents responded that they could not
+
+25
+
+speak with him since he invoked his right to counsel, and they could not consider
+
+26
+
+anything he said without a waiver of his rights. At 9:11 in the interview, Mr. Booker
+
+27
+
+stated that he wanted to talk about “my history of leaving stuff behind.” At this point, he
+
+28
+
+advised the agents that he is on anxiety medication and would need to take it in a half
+7
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.738 Page 8 of 30
+
+1
+
+hour. The NCIS agent then reviewed Mr. Booker’s Article 31(b) rights with him again
+
+2
+
+and Mr. Booker waived his Article 31(b) rights and spoke to the agents. After his waiver,
+
+3
+
+Mr. Booker confirmed ownership of the backpack and acknowledged he traveled along
+
+4
+
+the remote section of Interstate-15 where the grenades were located. He stated the
+
+5
+
+backpack was stolen from him approximately one year earlier after he left it in the
+
+6
+
+armory of USS Pinckney, which upset him because it contained a GM Pin on the front
+
+7
+
+that is extremely difficult to find. He stated that he had seen the grenades outside of their
+
+8
+
+packing crates and received training on their use.
+
+9
+
+At the end of the interview, Mr. Booker requested to be present at the search of his
+
+10
+
+vehicle and his residence. Thereafter, Mr. Booker was handcuffed and advised that he
+
+11
+
+was a suspect in an investigation for the theft of 20 MK#A2 grenades. (ECF 54-1, p. 56.)
+
+12
+
+Afterwards, Mr. Booker rode with the agents to his command to pick up his keys for his
+
+13
+
+residence, and then they drove to his home.
+
+14
+
+After arriving at his home, Mr. Booker was unhandcuffed throughout the execution
+
+15
+
+of the search warrant at Mr. Booker’s home and re-handcuffed when he was transported
+
+16
+
+back to the base at the conclusion of the search at approximately 5:30 p.m. that afternoon.
+
+17
+
+(ECF No. 52 at 30-31.) During the search, the GM pin that Mr. Booker claimed was on
+
+18
+
+his backpack when it was stolen was found in his residence. He acknowledged it was the
+
+19
+
+same pin, and he could not provide a reason why he still had the pin if it was stolen with
+
+20
+
+the backpack. After the home search, the agents and Mr. Booker returned to the Naval
+
+21
+
+Base to complete the search of his vehicle in Mr. Booker’s presence. Thereafter, Mr.
+
+22
+
+Booker was fingerprinted at the NCIS Offices and then given a ride to his command by a
+
+23
+
+command representative. Mr. Booker was not arrested or further detained.
+
+24
+25
+
+B. May 26, 2017 Telephone Call
+On May 26, 2017 at approximately 1:11 p.m. (PDT), shortly after returning to San
+
+26
+
+Diego from Illinois, the SA Warpinski received a telephone call from Mr. Booker, who
+
+27
+
+told the agent that he had called several people in San Diego about the grenades. (Id. at
+
+28
+
+64: ECF No. 40, Ex. A-3.) Mr. Booker advised that NCIS should look in Tijuana,
+8
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.739 Page 9 of 30
+
+1
+
+Mexico for the last two grenades. He claimed his former motorcycle club was associated
+
+2
+
+with two individuals in San Diego who had connections to the “cartel,” and the grenades
+
+3
+
+were stolen at the request of the cartel. He continued to deny he stole the grenades but
+
+4
+
+admitted he “went into the box” to confirm the grenades were present.
+
+5
+
+III.
+
+6
+
+Mr. Booker has moved to suppress his March 13 and May 25, 2017 statements (the
+
+DISCUSSION
+
+7
+
+“Great Lakes interviews”), arguing that the statements were custodial, involuntary and
+
+8
+
+obtained in violation of Miranda v. Arizona, 384 U.S. 436 (1966). Meanwhile, Mr.
+
+9
+
+Booker has moved to suppress the subsequent May 26th telephonic statements as fruit of
+
+10
+
+illegal conduct, and tainted by high pressure tactics employed during the May 25, 2017
+
+11
+
+interrogation. (ECF No. 27-1 at 10-12.)
+
+12
+
+The Government has indicated it will not offer any March 13th statements made
+
+13
+
+after Mr. Booker asked the agent to stop the interview. (ECF No. 31 at 9.) Thus, the
+
+14
+
+only live question as to that interview is whether Mr. Booker’s pre-invocation statements
+
+15
+
+on that day are admissible. The answer turns on whether the interview was custodial,
+
+16
+
+whether Mr. Booker waived his Miranda rights, and whether his statements were
+
+17
+
+voluntary.
+
+18
+
+As to the May 25th statement, the Government advised that it does not intend to
+
+19
+
+offer the statement in its case in chief but reserves the right—in the event that Mr. Booker
+
+20
+
+elects to testify—to use the statements for impeachment during cross-examination. (ECF
+
+21
+
+No. 60 at 1-2.) Accordingly, it is unnecessary to conduct a Miranda inquiry for this
+
+22
+
+statement and, instead, the Court will only determine whether these statements were
+
+23
+
+voluntary.
+
+24
+
+Finally, the Government opposes the factual and legal basis for the motion to
+
+25
+
+suppress the May 26th telephone call statements as the fruit of illegal conduct or the
+
+26
+
+tactics employed at the May 25th interview.
+
+27
+28
+9
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.740 Page 10 of 30
+
+1
+
+A. WHETHER THE MARCH 13TH STATEMENTS WERE MADE IN
+
+2
+
+CUSTODY, OBTAINED IN COMPLIANCE WITH MIRANDA, AND
+
+3
+
+VOLUNTARY
+
+4
+
+1. Custody
+
+5
+
+The Government argues that Miranda does not apply to any statements obtained
+
+6
+
+during the March 13th interview because the statements were not the result of custodial
+
+7
+
+interrogation. Mr. Booker counters that these interviews were sufficiently coercive to
+
+8
+
+qualify as custodial interrogation. The Court agrees.
+
+9
+
+“An officer’s obligation to administer Miranda warnings attaches . . . ‘only where
+
+10
+
+there has been such a restriction on a person’s freedom as to render him “in custody.”’”
+
+11
+
+Stansbury v. California, 511 U.S. 318, 322 (1994) (per curiam) (quoting Oregon v.
+
+12
+
+Mathiason, 429 U.S. 492, 495 (1977) (per curiam)). Whether a suspect is in custody turns
+
+13
+
+on whether there is a “‘formal arrest or restraint on freedom of movement’ of the degree
+
+14
+
+associated with a formal arrest.” California v. Beheler, 463 U.S. 1121, 1125 (1983) (per
+
+15
+
+curiam) (quoting Mathiason, 429 U.S. at 495).
+
+16
+
+This inquiry requires a court to examine the totality of the circumstances from the
+
+17
+
+perspective of a reasonable person in the suspect’s position, see Berkemer v. McCarty, 468
+
+18
+
+U.S. 420, 442 (1984), and focuses on the objective circumstances of the interrogation, not
+
+19
+20
+21
+22
+23
+24
+25
+26
+
+the subjective views of the officers or the individual being questioned, Stansbury, 511 U.S.
+at 323. The court evaluates whether “the officers established a setting from which a
+reasonable person would believe that he or she was not free to leave.” United States v.
+Beraun–Panez, 812 F.2d 578, 580 (9th Cir. 1987), modified by 830 F.2d 127 (9th Cir.
+1987). In its evaluation, the Court considers five non-exhaustive factors: “(1) the language
+used to summon the individual; (2) the extent to which the defendant is confronted with
+evidence of guilt; (3) the physical surroundings of the interrogation; (4) the duration of the
+detention; and (5) the degree of pressure applied to detain the individual.” United States v.
+Kim, 292 F.3d 969, 974 (9th Cir. 2002).
+
+27
+28
+10
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.741 Page 11 of 30
+
+1
+
+Here, Mr. Booker was summoned on March 13, 2017 by his commanding officer to
+
+2
+
+meet with the investigating agents for interviews. Mr. Booker asserts that he considered
+
+3
+
+the instruction to report for interviews as an order. (Booker Declaration, ECF No. 42-1 at
+
+4
+
+1.) In addition, Mr. Booker has submitted a declaration from a former NCIS agent that
+
+5
+
+asserts that when the military tells a member to report to NCIS, this directive is considered
+
+6
+
+a lawful order: a refusal to report can be charged as a “minor offense” for failure to follow
+
+7
+
+orders and result in adverse consequences. (Perrin Declaration, ECF No. 42-2.) SA
+
+8
+
+Warpinski acknowledged the effect of being a military officer reporting for an interview
+
+9
+
+when he preceded the Military Article 31 rights by explaining that “it’s a little different in
+
+10
+
+the military because we have to worry about command influence” “so we’re going to read
+
+11
+
+you your Article 31 rights.” The Court finds that Mr. Booker, as a military officer, could
+
+12
+
+have faced possible consequences if he elected not to meet with the NCIS agents.
+
+13
+
+In addition, Mr. Booker was placed in a NCIS closed interview room and never told
+
+14
+
+he could leave whenever he wished. At no point did Mr. Booker even go to the restroom
+
+15
+
+during the interview.2 The interview lasted more than an hour and Mr. Booker was
+
+16
+
+confronted with accusations regarding his role in the theft of 20 grenades.
+
+17
+
+The Government argues that Mr. Booker was not restrained because he was free to
+
+18
+
+leave. In Mathiason, defendant was questioned in a closed room in the office of a law
+
+19
+20
+21
+22
+23
+24
+25
+
+enforcement agency. See 429 U.S. at 493–94. Although taking place in an admittedly
+“coercive environment,” the questioning, there, was found not to amount to custodial
+interrogation because the defendant had been told that he was not under arrest and that he
+was free to leave, and thereafter he left without hindrance. See id. at 494–95.
+Similar to Mathiason, in United States v. Crawford, 372 F.3d 1048, 1060 (9th Cir.
+2004) (en banc), the Ninth Circuit observed that “[b]eing aware of the freedom to depart,
+and in fact departing after questioning at a law enforcement office, suggest that the
+questioning was noncustodial.” In Crawford, the defendant’s home was subjected to a
+
+26
+27
+2
+
+28
+
+On March 13, 2017, prior to being confronted with assertions that the agents knew that he had
+committed the crime, Mr. Booker was asked if he wished to use the restroom. (Ex. 1A at 11:18.)
+11
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.742 Page 12 of 30
+
+1
+
+parole search and, thereafter, an FBI agent asked defendant whether he, the defendant,
+
+2
+
+would voluntarily travel to the FBI offices for an interview. At the FBI offices, Crawford
+
+3
+
+was told that he was not under arrest and that he was free to go. The defendant was,
+
+4
+
+moreover and in fact, returned home at the end of the interview, without being arrested.
+
+5
+
+The Ninth Circuit concluded that Crawford’s interview at the FBI offices was noncustodial
+
+6
+
+because Crawford had been aware of the freedom to depart and had departed after
+
+7
+
+questioning at the law enforcement office.
+
+8
+
+In this case, Mr. Booker was summoned to meet with the agents for an interview.
+
+9
+
+Because of the “worry about command influence,” SA Warpinski provided Mr. Booker his
+
+10
+
+Article 31 rights at the beginning of the interview. Mr. Booker was not made aware that
+
+11
+
+he could leave at any time and never left the interview room throughout the two interviews.
+
+12
+
+During the interviews, Mr. Booker was confronted with proof of his guilt, some parts which
+
+13
+
+were true and others that were not. The totality of the circumstances supports the
+
+14
+
+conclusion that Mr. Booker was in custody and entitled to Miranda protections at the
+
+15
+
+March 13, 2017 interviews.
+
+16
+
+Having concluded that Mr. Booker was in custody on March 13, 2017, he was
+
+17
+
+entitled to all of Miranda’s protections. Any statements made by Mr. Booker prior to being
+
+18
+
+read his Miranda rights may not be used by the Government in its case in chief; the motion
+
+19
+20
+21
+22
+23
+24
+25
+26
+
+to suppress is granted in part in this regard.
+2. Admissibility of Statements made after Miranda warnings
+What then, of the statements made by Mr. Booker after the NCIS agents read him
+Article 31(b) rights? Mr. Booker argues that the Government failed to prove that he
+knowingly and voluntarily waived his rights, as required by Miranda, such that the
+remainder of the interview is inadmissible for any purpose. In addition, Mr. Booker claims
+that a later statement to stop the interview was a clear re-invocation of Miranda, which the
+Government ignored, and which informed Mr. Booker’s belief on May 25 th and May 26th
+that the agents would simply run roughshod over any assertions of his rights.
+
+27
+28
+12
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.743 Page 13 of 30
+
+1
+
+The Government, on the other hand, asserts that Mr. Booker clearly waived his
+
+2
+
+Miranda rights and did not make equivocal statements requiring further clarifying
+
+3
+
+questions from the agents. Nonetheless, the Government has agreed that it will not
+
+4
+
+introduce any post-invocation statements in its case-in-chief, (ECF No. 31, at 9), but
+
+5
+
+maintains such statements may be invoked in cross-examination for impeachment purposes
+
+6
+
+because they were given voluntarily under traditional due process standards. (ECF No. 60,
+
+7
+
+at 2, n.1.)
+
+8
+9
+
+The parties’ contentions about waiver, invocation, and voluntariness with respect to
+statements made after the agents’ recitation of Miranda rights are addressed in turn.
+a. A Knowing and Voluntary Waiver
+
+10
+11
+
+Under Miranda, before the police can interrogate a person who is in custody, the
+
+12
+
+person must be told that they have the right to remain silent, that anything they say can be
+
+13
+
+used against them, that they have the right to the presence of an attorney, and that if they
+
+14
+
+are indigent, they are entitled to an appointed attorney. 384 U.S. at 479. Mr. Booker alleges
+
+15
+
+that the Government has failed to prove that he knowingly and voluntarily waived his rights
+
+16
+
+because the Government repeatedly diluted the import of the warnings by engaging in
+
+17
+
+deceptive conduct.
+
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+The Court finds Mr. Booker understood the March 13th warnings and that his waiver
+was made knowingly and voluntarily. Prior to receiving his rights, Mr. Booker was asked
+if he had any idea why he was asked to talk to the agents. (Ex. 1A at 10:35.) Mr. Booker
+replied that he heard from others that grenades were discovered missing. After he was
+given Miranda warnings, Mr. Booker was asked “Do you wanna talk to us?” Mr. Booker
+replied “I don’t mind” but “I just don’t want to get involved … sure I’ll talk to you but I
+can terminate at any time, right?” to which the agents told him that he can terminate. (Id.
+at 10:37.) After signing the Miranda waiver form, Mr. Booker stated that “I want to help
+but I don’t want to get anyone in trouble.” (Id. at 10:39.)
+The record reveals that Mr. Booker understood his rights, including his right to
+terminate the interview, and that his primary concern was not getting others in trouble. His
+
+28
+13
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.744 Page 14 of 30
+
+1
+
+understanding is further evidenced by his invocation of his rights after the agents informed
+
+2
+
+him that they knew that Mr. Booker “did it” and knew where the grenades were. Further,
+
+3
+
+Mr. Booker’s statements that he “don’t want to get involved,” an ambiguous invocation;
+
+4
+
+viewed in context of his willingness to talk with the agents, and his statements that he
+
+5
+
+“wanted to help,” the Court does not find that there was an equivocal assertion of rights
+
+6
+
+triggering the duty of the agents to cease all questions but those aimed at clarifying the
+
+7
+
+ambiguity. United States v. Rodriguez, 518 F.3d 1072, 1077–78 (9th Cir. 2008). None of
+
+8
+
+Mr. Booker’s statements would have led a reasonable police officer to understand that Mr.
+
+9
+
+Booker was invoking his right to silence or requesting an attorney.
+Mr. Booker knowingly and intelligently waived his Miranda rights on March 13,
+
+10
+11
+12
+13
+
+2017.
+b. The Invocation of Miranda Rights and Re-initiation of
+Interrogation
+
+14
+
+The next question—whether Miranda was violated as a result of the agents
+
+15
+
+overcoming Mr. Booker’s subsequent invocation—is moot given the government’s
+
+16
+
+agreement not to introduce any post-invocation statements in its case in chief. However,
+
+17
+
+the Court engages in the analysis because Mr. Booker cites the agents’ post-invocation
+
+18
+
+conduct as being part of a pattern of ignoring his Miranda rights which ultimately affected
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+his perception of the agents during his May 25, 2017 interview, and his decision to call SA
+Warpinski on May 26, 2017.
+Law enforcement must immediately cease interrogating a suspect if, “in any manner,
+at any time prior to or during questioning,” the suspect invokes the right to remain silent
+or the right to an attorney. Miranda, 384 U.S. at 473–74. As established supra, Mr. Booker
+initially waived his rights after being given his Miranda rights. However, after being
+accused of being involved in the theft, he invoked his Miranda rights stating “I wanna stop
+this interview right now cause . . . .” In response, one of the interviewing agents continued:
+“you don’t want to help yourself out?” In spite of the invocation, the agents continued to
+confront Mr. Booker, which eventually led Mr. Booker to make additional statements. (Ex.
+
+28
+14
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.745 Page 15 of 30
+
+1
+
+1A at 11:31-1112:14.) The sequence of events appears to present a Miranda violation as
+
+2
+
+to Mr. Booker’s post-invocation statements, but because the government has agreed not to
+
+3
+
+use any such statements in its case in chief, the Court will not reach the issue.
+
+4
+5
+
+c. Whether the post-invocation March 13, 2017 Statements
+Were Voluntary
+
+6
+
+The final issue is whether, notwithstanding any potential non-compliance with
+
+7
+
+Miranda, the post-invocation statements at issue were obtained in satisfaction of Due
+
+8
+
+Process. A defendant’s voluntary statements—even if obtained in violation of Miranda—
+
+9
+
+are admissible as impeachment evidence. See Oregon v. Elstad, 470 U.S. 298, 307, (1985)
+
+10
+
+(“[T]he Miranda presumption, though irrebuttable for purposes of the prosecution's case
+
+11
+
+in chief, does not require that the statements and their fruits be discarded as inherently
+
+12
+
+tainted. Despite the fact that patently voluntary statements taken in violation of Miranda
+
+13
+
+must be excluded from the prosecution’s case, the presumption of coercion does not bar
+
+14
+
+their use for impeachment purposes on cross-examination.”). “Where an unwarned
+
+15
+
+statement is preserved for use in situations that fall outside the sweep of the Miranda
+
+16
+
+presumption, the primary criterion of admissibility remains the ‘old’ due process
+
+17
+
+voluntariness test. Id. at 307–09 (citation, internal quotation marks, and brackets omitted).
+
+18
+
+The Court assesses the voluntariness of an admission under the “‘totality of all the
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+circumstances—both the characteristics of the accused and the details of the
+interrogation.’” Mickey v. Ayers, 606 F.3d 1223, 1233 (9th Cir. 2010) (quoting Dickerson
+v. United States, 530 U.S. 428, 434 (2000)). In determining whether a statement is
+“voluntarily made . . . the finder of fact must examine the surrounding circumstances and
+the entire course of police conduct with respect to the suspect in evaluating the
+voluntariness of his statements.” Oregon v. Elstad, 470 U.S. 298, 318 (1985).
+Additionally relevant is Section 3501(b) of 18 U.S.C., which provides five factors
+courts must review to determine whether a statement is voluntarily made. These factors
+include: (1) the time elapsing between arrest and arraignment of the defendant; (2) whether
+the defendant knew the nature of the offense with which she was charged at the time of
+
+28
+15
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.746 Page 16 of 30
+
+1
+
+making the confession; (3) whether the defendant was aware that he was not required to
+
+2
+
+make any statement and that any such statement could be used against him; (4) whether
+
+3
+
+the defendant had been advised of his right to counsel; and (5) whether counsel was present
+
+4
+
+at the time of defendant's confession. 18 U.S.C. § 3501(b); United States v. Shi, 525 F.3d
+
+5
+
+709, 730 (9th Cir.2008). No one factor is necessarily conclusive on the issue of the
+
+6
+
+voluntariness of a confession. Id.
+
+7
+
+At the time of his interview on March 13th, Mr. Booker was not under arrest, he was
+
+8
+
+aware of the nature of the offense with which he was being investigated, was provided his
+
+9
+
+Miranda rights and knew he was not required to make any statement and that any statement
+
+10
+
+could be used against him. Mr. Booker does not point to police deception that prompted
+
+11
+
+any of his statements. Nor are there facts offered relating to Mr. Booker’s mental condition
+
+12
+
+that would have rendered any statements involuntary. The facts supporting Mr. Booker’s
+
+13
+
+position are that he was in custody, counsel was not present and that the agents continued
+
+14
+
+to confront Mr. Booker for approximately 20 minutes after he invoked his Miranda rights.
+
+15
+
+The Court finds that the totality of the circumstances demonstrate that Mr. Booker’s post
+
+16
+
+invocation statements on March 13th are trustworthy, voluntary and may be used to cross-
+
+17
+
+exam Mr. Booker as impeachment.
+
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+B. WHETHER
+
+THE
+
+EDWARDS/MIRANDA,
+
+MAY
+OR
+
+25TH
+DUE
+
+STATEMENTS
+PROCESS
+
+VIOLATED
+
+VOLUNTARINESS
+
+REQUIREMENTS
+The Court next turns to the admissibility of the May 25, 2017 statements. Like the
+March 13, 2017 interview, the May 25, 2017 interview—conducted under similar
+circumstances at the same NCIS office building in Great Lakes, Illinois—was custodial in
+nature.
+1. Mr. Booker’s Edwards/Miranda claim is moot
+It is undisputed that Mr. Booker invoked his right to counsel during the May 25th
+interview. According to the Supreme Court, where, as here, a defendant invokes the right
+to counsel during a custodial interview, Miranda requires that the suspect is not subject to
+
+28
+16
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.747 Page 17 of 30
+
+1
+
+further interrogation by the authorities until counsel has been made available to him, unless
+
+2
+
+the accused himself initiates further communication, exchanges, or conversations with the
+
+3
+
+police. Edwards v. Arizona, 451 U.S. 484, 485 (1981).
+
+4
+
+Mr. Booker argues that Edwards and Miranda prohibit the introduction of his May
+
+5
+
+25, 2017 statements because he was subjected to questioning despite having never re-
+
+6
+
+initiated any communications with the agents after the initial invocation. The Government
+
+7
+
+disagrees with this characterization—insisting Mr. Booker reinitiated an exchange—but
+
+8
+
+has nonetheless agreed not to offer any of the May 25, 2017 statements in its case in chief.
+
+9
+
+In light of the Government’s position, Court sees no need to reach the
+
+10
+
+Edwards/Miranda issue. The Government’s agreement renders Mr. Booker’s
+
+11
+
+Edwards/Miranda claim moot, since the strongest remedy for a Miranda-based violation
+
+12
+
+is exclusion of the offending statements from the prosecution’s case in chief. As a result,
+
+13
+
+it is unnecessary to determine whether Mr. Booker reinitiated further communication with
+
+14
+
+the agents.
+
+15
+16
+
+2. Voluntariness of the May 25th Statement under Traditional Due
+Process Principles
+
+17
+
+This brings the Court to whether the May 25th statements were voluntary. The
+
+18
+
+implications of this inquiry are two-fold: if determined to be voluntary, the statements will
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+be admissible as impeachment on cross-examination; if they are not, the circumstances of
+their procurement will bolster Mr. Booker’s claim that his May 26th statements were tainted
+by his May 25th statements.
+To repeat the applicable legal standard: a defendant’s statements—even if obtained
+in violation of Miranda—are admissible on cross examination of a defendant as
+impeachment evidence if they are voluntary. Harris, 401 U.S. at 224 (1971) (“It does not
+follow from Miranda that evidence inadmissible against an accused in the prosecution's
+case in chief is barred for all purposes, provided of course that the trustworthiness of the
+evidence satisfies legal standards.”); see also United States v. Gomez, 725 F.3d 1121 (9th
+Cir. 2013). Caselaw recognizes the limitation on the government’s ability to impeach a
+
+28
+17
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.748 Page 18 of 30
+
+1
+
+defendant with prior inconsistent statements taken in violation of Miranda which requires
+
+2
+
+that the statement must have been voluntary. United States v. Makhlouta, 790 F.2d 1400,
+
+3
+
+1404 (9th Cir.1986).
+
+4
+
+The Court assesses the voluntariness of an admission under the “‘totality of all the
+
+5
+
+circumstances—both the characteristics of the accused and the details of the
+
+6
+
+interrogation.’” Mickey v. Ayers, 606 F.3d 1223, 1233 (9th Cir. 2010) (quoting Dickerson
+
+7
+
+v. United States, 530 U.S. 428, 434 (2000)). In determining whether a statement is
+
+8
+
+“voluntarily made . . . the finder of fact must examine the surrounding circumstances and
+
+9
+
+the entire course of police conduct with respect to the suspect in evaluating the
+
+10
+
+voluntariness of his statements.” Elstad, 470 U.S. at 318.
+
+11
+
+Mr. Booker argues that his May 25th statements were involuntary. He claims the
+
+12
+
+agents engaged in high pressure, deceptive tactics and that he was psychologically
+
+13
+
+vulnerable due to his anxiety and depression. (ECF No. 69 at 2.) The conduct relied upon
+
+14
+
+consists of the agents’ words and actions: (1) conveying sympathy, (2) engaging in
+
+15
+
+deceptive conduct, (3) using high pressure tactics, (4) playing on Mr. Booker’s emotions,
+
+16
+
+(5) exploiting his psychological condition, and (6) ignoring his invocation of Miranda
+
+17
+
+rights during the March 13th interview.
+a. Conveying Sympathy
+
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+The May 25th interview began with SA Warpinski conveying sympathy for Mr.
+Booker’s problems on the USS Pinckney and being charged with speeding and evading
+arrest. (ECF No. 54-1 at 2.) He described the charges as “bullshit” and accused
+leadership on the USS Pinckney of creating a “toxic situation” and making a mess of the
+weapons department. (Id.)
+The conduct is unremarkable alone or in concert with the other conduct.
+b. Deceptive Police Conduct
+In their presentation before Miranda warnings were administered, the agents
+truthfully revealed evidence that connected Mr. Booker to the stolen grenades. This
+evidence consisted of the following: that Mr. Booker had access to the 20 stolen
+18
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.749 Page 19 of 30
+
+1
+
+grenades while stationed on the USS Pinckney; that 18 of the missing grenades were
+
+2
+
+discovered in a backpack with Mr. Booker’s name written inside; and that the backpack
+
+3
+
+was discovered adjacent to the route that Mr. Booker took on the way from San Diego to
+
+4
+
+Great Lakes, Illinois. In addition, the agents engaged in deceptive conduct by falsely
+
+5
+
+reporting that Mr. Booker’s DNA and fingerprints were found on the grenades and bag in
+
+6
+
+which the grenades were discovered. The agents also falsely claimed that cell tower data
+
+7
+
+placed Mr. Booker in the area where the bag was found. Id. at 4. Later, Agent Bell asked
+
+8
+
+Booker what if he “were to show you a video okay of your car on the side of the road on
+
+9
+
+(sic) Arizona dropping off that bag would you be shocked?” Id. at 37. Afterwards, Agent
+
+10
+
+Bell describes the video as capturing “somebody who looks like you, somebody who
+
+11
+
+drives the same car as you, somebody who had the same license plate as you…” Id. at
+
+12
+
+39.
+
+13
+
+Interrogation of a suspect will necessarily involve some pressure because its
+
+14
+
+purpose is to elicit a confession. In fact, interrogators commonly use a laundry list of
+
+15
+
+tactics in order to obtain incriminating statements. See Richard A. Leo, Inside the
+
+16
+
+Interrogation Room, 86 J.Crim. L. & Criminology 266, 278 (1996). Cases analyzing
+
+17
+
+police deception universally observe that deception alone does not render a confession
+
+18
+
+involuntary. See Frazier v. Cupp, 394 U.S. 731, 737–39 (1969). “[A]s long as th[e]
+
+19
+
+decision is a product of the suspect's own balancing of competing considerations, the
+
+20
+
+confession is voluntary.” United States v. Miller, 984 F.2d 1028, 1031 (9th Cir. 1993)
+
+21
+
+(citation omitted); see also, Ortiz v. Uribe, 671 F.3d 863 (9th Cir. 2011); United States v.
+
+22
+
+Haak, 884 F.3d 400 (2d Cir. 2018) (a finding that police conduct is false, misleading, or
+
+23
+
+intended to trick and cajole the defendant into confessing does not necessarily render the
+
+24
+
+confession involuntary).
+
+25
+
+The law permits the police to pressure and cajole, conceal material facts, and
+
+26
+
+actively mislead interviewees. United States v. Rutledge, 900 F.2d 1127, 1130–31 (7th
+
+27
+
+Cir.1990). A confession must be excluded only “if the government feeds the defendant
+
+28
+
+false information that seriously distorts his choice, [for example] by promising him that if
+19
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.750 Page 20 of 30
+
+1
+
+he confesses he will be set free”—in other words, only if “the false statement destroyed
+
+2
+
+the information that he required for a rational choice.” Id. at 1129–30. Lies told by the
+
+3
+
+police do not necessarily make a confession involuntary; rather, this is simply one factor
+
+4
+
+to consider out of the totality of the circumstances. Frazier v. Cupp, 394 U.S. 731, 739
+
+5
+
+(1969). Ultimately, “[w]hile a lie told to the detainee about an important aspect of the
+
+6
+
+case may affect the voluntariness of the confession, the effect of the lie must be analyzed
+
+7
+
+in the context of all the circumstances of the interrogation.” Miller, 796 F.2d at 607.
+
+8
+
+Here, the agents made false claims regarding the existence of DNA, fingerprint and
+
+9
+
+video evidence. The false claims were mixed in with evidence that connected Mr.
+
+10
+
+Booker to the stolen grenades which included Mr. Booker’s access to the 20 stolen
+
+11
+
+grenades, the discovery of 18 of the missing grenades in a backpack with Mr. Booker’s
+
+12
+
+name written inside; and the discovery of the backpack in an area adjacent to the route
+
+13
+
+that Booker took on the way from San Diego to Great Lakes, Illinois. Given the
+
+14
+
+existence of evidence which connected Mr. Booker to the stolen grenades, the false
+
+15
+
+statements regarding DNA and fingerprints did not significantly distort the information
+
+16
+
+that Mr. Booker required for a rational choice. Mr. Booker’s decision to provide an
+
+17
+
+explanation for the discovery of the grenades in his backpack appears to have been a
+
+18
+
+calculated attempt to provide an innocent explanation for its discovery and evidences the
+
+19
+
+rational balancing of competing considerations.
+
+20
+
+While the false statements provided were in many ways unnecessary to impress
+
+21
+
+upon Mr. Booker that there was substantial evidence connecting him to the theft of the
+
+22
+
+grenades, the Court cannot conclude that the deceptive statements coerced his May 25,
+
+23
+
+2017 statements.
+
+24
+25
+
+c. High Pressure Tactics
+During the interview, the agents relied on tactics that are described as “high
+
+26
+
+pressure” to obtain incriminating statements. The agents described the area where the
+
+27
+
+grenades were found as “Sovereign Citizen Land” and reported that that the case was
+
+28
+
+being looked at by the FBI as a “domestic terrorism situation.” (Id. at 5.) The agent case
+20
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.751 Page 21 of 30
+
+1
+
+warned Mr. Booker, “every single time there’s an explosion in the United States do you
+
+2
+
+know the first person they are going to talk to… [] Booker.” (ECF No. 54-1 at 45.)
+
+3
+
+Agent Warpinski offered that “it doesn’t make sense for a black kid from Chicago to be
+
+4
+
+dealing with these militia groups who are mostly white supremacists.” Id. at 34.
+
+5
+
+Throughout the interview, the agents described how this was the last chance for
+
+6
+
+Mr. Booker to give his story (Id. at 45, 49, 55, 56) and that “we are the best option you
+
+7
+
+got right now.” (Id. at 52.) The agents described the strength of their case by stating that
+
+8
+
+“we have the entire case that we need” and “when it gets to sentencing and we got
+
+9
+
+enough” (Id. at 4-5) and that acceptance of responsibility is “a huge thing when it comes
+
+10
+
+to Federal cases. When it comes to sentencing considerations…” 3 (Id.)
+
+11
+
+While the agents’ statements at times bordered on hyperbolic, they truthfully
+
+12
+
+revealed that the case was made more serious because there were two missing grenades
+
+13
+
+and that the grenades that were discovered were found in an area known for domestic
+
+14
+
+terrorist organizations. Given the danger that these missing grenades posed, it was not
+
+15
+
+misleading or improper for the agents to identify the risks that the grenades created. To
+
+16
+
+be fully informed as to the possible consequences and liability that he faced, it was
+
+17
+
+appropriate to provide Mr. Booker with this additional information. Additionally,
+
+18
+
+informing Mr. Booker of the significance of acceptance of responsibility does render a
+
+19
+
+confession involuntary. See, United States v. McVicker, 979 F. Supp. 2d 1154 (D. Or.
+
+20
+
+2013) (Police deception alone does not render a confession involuntary, nor is it coercive
+
+21
+
+to recite potential penalties or sentences, including the potential penalties for lying to the
+
+22
+
+interviewer).
+
+23
+
+d. Emotional Ploys
+
+24
+
+Next, the evidence shows that the agents employed guilt and emotional pitches by
+
+25
+26
+27
+28
+
+3
+
+Com. v. Scoggins, 439 Mass. 571, 576 (2003) (statement involuntary where police first
+deceptively gave suspect impression that conviction was a certainty and subsequently led him to believe
+that a confession would help his defense or reduce his sentence).
+21
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.752 Page 22 of 30
+
+1
+
+directing Mr. Booker to think about the two missing grenades and the recent explosions
+
+2
+
+at the Ariana Grande concert. The agents told Booker that he should think about a
+
+3
+
+situation where a gangbanger breaks into his apartment, steals the grenades and “this
+
+4
+
+thing goes off”, or if Ariana Grande came into town and “an explosion goes off.” (ECF
+
+5
+
+No. 54-1 at 46.)
+
+6
+
+Later, Agent Warpinski instructed Mr. Booker to think about his grandfather who
+
+7
+
+had been a Ranger and what he would expect of him (id. at 52), and to think about all
+
+8
+
+those other people that served in your family. Booker was warned about “all these people
+
+9
+
+that are going to find out that Aaron refused to accept responsibility for this case,” (id. at
+
+10
+
+53) and that Mr. Booker had one last chance before we “talk to your dad.” (Id. at 45.)
+
+11
+
+Statements appealing for Mr. Booker to protect the public against the grenades and
+
+12
+
+using a family’s honor are insufficient to overcome his free will. United States v. Boslau,
+
+13
+
+632 F.3d 422 (8th Cir. 2011) (eliciting a confession through variety of tactics, including
+
+14
+
+claiming not to believe suspect's explanations, making false promises, playing on
+
+15
+
+suspect's emotions, using his respect for his family against him, deceiving suspect,
+
+16
+
+conveying sympathy, and even using raised voices, does not render confession
+
+17
+
+involuntary, for purposes of Miranda analysis, unless overall impact of interrogation
+
+18
+
+caused defendant's will to be overborne).
+
+19
+
+Certainly, the agent’s statements tried to reach Mr. Booker through his conscience.
+
+20
+
+The comments regarding misuse of the grenades was clearly based upon the safety
+
+21
+
+concerns that was one of the driving forces of the investigation. Isolated statements
+
+22
+
+regarding Mr. Booker’s family do not rise to the level of making Mr. Booker’s statements
+
+23
+
+involuntary.
+
+24
+25
+
+e. Psychological Condition
+Mr. Booker has also raised the effect of his anxiety and depression and that he had
+
+26
+
+last taken his medication around 22 hours before his interview. At time 9:11 in the
+
+27
+
+interview, Booker informs the agents that he takes a time released daily dosage of
+
+28
+
+medication for anxiety and explains that the meeting with the agents was “nerve
+22
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.753 Page 23 of 30
+
+1
+
+wracking” and that his nervousness was more pronounced “this time of day.” (Id. at 10-
+
+2
+
+11.) By time 10:03:20, Booker asked the agents to stop the interview (id. at 41), the
+
+3
+
+medication arrived at 10:26 (id. at 43) and the interview was concluded at 10:50. (Id. at
+
+4
+
+57.)
+
+5
+
+In cases involving psychological coercion, the pivotal question is whether the
+
+6
+
+defendant’s will was “overborne.” Ortiz, 671 F.3d at 869. “[C]oercive police activity is a
+
+7
+
+necessary predicate to the finding that a confession is” involuntary. Connelly, 479 U.S. at
+
+8
+
+167. The interrogation techniques of the officer must be “the kind of misbehavior that so
+
+9
+
+shocks the sensibilities of civilized society as to warrant a federal intrusion into the
+
+10
+
+criminal processes of the States.” Ortiz, 671 F.3d at 869 (citing Moran v. Burbine, 475
+
+11
+
+U.S. 412, 433–34 (1986)).
+
+12
+
+Here, Mr. Booker has shown that he suffers from anxiety and takes a daily dose of
+
+13
+
+medications. This factor is certainly relevant in determining whether his statement was
+
+14
+
+voluntary. The record shows that Mr. Booker revealed early in the interview that he took
+
+15
+
+anxiety medication once a day and was scheduled to take his next dose within an hour
+
+16
+
+and a half. (ECF 54-1 at 10.) Mr. Booker’s anxiety did not affect Mr. Booker’s exercise
+
+17
+
+of his Miranda rights prior to being questioned. Notably, a review of the video recording
+
+18
+
+of the interview does not reveal that Mr. Booker succumbed to extreme psychological
+
+19
+
+pressure arising from his psychological condition or requiring medication.
+
+20
+21
+
+f. Totality of Circumstances
+Here, investigating agents relied upon the full range of available interrogation
+
+22
+
+techniques to have Mr. Booker confess, cooperate or make incriminating statements. As
+
+23
+
+is the case in many interviews, the agents began with a friendly good cop strategy which
+
+24
+
+failed to meet the goals of the interviewers. The agents then turned to a “I don’t believe
+
+25
+
+you mode” and a “we have the evidence” claim that did not impress Mr. Booker either.
+
+26
+
+The agents then relied on false claims to beef up the strength of their case and resorted to
+
+27
+
+guilt trips to lead Mr. Booker to cooperate. With respect to the voluntariness of these
+
+28
+
+statements, the Court has addressed each of the techniques employed and concluded that
+23
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.754 Page 24 of 30
+
+1
+
+individually they did not overcome Mr. Booker’s free will and produce involuntary
+
+2
+
+statements. Considering all of the tactics together, the evidence connecting Mr. Booker
+
+3
+
+to the theft and the content of his statements, the Court concludes that the statements
+
+4
+
+were the product of Mr. Booker’s own balancing of competing considerations rather than
+
+5
+
+forces which overcame his ability to exercise his free will.
+
+6
+
+Based upon its review of the totality of the circumstances which include the entire
+
+7
+
+course of police conduct and characteristics of Mr. Booker, the Court concludes that the
+
+8
+
+May 25th statements are voluntary. The Government may use these statements in the
+
+9
+
+cross examination of Mr. Booker if he chooses to testify.
+
+10
+
+C. WHETHER THE MAY 26TH TELEPHONE CALL STATEMENTS ARE
+
+11
+
+FRUITS OF MIRANDA VIOLATIONS OR COERCIVE CONDUCT
+
+12
+
+Booker argues that his May 26th statements in his telephone call to Agent
+
+13
+
+Warpinski are the fruit of the Miranda violations the day before and, otherwise, tainted
+
+14
+
+by high pressure tactics employed during the second interview. The government
+
+15
+
+responds that the May 25th interrogation had no coercive effect on the May 26th
+
+16
+
+statement.
+
+17
+
+The Court finds that the May 26th statement was noncustodial, was not prompted
+
+18
+
+by any reinterrogation and was otherwise voluntary and is admissible. The Court
+
+19
+
+analyzes the Defendant’s contentions under Miranda/Edwards, Fifth Amendment and the
+
+20
+
+Fruit of the Poisonous Tree doctrine.
+
+21
+
+1. The Statements Were Noncustodial
+
+22
+
+The statements made by Mr. Booker in his telephone conversation with SA
+
+23
+
+Warpinski were the result of Mr. Booker calling the agent on his cell phone on May 26,
+
+24
+
+2017 at approximately 1 p.m. (PST). Mr. Booker was free in Illinois and the agent was
+
+25
+
+in San Diego. Since Mr. Booker was not in custody, Miranda warnings were
+
+26
+
+unnecessary.
+
+27
+28
+
+2. Edwards/Miranda does not apply outside of custody; Mr. Booker, not any
+of the agents, re-initiated communications
+24
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.755 Page 25 of 30
+
+1
+
+Relying on Edwards, Mr. Booker argues that in order to overcome the presumption
+
+2
+
+that any post-invocation is involuntary, the Government is required to prove that (1)
+
+3
+
+defendant initiated the conversation; and (2) defendant was re-advised of, and knowingly
+
+4
+
+waived, his Miranda rights prior to the May 26th statements. (ECF No. 67 at 1.) It is
+
+5
+
+undisputed that Mr. Booker called SA Warpinsky and Mr. Booker was not readvised of
+
+6
+
+his Miranda rights at any time during the May 26th telephone call. However, as observed
+
+7
+
+above, Mr. Booker was not in custody at the time that he contacted SA Warpinski and
+
+8
+
+Miranda would not apply to the telephone conversation. Similarly, the second element
+
+9
+
+relating to the Edwards presumption would have no application either. Mr. Booker’s
+
+10
+
+contact with the agent on May 26th was wholly triggered by the efforts and words of Mr.
+
+11
+
+Booker and the Edwards presumption does not apply.
+
+12
+
+Mr. Booker also argues that the conduct of SA Warpinsky was improper because
+
+13
+
+once a defendant is released from custody, the police may only re-initiate questioning after
+
+14
+
+fourteen days. Maryland v. Shatzer, 559 U.S. 98, 99 (2010) (holding that if the defendant
+
+15
+
+invokes his right to counsel and is later released from custody, the police must wait at least
+
+16
+
+fourteen days prior to contacting the defendant and interrogating him). In this case, 24
+
+17
+
+hours had passed between the initial May 25th interrogation and the phone call on May 26th.
+
+18
+
+However, it was Mr. Booker who contacted Agent Warpinski in order to report the
+
+19
+
+information that he had developed; it was he who reopened the dialogue with the
+
+20
+
+authorities. Agent Warpinski did not ask Mr. Booker to call him, make statements that
+
+21
+
+suggested that Mr. Booker should call him, or provide him with his phone number. If
+
+22
+
+anything, the agents had repeatedly told Mr. Booker the day before that the interview on
+
+23
+
+May 25th was the final opportunity that Mr. Booker had to accept responsibility. As a
+
+24
+
+result, Maryland v. Shatzer has no application to facts of the May 26th telephone call. Cf.
+
+25
+
+Edwards, 451 U.S. at 485 (“Had Edwards initiated the meeting on January 20, nothing in
+
+26
+
+the Fifth and Fourteenth Amendments would prohibit the police from merely listening to
+
+27
+
+his voluntary, volunteered statements and using them against him at the trial.”) Nothing in
+
+28
+
+Edwards required SA Warpinsky to avoid Mr. Booker’s call; rather, the agent was entitled
+25
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.756 Page 26 of 30
+
+1
+
+to allow Mr. Booker to report the information he had developed regarding the whereabouts
+
+2
+
+of the two missing grenades.
+
+3
+4
+
+3. The Fruit of the Poisonous Tree Doctrine Does not Aid Mr. Booker
+
+5
+
+Mr. Booker argues that the May 26th statements should be excluded as the fruit of
+
+6
+
+repeated Miranda violations from the May 25th interview. He also contends that coercive
+
+7
+
+interview techniques from the previous day rendered his May 26th statements involuntary
+
+8
+
+and unreliable. (ECF No. 67 at 2.)
+
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+The “fruit of the poisonous tree” doctrine is most often associated with violations of
+the Fourth Amendment’s prohibition of unreasonable searches and seizures. See Wong Sun
+v. United States, 371 U.S. 471 (1963). It prohibits at trial the use of evidence obtained
+directly or indirectly through an unlawful search or seizure. Id. at 484. In that context, the
+exclusionary rule is necessary to “make effective the fundamental constitutional guarantees
+of sanctity of the home and inviolability of the person.” Id.
+Miranda’s exclusionary rule, however, serves the Fifth Amendment rather than the
+Fourth. Elstad, 470 U.S. at 305–06. The Fifth Amendment’s Self–Incrimination Clause
+bars the prosecution from using compelled testimony in its case-in-chief and is therefore
+primarily concerned with conduct at trial. Id. at 306–07. A police officer’s failure to
+administer Miranda warnings prior to a custodial interrogation “creates a presumption of
+compulsion.” Id.
+Notwithstanding the fact that the doctrine sprouted from another branch of the
+
+21
+
+constitutional tree, Mr. Booker relies on United States v. Lee, 699 F.2d 466 (9th Cir. 1982)
+
+22
+
+to support its argument that the fruit of the poisonous tree analysis applies in the context
+
+23
+
+of Miranda violations. In Lee, the court held that “[t]he circumstances surrounding a prior
+
+24
+
+illegal confession may in some cases carry over and taint a subsequent confession, thereby
+
+25
+
+rendering it inadmissible, even if the accused has been advised of his Miranda rights prior
+
+26
+
+to the second confession.” Id. at 468 (9th Cir. 1982) (citing United States v. Toral, 536
+
+27
+
+F.2d893, 896 (9th Cir.1976)). The Ninth Circuit suppressed a confession as the fruit of the
+
+28
+
+poisonous tree when it followed a statement made in violation of Miranda one day earlier.
+26
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.757 Page 27 of 30
+
+1
+
+The court found that the second confession was not sufficiently attenuated from the illegal
+
+2
+
+interrogation of the previous day.4
+
+3
+
+Unfortunately, Mr. Booker’s reliance on Lee is unavailing. After Lee was decided
+
+4
+
+in 1982 by the Ninth Circuit, the U.S. Supreme Court has provided guidance regarding the
+
+5
+
+consequences for a Miranda violation. The Elstad court observed that unlike evidence
+
+6
+
+obtained through a Fourth Amendment violation, the Miranda presumption does not
+
+7
+
+require that the “fruits [of unlawfully obtained confessions] be discarded as inherently
+
+8
+
+tainted.” Elstad, 470 U.S. at 307.5 Elstad recognized that a “[f]ailure to administer
+
+9
+
+Miranda warnings creates a presumption of compulsion” and “[c]onsequently, unwarned
+
+10
+
+statements that are otherwise voluntary within the meaning of the Fifth Amendment must
+
+11
+
+nevertheless be excluded from evidence under Miranda.” Elstad, 470 U.S. at 307.
+
+12
+
+However, the Elstad court went on to examine “‘how sweeping the judicially imposed
+
+13
+
+consequences’ of a failure to administer Miranda warnings should be,” Elstad, 470 U.S. at
+
+14
+
+308 (quoting Michigan v. Tucker, 417 U.S. 433, 445 (1974)), and concluded:
+
+15
+It is an unwarranted extension of Miranda to hold that a simple failure to
+administer the warnings, unaccompanied by any actual coercion or other
+circumstances calculated to undermine the suspect's ability to exercise his free will,
+so taints the investigatory process that a subsequent voluntary and informed waiver
+is ineffective for some indeterminate period . . . . [T]he admissibility of any
+subsequent statement should turn in these circumstances solely on whether it is
+knowingly and voluntarily made.
+
+16
+17
+18
+19
+20
+21
+22
+4
+
+23
+24
+25
+26
+27
+28
+
+Even if the Court applied the fruit of the poisonous tree doctrine here, the facts show that the causal
+chain between the May 25th statements and May 26th telephone call had been severed and the May 26th
+call was sufficiently an act of free will to purge the primary taint. See Brown v. Illinois, 422 U.S. 590
+(1975).
+In fact, the Supreme Court has rejected automatic application of the “fruits” doctrine to violations of
+the Miranda rule on several occasions. See Missouri v. Seibert, 542 U.S. 600, 619 (2004) (Kennedy, J.,
+concurring) (stating that “the scope of the Miranda suppression remedy depends on a consideration” of
+whether the central concerns of Miranda are implicated as well as the objectives of the criminal justice
+system); United States v. Patane, 542 U.S. 630 (2004) (the prosecution may still introduce physical
+evidence seized as a result of a Miranda violation).
+5
+
+27
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.758 Page 28 of 30
+
+1
+
+Elstad, 470 U.S. at 309 (emphasis added). Thus, under Elstad, “[t]he fruit of the
+
+2
+
+poisonous tree doctrine operates in the Fifth Amendment context as follows: if the
+
+3
+
+defendant's pre-Miranda statement was coerced in violation of the Fifth Amendment,
+
+4
+
+then the court must suppress the defendant’s post-Miranda statement unless the post-
+
+5
+
+Miranda statement was sufficiently attenuated from the coercion to remove any ‘taint.’ If,
+
+6
+
+on the other hand, the prior statement was voluntary in the sense that it was not coerced
+
+7
+
+in violation of the [F]ifth [A]mendment, though obtained in technical violation of the
+
+8
+
+Miranda requirements, the court should suppress the statement given after the Miranda
+
+9
+
+warning only if the court finds that the subsequent statement was not voluntarily made.”
+
+10
+
+Trethewey v. Farmon, 39 F. App’x 591, 594 (9th Cir. 2002) (unpublished) (quoting
+
+11
+
+United States v. Wauneka, 770 F.2d 1434, 1440 (9th Cir. 1985)).
+
+12
+
+Elstad teaches that a Miranda violation on one day—without more—does not
+
+13
+
+transform an otherwise voluntary and informed waiver on the next into the fruit of a
+
+14
+
+poisonous tree, unless both statements violated the Fifth Amendment right to due process.
+
+15
+
+The Court determined supra that the May 25th statements did not violate due process
+
+16
+
+voluntariness principles.6 As such, even if the Court were to assume arguendo that the
+
+17
+
+May 25th interview was marred by Edwards/Miranda violations, any such violations
+
+18
+
+would not require the suppression of the May 26th interview unless the May 26th
+
+19
+
+statements were themselves involuntary.
+
+20
+
+Here the facts show that Mr. Booker called SA Warpinski on his own without
+
+21
+
+direction or prompting by SA Warpinski. Mr. Booker was not in custody and was not
+
+22
+
+confronted with evidence of guilt. He was free of any restraints and did not require any
+
+23
+
+medication to address his anxiety and depression. The call occurred the day following the
+
+24
+25
+26
+27
+28
+
+6
+
+To the extent Mr. Booker has articulated a separate claim that coercive interview techniques
+from the previous day rendered his May 26th statements involuntary and unreliable, the Court has held
+supra that the May 25th interview passes muster under traditional due process principles. Since the May
+25th interview did not overcome Mr. Booker’s free will and render his May 25th statements involuntary
+or unreliable, any illegality associated with the May 25th statements did not taint the May 26th statement.
+28
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.759 Page 29 of 30
+
+1
+
+conclusion of the interview. In the interim, Booker had time to discuss the matter with an
+
+2
+
+attorney, his family or his friends. Mr. Booker was also aware of his rights as a result of
+
+3
+
+being apprised of his Miranda rights on three separate occasions. Mr. Booker was a mature
+
+4
+
+adult male with military training.
+
+5
+
+Mr. Booker’s actions in calling SA Warpinsky with information that he had
+
+6
+
+developed from his sources are ones that recognized the state of the investigation which
+
+7
+
+exposed him to criminal liability and created a means to redirect the agents in their
+
+8
+
+investigation. There is no indication that Mr. Booker’s telephone call was the product of
+
+9
+
+coercion rather than a rational and considered effort to avoid prosecution.
+
+10
+
+The Court also rejects Mr. Booker’s suggestion that the May 26th statements were
+
+11
+
+involuntary under United States v. Bayer, 331 U.S. 532, 540–41 (1947). In Bayer
+
+12
+
+the Supreme Court recognized:
+
+13
+14
+15
+16
+17
+18
+
+[A]fter an accused has once let the cat out of the bag by confessing, no matter what
+the inducement, he is never thereafter free of the psychological and practical
+disadvantages of having confessed. He can never get the cat back in the bag. The
+secret is out for good. In such a sense, a later confession may always be looked
+upon as fruit of the first. But this Court has never gone so far as to hold that
+making a confession under circumstances which preclude its use, perpetually
+disables the confessor from making a usable one after those conditions have been
+removed. (emphasis added).
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+The Supreme Court applied Bayer’s cat out of the bag analysis in Elstad. In Elstad, the
+suspect made his first incriminating statement voluntarily, but without first being given
+the requisite Miranda warnings. One hour later, he was advised of and waived his
+Miranda rights and executed a written confession. The Court held that “a suspect who has
+once responded to unwarned yet uncoercive questioning is not thereby disabled from
+waiving his rights and confessing after he has been given the requisite Miranda
+warnings.” Elstad, 470 U.S. at 318.
+While the Court recognized that having let the cat out of the bag may create a
+subtle form of lingering psychological compulsion, the Court concluded that “there is no
+29
+3:18-cr-02611-GPC
+
+ Case 3:18-cr-02611-GPC Document 79 Filed 06/28/19 PageID.760 Page 30 of 30
+
+1
+
+warrant for presuming coercive effect where the suspect's initial inculpatory statement,
+
+2
+
+though technically in violation of Miranda, was voluntary.” Elstad, 470 U.S. at 318
+
+3
+
+(emphasis added) (footnote omitted). Instead, the voluntariness of any subsequent
+
+4
+
+statement depends upon an evaluation of the “entire course of police conduct” and the
+
+5
+
+“surrounding circumstances,” Elstad, 470 U.S. at 318, including consideration of whether
+
+6
+
+the conditions that made the first statement inadmissible have been removed. Bayer, 331
+
+7
+
+U.S. at 541.
+
+8
+
+Under 18 U.S.C. § 3501, the totality of the circumstances establish that the
+
+9
+
+conditions that made his May 25th statement inadmissible had been removed by May 26th
+
+10
+
+and that Mr. Booker’s telephone call was voluntary.
+
+11
+12
+13
+14
+15
+
+CONCLUSION
+Based on the above, the Court DENIES in PART and GRANTS in PART Mr.
+Booker’s motion to suppress statements.
+IT IS SO ORDERED.
+Dated: June 28, 2019
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+30
+3:18-cr-02611-GPC
+
+ 

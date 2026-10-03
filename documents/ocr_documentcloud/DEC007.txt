@@ -1,0 +1,522 @@
+Case 3:18-cr-01888-L Document 36 Filed 08/13/18 PageID.299 Page 1 of 10
+
+1
+2
+3
+4
+5
+6
+7
+UNITED STATES DISTRICT COURT
+
+8
+
+SOUTHERN DISTRICT OF CALIFORNIA
+
+9
+10
+
+UNITED STATES OF AMERICA,
+
+11
+
+ORDER:
+Plaintiff,
+
+12
+13
+14
+15
+
+Criminal Case No. 18-CR-1888-L
+
+(1) DENYING MOTION TO
+SUPPRESS STATEMENTS [ECF
+NO. 19];
+
+v.
+MARIA HERNANDEZ,
+
+16
+17
+18
+19
+
+Defendant.
+
+(2) DENYING MOTION TO
+SUPPRESS CELL PHONE
+EVIDENCE [ECF NO 19]; and
+(3) GRANTING SUPPLEMENTAL
+DISCOVERY MOTION [ECF NO
+24.]
+
+20
+21
+22
+
+Currently before the Court are Defendant=s Motion to Suppress Statements and Cell
+
+23 Phone Evidence, along with Defendant’s Supplemental Discovery Motion to Suppress
+24 Statements. The Court has considered the pleadings and exhibits, and for the reasons
+25 outlined below, DENIES in part and GRANTS in part Defendant’s Motions.
+26 //
+27 //
+28 //
+
+ Case 3:18-cr-01888-L Document 36 Filed 08/13/18 PageID.300 Page 2 of 10
+
+1
+2
+3
+
+I.
+
+FACTUAL BACKGROUND
+
+On March 17, 2018, at approximately 1:55 am, Defendant applied for entry into
+the United States at the Calexico West Port of Entry. She was driving her white Nissan
+
+4 Versa. A Human and Narcotics Detector dog alerted to the doors of the vehicle, after
+5 which a Customs and Border Patrol (“CBP”) officer pried open the rear driver side door
+6 panel and observed packages taped to the walls. In secondary inspection, agents
+7 discovered 50 packages of a white crystalline substance taped to the inside of all four
+8 door panels. The contents of the packages field-tested positive for methamphetamine and
+9 weighed approximately 24.6 kilograms. Defendant was arrested.
+10
+
+Following her arrest, Defendant was placed in a holding cell at the Port of Entry.
+
+11 Homeland Security Investigations (“HSI”) Special Agent Jonathon Creiglow went to
+12 Defendant’s holding cell and asked her in Spanish for some biographical information and
+13 whether she had a cellphone or money with her. (Dec. Agent Creiglow, Government’s
+14 Opposition, Ex. 1 [ECF NO. 25-1]) There is no video or transcript of the interview.
+15 Agent Creiglow did not provide Defendant with Miranda warnings before these
+16 questions. (Id.) According to Agent Creiglow, Defendant answered the biographical
+17 questions and told Agent Creiglow that the CBP officers had her cell phone and she did
+18 not have any money. (Id.)
+19
+
+Once the booking paperwork was completed, Agent Creiglow transferred
+
+20 Defendant from the holding cell to an interview room. At approximately 7:18 am, HSI
+21 special agents Greiglow and Marroquin interviewed Defendant. The interview was
+22 conducted in the Spanish language. The officers read Defendant her Miranda rights from
+23 a pre-printed card. Defendant said she wasn’t sure about answering any questions without
+24 an attorney. The interviewing agent stated that the decision was hers, and that this was an
+25 opportunity for her to tell her side of the story. She agreed speak to the agent and signed
+26 the Miranda form. During the ensuing interrogation, she said she would like to speak to
+27 an attorney, but after the agent again said this would be her only chance to speak with
+28 him, she continued to talk with him.
+2
+
+14-cr-02811-L
+17-cv-01901-L
+
+ Case 3:18-cr-01888-L Document 36 Filed 08/13/18 PageID.301 Page 3 of 10
+
+1
+2
+3
+4
+
+Toward the end of the interview, Agent Creiglow requested permission from
+Defendant to look at her phone, and she demonstrated the passcode by drawing a pattern
+on the screen which resembled a square. (Id.)
+On June 13, 2018, agents obtained a search warrant to conduct a search of the four
+
+5 cellular phones and two SIMS cards found on or among Defendant’s possessions, which
+6 included the cell phone Defendant had on her person the day of her arrest. The forensic
+7 analyst used the pattern that the agents obtained from Defendant at her arrest to access the
+8 contents of the phone.
+9
+10
+
+II.
+
+PROCEDURAL BACKGROUND
+
+Defendant was charged by Indictment on April 11, 2018, with one count of
+
+11 Importation of Methamphetamine, in violation of 21 U.S.C. '' 952 and 960. Defendant
+12 pled not guilty to the charge. On June 29, 2018, Defendant filed a Motion to Suppress
+13 Statements and Results of the Cell Phone Search. The Government filed a Response in
+14 Opposition on July 6, 2018. The Court held a hearing on the Motion on July 16, 2018 and
+15 shortly after issued an Order denying the Motion in part, and ordering further briefing. On
+16 July 24, 2018, Defendant filed a Supplemental Motion to Suppress, and the Government
+17 filed an Opposition to the Motions on July 30, 2018.
+18
+
+III.
+
+DISCUSSION
+
+19
+
+A. Motion to Suppress Statements
+
+20
+
+Defendant challenges the admission of her post-arrest statements on two grounds:
+
+21 first, she alleges that her request for counsel was ignored by the agent and instead he
+22 continued to question her in violation of her Miranda rights; second, Defendant claims that
+23 the circumstances surrounding her interrogation, including being in custody for over five
+24 hours and her ignored requests for the assistance of an attorney, rendered her statements
+25 involuntary. (Mot. at 7).
+26
+
+The Government claims it will not use Defendant’s post-arrest statements during
+
+27 its case-in-chief, rendering any objection based on a Miranda violation moot. (Govt.
+28 Oppo. Mot. Suppress at 4 [ECF NO 20.]) However, the Government contends that
+3
+14-cr-02811-L
+17-cv-01901-L
+
+ Case 3:18-cr-01888-L Document 36 Filed 08/13/18 PageID.302 Page 4 of 10
+
+1 Defendant’s statements were voluntary and are admissible to impeach her or any other
+2 witness. (Govt. Opp. Suppl. Mot. at 8 [ECF NO 25.]) The Government argues that the
+3 recorded video shows that the interview was calm and conversational, and the agents did
+4 not display their weapons or raise their voices. (Oppo. at 5.) In short, the Government
+5 contends there was no law enforcement coercion, therefore the Motion should be denied.
+6 (Id. at 9).
+At the July 16, 2018 hearing, the Court addressed the Miranda violation and
+
+7
+
+8 ultimately held that Defendant made a clear request for counsel during her interview,
+9 therefore all statements following that request must be suppressed.1
+
+Because the
+
+10 Government represented that it will not use those statements in its case-in-chief, the Court
+11 held that Defendant’s Miranda challenge is moot. The Court deferred ruling on the
+12 voluntariness issue until further briefing took place.
+As to voluntariness, it is the Government’s burden to prove by a preponderance of
+
+13
+
+14 the evidence that a criminal defendant’s statement was voluntary. United States v. Tingle,
+15 658 F.2d 1332, 1335 (9th Cir. 1981). Under the Fifth Amendment, a suspect has the right
+16 to remain silent and choose to speak only of his own free will. Malloy v. Hogan. 378 U.S.
+17 1, 8 (1964). A statement made as a result of physical intimidation or psychological pressure
+18 is considered involuntary. Townsend v. Sain, 372 U.S. 293 (1963). Subtle psychological
+19 pressure executed by law enforcement suffices, and at times more effectively, to render a
+20 confession involuntary. Tingle, 658 F.2d at 1335. The Court must conduct a factual
+21 inquiry to determine whether a statement is involuntary, focusing on law enforcement’s
+22 conduct in creating pressure, and the defendant’s ability to resist that pressure. Mincey v.
+23 Arizona, 437 U.S. 385, 399 (1978). “The due process test takes into consideration the
+24 totality of all the surrounding circumstances—both the characteristics of the accused and
+25 the details of the interrogation.” Dickerson v. United States, 530 U.S. 428, 434, (2000).
+26 These details include “duration and conditions of detention . . . the manifest attitude of the
+27
+28
+
+1
+
+The Court held that Defendant’s statement “[W]e can uh, I talk first with the lawyer and then from there, then we talk”
+constituted invocation of her right to counsel, and all statements after that point were excludable on that basis.
+
+4
+
+14-cr-02811-L
+17-cv-01901-L
+
+ Case 3:18-cr-01888-L Document 36 Filed 08/13/18 PageID.303 Page 5 of 10
+
+1 police toward [her], [her] physical and mental state, the diverse pressures which sap or
+2 sustain [her] powers of resistance and self-control—is relevant.” Culombe v. Connecticut,
+3 367 U.S. 568, 602 (1961).
+4
+
+The Court has viewed the video recording of Defendant’s post-arrest interrogation
+
+5 and after weighing the details of the interrogation, finds that Defendant’s statements were
+6 voluntary. Agent Creiglow conducted the interview in a calm manner, asking questions
+7 and explaining the process in a normal tone. Defendant was Mirandized. Defendant’s
+8 answers to the agent’s questions were often nonresponsive, however the agent did not
+9 raise his voice but instead calmly repeated the question and why it was important for her
+10 to be honest with him. Neither agent unholstered his weapon or made any express or
+11 implied threats to Defendant. Agent Creiglow explained to Defendant that it would be
+12 beneficial to her to be honest and forthright immediately, stating more than once that he
+13 believed she was not the most culpable person involved in the crime.
+14
+
+Defendant is correct that she was held for five hours before the interrogation
+
+15 began, however weighing this factor against the overall tone and conditions of her
+16 interrogation, this delay did not appear to weaken Defendant’s ability to assert her rights
+17 as her repeated requests for counsel demonstrates, nor answer questions or understand the
+18 proceedings. In short, there was no evidence of coercion by either psychological or
+19 physical means. The totality of the circumstances do not support Defendant’s contention
+20 that her statements were involuntary. Dickerson, 530 U.S. at 434. In light of the above,
+21 the Court DENIES Defendant’s Motion to Suppress Statements.
+22
+
+B. Motion to Suppress Results of Cell Phone Search
+
+23
+
+Defendant argues that the results of the cell phone search must be suppressed
+
+24 because the agent obtained her passcode after she invoked her right to counsel, thus
+25 violating her Miranda rights. She contends that the demonstration of her square pattern
+26 passcode was testimonial in nature, therefore it was a protected statement made pursuant
+27 to a custodial interrogation. (Supp. Brief. at 7). In addition, she contends the warrantless
+28 search of the cell phone does not come within the border search exception to the warrant
+5
+
+14-cr-02811-L
+17-cv-01901-L
+
+ Case 3:18-cr-01888-L Document 36 Filed 08/13/18 PageID.304 Page 6 of 10
+
+1 requirement, but was instead conducted as part of further investigation of the drug
+2 smuggling. (Supp. Brief. at 6). She further contends that the passcode demonstration
+3 during her post-arrest interrogation was not voluntary because her will was overborne by
+4 the circumstances, including the over five hour detention prior to the interrogation and her
+5 repeated and ignored requests for counsel. (Id. at 8). Defendant contends that she did not
+6 consent to the search of her cell phone in her holding cell interview despite Agent
+7 Creiglow’s claim to the contrary. (Id. at 8).
+8
+
+In response, the Government first notes that it does not intend to use the
+
+9 demonstration of her passcode at trial, therefore the voluntariness of the actual
+10 demonstration of the code is not in play. (Govt Oppo at 10). Instead, the Government
+11 intends to introduce Defendant’s statement acknowledging that the phone belonged to her
+12 under the routine booking exception, and offer the contents of the phone, or the fruits of
+13 the search, at trial. (Id.) According to the Government, Defendant willingly gave Agent
+14 Creiglow her cell phone passcode during the holding-cell interview, and then again during
+15 the post-arrest interrogation.
+
+The Government assumes without conceding that
+
+16 Defendant’s demonstration of the passcode was a statement for purposes of Miranda, but
+17 argues that the physical fruits of a Miranda violation are not subject to the exclusionary
+18 rule, citing United States v. Patane,542 U.S. 630, 637 (2004). It is further asserted by the
+19 government that the border search exception applies because it was not a forensic search
+20 but only a cursory search of the phone consisting of manually scrolling through it. (Oppo.
+21 7).
+22
+
+1. Border search exception
+
+23
+
+The government must generally demonstrate probable cause to obtain a warrant to
+
+24 search the property of a suspect, and the search must be reasonable. Riley v. California,
+25 134 S.Ct 2473, 2482 (2014). A recognized exception exists for border searches, where
+26 there is a recognized right of the sovereign to control who and what enters the country. US
+27 v Flores-Montano, 541 US 149, 152-53 (2004)(“The Government's interest in preventing
+28 the entry of unwanted persons and effects is at its zenith at the international border.”)
+6
+
+14-cr-02811-L
+17-cv-01901-L
+
+ Case 3:18-cr-01888-L Document 36 Filed 08/13/18 PageID.305 Page 7 of 10
+
+1 “Routine searches of the persons and effects of entrants are not subject to any requirement
+2 of reasonable suspicion, probable cause, or warrant,” US v Montoya de Hernandez, 473 US
+3 531, 538 (1985). Although reasonable suspicion is required to conduct an exhaustive
+4 search of an electronic device at the border, a less intrusive routine search at the border
+5 does not generally require reasonable suspicion. US v Cotterman 709 F.3 952 (9th Cir
+6 2013).
+7
+
+Defendant argues that the exception does not apply here because the search was not
+
+8 done at the border upon her arrest in an effort to control the entry of unwanted contraband,
+9 but instead was conducted as part of an investigation for gathering additional evidence of
+10 an already completed crime. (Supp. Brief. at 6) In response, the Government cites
+11 numerous cases from this district in which the Court has rejected attempts to draw a
+12 distinction between pre-arest/contraband searches and post-arrest/investigative searches,
+13 concluding that Cotterman applies and allowing cell phone searches at the border. (Oppo.
+14 at 7).
+15
+
+The Court agrees, as it indicated during the July 17, 2018 hearing, and finds that the
+
+16 border search exception applies to the search conducted by agents of the cell phone under
+17 Cotterman.
+18
+
+2. Miranda violation and fruits of search
+
+19
+
+It is axiomatic that a suspect must be given Miranda warnings prior to custodial
+
+20 interrogation to protect the right against self-incrimination guaranteed by the Fifth
+21 Amendment. Miranda v. Arizona, 384 U.S. 436 (1966).
+22
+
+The parties assume without conceding for purposes of this Motion that Defendant’s
+
+23 demonstration of her passcode was testimonial in nature, therefore it falls within the
+24 purview of statements protected by Miranda. As such, the agent’s request for Defendant’s
+25 cell passcode after she invoked her right to counsel was a violation of her Miranda rights,
+26 and her subsequent demonstration of the passcode is subject to suppression. Chavez v.
+27
+28
+7
+
+14-cr-02811-L
+17-cv-01901-L
+
+ Case 3:18-cr-01888-L Document 36 Filed 08/13/18 PageID.306 Page 8 of 10
+
+1 Martinez, 538 U.S. 760, 790 (2003).2
+The code was used to access the contents of the cell phone by Agent Creiglow during
+
+2
+
+3 the interrogation, and again by the forensic analyst after the Government obtained a search
+4 warrant. As such, the contents would not have been discovered but for Defendant’s
+5 demonstration of the passcode after her invocation. Defendant contends that the contents
+6 must be suppressed because they are the fruit of a Miranda violation. Generally, the
+7 physical fruits of a coerced statement must be excluded when necessary to protect the
+8 privilege against self-incrimination. Patane, 542 U.S. 630. However, “[w]here there is no
+9 evidence of coercion or a denial of due process in elicitation of the statements, the object
+10 of the fifth amendment exclusionary rule—assuring trustworthiness of evidence introduced
+11 at trial—is not served by barring admission of the derivatively obtained evidence or
+12 statements.” United States v. Gonzalez-Sandoval, 894 F.2d 1043, 1048 (9th Cir 1990). In
+13 determining the existence of coercion, the Court looks to the totality of circumstances
+14 including: “the age of the accused, [her] intelligence, the lack of any advice to the accused
+15 of [her] constitutional rights, the length of detention, the repeated and prolonged nature of
+16 the questioning, and the use of physical punishment such as the deprivation of food or
+17 sleep.” United States v. Haswood, 350 F.3d 1024, 1027 (9th Cir. 2003).
+As noted above, the conditions surrounding Defendant’s interrogation do not
+
+18
+
+19 demonstrate the kind of psychological or physical duress needed to show involuntariness.
+20 Accordingly, the Court concludes that Defendant’s demonstration of her passcode after
+21 requesting an attorney is subject to suppression for violation of Miranda, but the contents
+22 of the phone which were accessed by virtue of the passcode demonstration are not subject
+23
+24
+25
+26
+27
+28
+
+2
+
+It is disputed whether Agent Creiglow asked for Defendant’s cell phone passcode and searched the phone during the
+holding cell interview. Defendant states “I did not give the agent the passcode to unlock my cell phone or consent to a search
+of my cell phone.” (Def. Supp Mot Ex. B) Agent Creiglow states in his declaration that he “asked Ms. Hernandez for
+permission to access her cellphone. She told me that she had no problem with me looking through her cellphone and that
+nothing would be found in her cellphone…I asked her if the cellphone required a passcode. She replied by reaching out her
+hand and unlocking the phone by swiping her finger in a pattern resembling a partial square.” (Gov’t Oppp Supp Mot Ex 1).
+However, whether Defendant gave the agent her passcode during the holding cell interview is only relevant if Defendant
+claims she was coerced into doing so and it was the only time she gave him that information, which was used to access the
+contents of the cell phone. Instead, she demonstrated the code for the agent during her interrogation, therefore it is
+immaterial whether she did or did not demonstrate the code for the agent during the holding cell interview.
+
+8
+
+14-cr-02811-L
+17-cv-01901-L
+
+ Case 3:18-cr-01888-L Document 36 Filed 08/13/18 PageID.307 Page 9 of 10
+
+1 to suppression. Accordingly, the Court DENIES Defendant’s Motion to Suppress the
+2 Results of the Cell Phone Search.
+3
+
+C. Supplemental Motion to Suppress Holding Cell Statements
+
+4
+
+Miranda warnings are not required for routine booking questions, including
+
+5 biographical information necessary for booking. See Pennsylvania v. Muniz, 496 U.S. 582,
+6 601 (1990). Routine booking questions do not include questions that are designed to elicit
+7 incriminatory admissions. Id. at 602, n 14. The purpose of routine booking questions is to
+8 “secure biographical date necessary to complete booking or pretrial services.” United
+9 States v. Williams, 842 F.3d 1143, 1153 (9th Cir 2016).
+10
+
+Defendant argues that her statements to Agent Creiglow during her holding cell
+
+11 interview must be suppressed because he did not Mirandize her prior to speaking with her,
+12 and the questions do not fall within the routine booking questions exception. (Supp. Mot.
+13 2) Specifically, Defendant seeks to suppress her statement denying that she had any money
+14 in her possession arguing that it was made involuntarily. (Id. at 4). She cites to the five
+15 hour wait before questioning began, and that she did not know she could refuse to answer
+16 the agent’s questions because she had not received her Miranda warnings. (Id. at 4).
+17
+
+In response, the Government argues that the questions Agent Creiglow asked
+
+18 Defendant, including whether she had any money on her, are routine booking questions
+19 that do not require Miranda warnings. (Oppo. 6).
+20
+
+For the following reasons, the Court finds that the question regarding money was
+
+21 not a routine booking question. Agent Creiglow’s question to Defendant about money in
+22 her possession was clearly not designed to elicit biographical information such as her name
+23 or birthdate. The Government asserts that the question concerning money in Defendant’s
+24 possession is a routine question because “law enforcement officers cannot allow cash into
+25 a jail.” (Supp. Mot. Oppo. 6). However, the arresting officers could have conducted an
+26 inventory search before Defendant was incarcerated without anyone asking her if she had
+27 money on her person. Illinois v. Lafayette, 462 U.S. 640, 643 (1983) (An inventory search
+28 of a person under lawful arrest is an incidental administrative step following arrest and
+9
+
+14-cr-02811-L
+17-cv-01901-L
+
+ Case 3:18-cr-01888-L Document 36 Filed 08/13/18 PageID.308 Page 10 of 10
+
+1 preceding incarceration.) Moreover, Officer Creiglow did not need to ask the question
+2 before booking her into jail because jail officials were searching individuals as they were
+3 being processed for personal items such as money, at which time they could have
+4 discovered the cash.
+5
+
+To determine whether Agent Creiglow’s question was likely to elicit an
+
+6 incriminating response, the Court looks to the circumstance surrounding her arrest. See
+7 United States v. Solano-Godines, 120 F.3d 957, 961 (9th Cir 1997). Defendant was arrested
+8 in a car with methamphetamine hidden within the doors, and Agent Creiglow
+9 acknowledged in his report that he thoroughly searched Defendant’s “vehicle, personal
+10 items and wallet looking for evidence of drug smuggling payment.” (Supp. Mot Ex A,
+11 Report). Although asking an arrestee if they have money on their person seems innocuous
+12 at first blush, but taken in conjunction with the circumstances surrounding Defendant’s
+13 arrest, the question could likely have elicited an incriminating response. For the above
+14 reasons, the Court GRANTS Defendant’s Supplemental Motion to Suppress her holding
+15 cell statement that she had no money on her person.
+16
+17
+
+IV.
+
+CONCLUSION
+
+In light of the above, the Court DENIES Defendant’s Motion to Suppress post-arrest
+
+18 statements, DENIES Defendant’s Motion to Suppress cell phone search results, and
+19 GRANTS Defendant’s Supplemental Motion to Suppress holding cell statements.
+IT IS SO ORDERED
+20
+21 Dated: August 13, 2018
+22
+23
+24
+25
+26
+27
+28
+10
+
+14-cr-02811-L
+17-cv-01901-L
+
+ 

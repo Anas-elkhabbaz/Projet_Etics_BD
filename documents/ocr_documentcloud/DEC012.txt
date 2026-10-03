@@ -1,0 +1,263 @@
+Case 1:16-cr-00078-RGA Document 97 Filed 05/22/19 Page 1 of 8 PageID #: 666
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF DELAWARE
+
+UNITED STATES OF AMERICA,
+Criminal Action No. 16-78-RGA
+
+V.
+
+DONTE JACOBS,
+Defendant.
+
+ORDER
+Defendant filed a motion to suppress statements. (D.1. 77). The Government filed a
+response. (D.I. 83). I held an evidentiary hearing and argument on April 3, 2019.
+The thrust of Defendant's argument is that an agreement he and his counsel signed with
+the Government should not be enforced. To do so, he argues, would limit his Sixth Amendment
+right to cross-examination at trial, which right he did not knowingly and intentionally waive.
+
+I.
+
+BACKGROUND
+The issue arises because Defendant signed a proffer statement and gave three proffers, with
+
+counsel present, on July 26, 2016, July 29, 2016, and August 22, 2016. The Government represents
+that the proffered statements included highly inculpatory statements that it will offer at trial if
+Defendant breaches the proffer agreement. 1 The relevant portion of the proffer agreement states:
+The United States may use any statements made or information provided by your
+client, or on his behalf, during the Interview to cross-examine your client at trial
+or any other legal proceeding if your client testifies. Moreover, statements made
+during the Interview and any information derived directly or indirectly from your
+client's statements may be used to rebut any evidence offered by, or on behalf of,
+your client in any legal proceedings against his [sic].
+
+1
+The Government represented at the evidentiary hearing that it will not seek to admit any statements from the July
+26, 2016 proffer session. Defendant, however, continues to move to suppress those statements.
+
+1
+
+ Case 1:16-cr-00078-RGA Document 97 Filed 05/22/19 Page 2 of 8 PageID #: 667
+
+GX-2. 2
+At the evidentiary hearing, I heard testimony from three witnesses: Mr. Edelin, Defendant's
+counsel during the proffer sessions, Agent Giallombardo, a DEA Agent present at the proffer
+sessions, and Defendant.
+A. Mr. Edelin's Testimony
+Mr. Edelin has been a criminal defense attorney since 1996 and has represented
+
+approximately 100 federal defendants. (Hr'g Tr. 6:11-20, 7:4-10). As a defense attorney, he has
+regularly conducted proffers with federal defendants and is familiar with the proffer process. (Id
+at 7:16-24). Early in his representation of Defendant, they discussed the possibility of cooperating
+with the government. (Id at 12:7-15).
+On July 26, 2016, AUSA de Barrena-Sarobe, Mr. Edelin, and Defendant discussed the
+proffer agreement in the holding cell of the Federal Courthouse. Defendant was unable to read or
+sign the Proffer Agreement because of the holding cell set-up. At this meeting, Mr. Edelin briefly
+explained the proffer agreement, but did not read the entirety of the letter to Defendant. (Id at
+12:20-14:2, 23:8-24; D.I. 83, Ex. A).
+On July 29, 2016, the parties signed and backdated the proffer agreement to cover the
+discussions on July 26, 2016. (Hr'g Tr. at 15:2-22; GX-2). Mr. Edelin explained the proffer
+agreement to Defendant in private before Defendant signed it. (Hr'g Tr. at 17:20-22; GX-3). Mr.
+Edelin went over the terms of the Proffer Agreement more thoroughly than at the July 26 session
+because there was more time. (Hr' g Tr. at 25: 16-19). Defendant was given the Proffer Agreement
+to read over while Mr. Edelin explained it. It appeared to Mr. Edelin that Defendant read over it
+at that time, but he could not say whether Defendant read the entire document. (Id at 25: 1-8; 31 :7-
+
+2 As described to the Court, the text of the proffer agreement was in the form routinely used by the U.S. Attorney's
+Office in this District.
+
+2
+
+ Case 1:16-cr-00078-RGA Document 97 Filed 05/22/19 Page 3 of 8 PageID #: 668
+
+10). Mr. Edelin testified that he explains the Proffer Agreement to his clients in the following
+manner:
+A proffer is an off-the-record conversation between us and the government, that we
+will be signing a proffer letter and it serves as a contract between us and the
+government.... [I]t protects whatever he or she says in that meeting. Meaning that
+their words can't be used against them in court by the government. I explained that
+there are two exceptions. One, the government can make derivative use, meaning
+they can investigate what we say. And, and number two, if the client or the client
+instructs somebody to say something different than what was said in the proffer,
+then the government will call the agent that was taking notes and put them on the
+stand and explain to the court what was said differently.
+(Id at 16:2-23). Mr. Edelin did not explain the Proffer Agreement in terms of specific named
+
+rights, but gave an explanation of the terms of the proffer agreement and its consequences. (Id at
+21:10-22 :1). Mr. Edelin did not have a specific recollection of explaining the proffer agreement
+to Defendant, but testified that he consistently explains proffer agreements in this way to his federal
+defendant clients and has no reason to believe that he did not explain it this same way to Defendant.
+
+(Id at 17:9-19).
+Mr. Edelin also did not remember any indication that Defendant did not understand what
+
+was going on at the proffer session or the consequences of the Proffer Agreement. (Id at 19:820: 15). Defendant was asked repeatedly whether he understood the terms of the proffer agreement
+and whether he wanted to proceed. (Id at 29:21-30:9).
+B. Agent Giallombardo's Testimony
+Agent Giallombardo was not present at the July 26, 2016 proffer session. (Id at 40:7-13).
+His recollection of the events of the July 29 and August 22 proffer sessions was consistent with
+Mr. Edelin's testimony. (Id at 37:22-38:1). Defendant' s proffer sessions were the first time in
+Agent Giallombardo ' s career that he had sat in on a federal proffer session. (Id at 33:19-24). In
+his experience, after a defendant reviews the proffer agreement with his attorney, AUSA de
+
+3
+
+ Case 1:16-cr-00078-RGA Document 97 Filed 05/22/19 Page 4 of 8 PageID #: 669
+
+Barrena-Sarobe asks the following questions: (1) whether the defendant understands the terms of
+the agreement, (2) whether the defendant has had time to confer with his attorney and ask any
+questions he might have. (Id. at 34:9-21). AUSA de Barrena-Sarobe asked Defendant these
+questions. (Id. at 35:24-36:9). Finally, he testified that nothing about Defendant's manner at the
+proffer session indicated that Defendant was having difficulty understanding the proffer
+agreement. (Id. at 36:14-37:7).
+C. Defendant's Testimony
+
+Defendant testified to the following. At the July 26, 2016 meeting, no one explained what
+a proffer was or the terms of the proffer agreement to Defendant. (Id. at 46: 18-47 :2). At the July
+29, 2016 meeting Defendant was given an opportunity to read the proffer agreement, but he
+
+skimmed the agreement rather than reading it in its entirety. (Id. at 48:7-13). Defendant believes
+he has a fifth or sixth grade reading level and stated that no one read the letter to him. (Id. at 54: 1619). Further, Defendant testified that he did not understand that he was giving up any rights, that
+
+he was afraid of the possible sentence, and only signed the agreement because his lawyer told him
+it was the best thing for him. (Id. at 47:23-48:1, 48:16-49:1). He also testified that he was not
+given the opportunity to talk to Mr. Edelin in private on July 29. (Id. at 57:2-12). According to
+Defendant, no one inquired as to his state of mind or whether he was under the influence of any
+substance. (Id. at 4 7 :7-17). However, on cross-examination, he testified that he was not under the
+influence at the time of the proffer session, nor did he inform anyone that he did not understand
+what was going on. (Id. at 50:1-3, 51:2-5, 51:10-11). Finally, he testified that at the August 22
+proffer session he told Mr. Edelin in private that he did not want to have the proffer meeting, but
+agreed to go through with the meeting after Mr. Edelin reminded him that he was facing a
+mandatory twenty-year sentence. (Id. at 51:10-52:23).
+
+4
+
+ Case 1:16-cr-00078-RGA Document 97 Filed 05/22/19 Page 5 of 8 PageID #: 670
+
+II.
+
+DISCUSSION
+First, Defendant contends that the Proffer Agreement impermissibly impairs his ability to
+
+present a meaningful defense under the Sixth Amendment. I disagree with Defendant. Court have
+regularly upheld proffer agreements containing substantially similar provisions to the challenged
+paragraph here. See United States v. Bogle, 522 F. App'x 15, 18 (2d Cir. 2013); United States v.
+Burnett, 2009 WL 2180373, at *4 (E.D. Pa. July 17, 2009). Moreover, courts have rejected Sixth
+Amendment challenges to such provisions because "defense counsel can still present a meaningful
+defense without opening the door to the admission of the proffer statements because the Proffer
+Agreement does not preclude the defense from challenging the credibility of the Government's
+witnesses or the weight and sufficiency of the Government's evidence." United States v. Avendano,
+2003 WL 22454664, at *4 (S.D.N.Y. Oct. 29, 2003) (citing United States v. Gomez, 210 F. Supp.
+2d 465,476 (S.D.N.Y. 2002)). Therefore, I do not find the Proffer Agreement to be a violation of
+the Sixth Amendment.
+Second, Defendant argues that the Proffer Agreement is unenforceable because he did not
+
+knowingly and voluntarily enter into the agreement. "A proffer agreement is a contract and its
+terms must be read to give effect to the parties' intent." United States v. Hardwick, 544 F.3d 565,
+570 (3d Cir. 2008). It is the Government's burden to demonstrate by a preponderance of the
+evidence that Mr. Jacobs knowingly and voluntarily signed the Proffer Agreement, thereby
+contractually waiving his right to exclude statements made at the proffer sessions. United States
+
+v. Mayfield, 361 F. App'x 425,431 (3d Cir. 2010)(citing Colorado v. Connelly, 479 U.S. 157, 16869 (1986)).
+
+However, a defendant must put forward some "affirmative indication that the
+
+agreement was entered into unknowingly or involuntarily." United States v. Mezzanatto, 513 U.S.
+
+5
+
+ Case 1:16-cr-00078-RGA Document 97 Filed 05/22/19 Page 6 of 8 PageID #: 671
+
+196, 210 (1995). To show that waiver was voluntary and knowing, the Government must show
+the following components:
+First, the waiver must have been voluntary in the sense that it was the product of a
+free and deliberate choice rather than intimidation, coercion or deception. Second,
+the waiver must have been made with a full awareness both of the nature of the
+right being abandoned and the consequences of the decision to abandon it.
+
+United States v. Velasquez, 885 F.2d 1076, 1084 (3d Cir. 1989).
+The record in this case clearly demonstrates that Defendant knowingly and voluntarily
+waived his rights by signing the Proffer Agreement. I credit Mr. Edelin's testimony as to how the
+proffer agreement was explained to Defendant, when it was explained, and that Defendant did not
+indicate directly or indirectly that he did not understand the Proffer Agreement. Mr. Edelin's lack
+of specific recollection of explaining the Proffer Agreement to Defendant does not diminish the
+credibility of his statement as he testified that he regularly explains such agreements to clients.
+
+See United States v. Parra, 302 F. Supp. 2d 226, 235 (S.D.N.Y 2004) (court accepted testimony
+that terms were explained such that Defendant could understand despite inability to remember
+precise language used). Moreover, Agent Giallombardo's testimony is consistent with Mr. Edelin's
+statements. I do not credit Defendant's unsupported testimony that the proffer agreement was not
+explained to him or that he was not given time to privately discuss the proffer agreement with Mr.
+Edelin. It is undisputed that Mr. Edelin did not explain the proffer agreement in terms of "rights"
+and did not read the entire agreement verbatim to Defendant.
+The Government has proven by a preponderance of the evidence that Defendant's consent
+to the Proffer Agreement was knowing and voluntary. There is no affirmative indication in the
+record that Defendant did not understand Mr. Edelin's explanation. Waiver can be knowing and
+voluntary where Defendant has been provided "a detailed and accurate explanation, in layman's
+terms, of the content and operation of the provisions of the Proffer Agreement." Avendano, 2003
+
+6
+
+ Case 1:16-cr-00078-RGA Document 97 Filed 05/22/19 Page 7 of 8 PageID #: 672
+
+WL 22454664, at *7. In fact, the use of lay terminology is a better means to increase the
+defendant' s understanding of the agreement and its consequences rather than simply reading the
+technical terms of the agreement.
+
+Moreover, it is undisputed that Defendant was given an
+
+opportunity to read the full Proffer Agreement and understood that by signing it, he was
+representing that he understood the agreement.
+
+See Avendano, 2003 WL 22454664, at *7
+
+(defendant and attorney given time to consult with interpreter on Proffer Agreement).
+Additionally, it is not necessary that Defendant understood every single right that he is
+giving up by signing the Proffer Agreement for the waiver to be knowing. As long as Defendant
+was cognizant that there was some right he was giving up, his agreement will be considered
+knowing. Bogle, 522 F. App'x at 18 (explanation that statements could be used if Defendant took
+the stand or to rebut argument counsel made at trial was sufficient); United States v. Krilich, 159
+F.3d 1020, 1026 (7th Cir. 1998) ("A defendant's understanding of the consequences of his waiver
+need not be perfect; it was [the defendant' s] understanding of the rights being relinquished, not of
+all the possible repercussions of relinquishing them, that made his waiver knowing."). Thus, it is
+immaterial to the "knowing" prong that Mr. Edelin did not frame the discussion of the proffer
+agreem,ent in terms of specific "rights." Here, the record shows that Mr. Edelin explained to his
+client the challenged paragraph of the Proffer Agreement, and specifically, that the government
+could use these statements if Defendant or others instructed by Defendant made statements
+contradicting Defendant's statements from the proffer session. At no time during the multiple
+proffer sessions did Defendant inform anyone that he did not understand the Proffer Agreement or
+its consequences. There has been no testimony that Defendant did not understand Mr. Edelin' s
+explanation of the Proffer Agreement. Mr. Edelin' s explanation of the Proffer Agreement made
+the nature of the right that Defendant gave up by signing the Proffer Agreement clear: the ability
+
+7
+
+ Case 1:16-cr-00078-RGA Document 97 Filed 05/22/19 Page 8 of 8 PageID #: 673
+
+to exclude statements made at the proffer sessions. Therefore, I determine that Defendant's
+consent to the proffer agreement was knowing. See Bogle, 522 F. App'x at 18; Burnett, 2009 WL
+2180373, at *4; Avendano, 2003 WL 22454664, at *7.
+The record also contains no affirmative indication that Defendant's consent to the Proffer
+Agreement was involuntary. Defendant testified that he was afraid of the possible sentence and
+agreed to sign the Proffer Agreement because his counsel told him it was in his best interest. These
+facts, without more, do not rise to the level of "intimidation, coercion, or deception" that would
+make Defendant' s agreement involuntary.
+Therefore, I determine that Defendant's waiver was knowing and voluntary, and the proffer
+agreement is enforceable.
+
+III.
+
+CONCLUSION
+Thus, it is hereby ordered that Defendant' s Motion to Suppress (D.I. 77) is DENIED.
+
+Entered this
+
+8
+
+21
+
+day of May, 2019.
+
+ 

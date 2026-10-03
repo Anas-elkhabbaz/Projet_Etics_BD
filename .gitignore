@@ -1,0 +1,7 @@
+# PDF sources (434 Mo, un fichier > 100 Mo) : regeneres par scripts/01_collecte_documents.py
+documents/pdf/
+# Ancienne piste C.R.I.M.E. (CSV de 2,3 Go)
+archive_crime/
+__pycache__/
+*.pyc
+.env

@@ -1,0 +1,592 @@
+Case 3:17-cr-01649-MMA Document 42 Filed 04/05/18 PageID.390 Page 1 of 6
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+UNITED STATES DISTRICT COURT
+
+9
+
+SOUTHERN DISTRICT OF CALIFORNIA
+
+10
+11
+
+Plaintiff,
+
+12
+13
+
+v.
+
+14
+
+BRAYAN GUTIERREZ-DIAZ,
+
+15
+
+Case No.: 17cr1649-MMA
+
+UNITED STATES OF AMERICA,
+
+ORDER DENYING DEFENDANT’S
+MOTION TO SUPPRESS EVIDENCE
+[Doc. No. 18]
+
+Defendant.
+
+16
+17
+18
+19
+
+Defendant Brayan Gutierrez-Diaz is charged in a single-count Information with
+
+20
+
+possessing with intent to distribute 7.18 kilograms of a mixture and substance containing
+
+21
+
+a detectable amount of heroin, in violation of Title 21, United States Code, section
+
+22
+
+841(a)(1). See Doc. No. 12. Defendant moves to suppress all evidence obtained as a
+
+23
+
+result of the stop and search of his vehicle at the Highway 86 Border Patrol Checkpoint.
+
+24
+
+See Doc. No. 18. The parties appeared before the Court for an evidentiary hearing on
+
+25
+
+December 19, 2017. See Doc. No. 28. Thereafter, the Court permitted Defendant to file
+
+26
+
+a supplemental brief and exhibits in support of his motion. See Doc. No. 37 [SEALED].
+
+27
+
+The government filed a response. See Doc. No. 40 [SEALED]. For the reasons set forth
+
+28
+
+below, the Court DENIES Defendant’s motion to suppress.
+1
+17cr1649-MMA
+
+ Case 3:17-cr-01649-MMA Document 42 Filed 04/05/18 PageID.391 Page 2 of 6
+
+1
+
+BACKGROUND
+
+2
+
+On May 25, 2017, at approximately 2:00 p.m., Defendant approached the pre-
+
+3
+
+primary inspection area of the Highway 86 Border Patrol checkpoint near Westmorland,
+
+4
+
+California. Border Patrol Agent Larry Orozco and his certified canine partner ‘Louisza’
+
+5
+
+were patrolling the pre-primary area. Defendant testified during the evidentiary hearing
+
+6
+
+that he observed the agent and his canine walking around the passenger side and the of
+
+7
+
+Defendant’s vehicle. Defendant testified that Agent Orozco and Louisza did not walk
+
+8
+
+around the driver’s side of the vehicle. According to Agent Orozco, as Defendant
+
+9
+
+approached the primary inspection booth, he and Louisza walked around to the driver’s
+
+10
+
+side of Defendant’s vehicle, where Louisza “alerted to the bottom of the driver’s side
+
+11
+
+door seam.” Doc. No. 32 at 26.1 Agent Orozco relayed the canine alert to the primary
+
+12
+
+inspection officer who referred Defendant to secondary inspection. In secondary
+
+13
+
+inspection, Defendant consented to the search of his vehicle. Louisza again alerted to the
+
+14
+
+driver’s side door area. Agent Orozco removed the driver’s side rocker panel on the
+
+15
+
+vehicle, and removed six packages that tested positive for heroin.
+
+16
+
+Defendant was advised of his Miranda rights, signed a written waiver of his
+
+17
+
+Miranda rights, and admitted to knowingly smuggling the narcotics. Defendant also
+
+18
+
+signed a written consent form to search his cell phone, which uncovered additional
+
+19
+
+incriminating evidence.
+
+20
+
+DISCUSSION
+
+21
+
+Defendant moves to suppress all evidence obtained as a result of the stop and
+
+22
+
+search of his vehicle at the Highway 86 interior checkpoint, based on the violation of his
+
+23
+
+Fourth Amendment right to be free from unreasonable searches and seizures. Defendant
+
+24
+
+argues that the checkpoint is illegal, but even if it is not, the agents lacked probable cause
+
+25
+
+to search Defendant’s vehicle. Defendant contends that the Court must suppress all fruits
+
+26
+27
+
+                                               
+
+28
+
+1
+
+Citations refer to the pagination assigned by the CM/ECF system.
+2
+17cr1649-MMA
+
+ Case 3:17-cr-01649-MMA Document 42 Filed 04/05/18 PageID.392 Page 3 of 6
+
+1
+
+of the illegal search and seizure. The government opposes the motion, arguing that the
+
+2
+
+checkpoint serves the legal purpose of securing the border with Mexico and enforcing
+
+3
+
+immigration laws. The government further argues that the referral to secondary
+
+4
+
+inspection, and subsequent search of Defendant’s vehicle, were lawful.
+
+5
+6
+
+1.
+
+Highway 86 Checkpoint
+Defendant argues that the government is using the Highway 86 checkpoint for the
+
+7
+
+prohibited purpose of drug interdiction. Defendant challenges the constitutionality of the
+
+8
+
+checkpoint, arguing that the government is using it for general law enforcement purposes,
+
+9
+
+instead of immigration objectives.
+
+10
+
+The Fourth Amendment requires that searches and seizures be reasonable. See U.S.
+
+11
+
+CONST. amend. IV. Generally, a search or seizure is unreasonable in the absence of
+
+12
+
+individualized suspicion of wrongdoing. Id. While a vehicle stop at an immigration
+
+13
+
+checkpoint is a “seizure,” Border Patrol may stop or slow vehicles, and question
+
+14
+
+occupants at a checkpoint for Fourth Amendment purposes. See United States v.
+
+15
+
+Martinez-Fuente, 428 U.S. 543, 562 (1976). Permanent interior checkpoints, such as the
+
+16
+
+Highway 86 checkpoint, are maintained at or near important roads leading away from the
+
+17
+
+border and “operate on a coordinated basis designed to avoid circumvention by
+
+18
+
+smugglers and others who transport the illegal aliens.” Id. at 552. A vehicle may be
+
+19
+
+stopped at a permanent immigration checkpoint for brief initial questioning, and then
+
+20
+
+referred to a secondary inspection area for further questioning “in the absence of an
+
+21
+
+individualized suspicion.” Id. at 562. An officer has wide discretion in making referrals
+
+22
+
+to secondary. See id. at 564.
+
+23
+
+Here, the evidence supports a finding that Border Patrol is permissibly operating
+
+24
+
+the Highway 86 checkpoint for the primary purpose of immigration control. See, e.g.,
+
+25
+
+Doc. No. 19-9 at 2. Presented with similar statistics and a similar record of the Border
+
+26
+
+Patrol’s operation of the checkpoint, other judges in this District have determined that the
+
+27
+
+Highway 86 checkpoint is constitutional. See, e.g., United States v. Summers, 153 F.
+
+28
+
+Supp. 3d 1261, 1266-67 (S.D. Cal. 2015) (“During the past three year period, there were
+3
+17cr1649-MMA
+
+ Case 3:17-cr-01649-MMA Document 42 Filed 04/05/18 PageID.393 Page 4 of 6
+
+1
+
+approximately 1,746 apprehensions at the checkpoint, including 1,579 immigration-
+
+2
+
+related apprehensions and 167 drug-related apprehensions.”).
+
+3
+
+Likewise, in this case it appears that the checkpoint was being operated for the
+
+4
+
+primary purpose of enforcing immigration laws. Defendant has indicated that when he
+
+5
+
+pulled up to the checkpoint, he was required to show his I-551 card and driver’s license.
+
+6
+
+See Doc. No. 18-1 at 2. The checkpoint was manned by Border Patrol agents; once
+
+7
+
+narcotics were discovered secreted in Defendant’s vehicle, DEA task force officers
+
+8
+
+responded to the checkpoint in order to handle the matter. As such, the Court concludes
+
+9
+
+that the Highway 86 checkpoint is lawfully operating for the special law enforcement
+
+10
+
+purpose of enforcing immigration laws in the interior of the country.
+
+11
+
+2. Vehicle Search
+
+12
+
+Defendant argues that even if the Highway 86 checkpoint is legal, agents lacked
+
+13
+
+probable cause to search his vehicle. Defendant contests whether Louisza alerted to his
+
+14
+
+vehicle in the primary inspection area. Defendant contends that the canine could not
+
+15
+
+have alerted to the driver’s side of his vehicle, based on the agent and the canine’s
+
+16
+
+position on the passenger side of the vehicle.2
+
+17
+
+“The automobile exception permits police to search a vehicle as long as the vehicle
+
+18
+
+is ‘readily mobile’ and ‘probable cause exists to believe it contains contraband.’” United
+
+19
+
+States v. Davis, 530 F.3d 1069, 1084 (9th Cir. 2008) (quoting Pennsylvania v. Labron,
+
+20
+
+518 U.S. 938, 940 (1996) (per curiam)). Agents have probable cause to conduct a
+
+21
+
+warrantless search of a vehicle at secondary inspection if, in the totality of the
+
+22
+23
+
+                                               
+
+24
+
+2
+
+25
+26
+27
+28
+
+Defendant argues in his supplemental briefing that the Court should draw an adverse inference against
+the government on this issue, based on the government’s failure to retain the video recording of
+Defendant’s movements when approaching the primary inspection booth. The Court declines to draw
+such an inference, particularly since the Court finds Agent Orozco’s testimony credible and consistent
+with the reports of the investigation, as discussed infra. And although destruction of evidence may
+warrant suppression of secondary evidence in certain cases, this is not one of those cases. See United
+States v. Loud Hawk, 628 F.2d 1139, 1152 (9th Cir. 1979) (Kennedy, J., concurring), overruled on other
+grounds by United States v. W.R. Grace, 526 F.3d 499 (9th Cir. 2008).
+4
+17cr1649-MMA
+
+ Case 3:17-cr-01649-MMA Document 42 Filed 04/05/18 PageID.394 Page 5 of 6
+
+1
+
+circumstances, “there is a fair probability that contraband or evidence of a crime will be
+
+2
+
+found in a particular place.” Illinois v. Gates, 462 U.S. 213, 238 (1983). If a drug
+
+3
+
+detection dog alerts for the presence of illegal narcotics, that alert provides probable
+
+4
+
+cause to conduct a warrantless search pursuant to the automobile exception to the warrant
+
+5
+
+requirement. See United States v. Garcia, 205 F.3d 1182, 1187 (9th Cir. 2000) (citing
+
+6
+
+United States v. Ross, 456 U.S. 798, 807 (1982).
+
+7
+
+In this case, as discussed above, Defendant contends that the canine did not alert to
+
+8
+
+his vehicle prior to his referral to the secondary inspection area. However, the Court does
+
+9
+
+not find Defendant’s testimony on this issue credible. Agent Orozco testified that
+
+10
+
+Louisza alerted to the bottom of the driver’s side door, which is consistent with the
+
+11
+
+recitation of facts set forth in the Report of Investigation prepared by the assigned DEA
+
+12
+
+task force officer and Agent Orozco’s own report of the incident. The Court finds Agent
+
+13
+
+Orozco’s testimony credible.
+
+14
+
+Louisza alerted to the presence of narcotics in hidden compartments in the
+
+15
+
+vehicle’s driver’s side rocker panels. The government has presented evidence
+
+16
+
+demonstrating that Louisza was a certified, reliable narcotics detector dog, which
+
+17
+
+Defendant does not dispute for purposes of the probable cause analysis. See Doc. No. 32
+
+18
+
+at 4. As such, Louisza’s initial alert was sufficient to establish probable cause to search
+
+19
+
+the vehicle.3 See Florida v. Harris, 568 U.S. 237, 248 (2013); Illinois v. Caballes, 543
+
+20
+
+U.S. 405, 409 (2005) (holding that if a drug detecting dog is properly trained and that the
+
+21
+
+traffic stop is not unlawfully prolonged, probable cause to justify a warrantless search is
+
+22
+23
+24
+25
+26
+27
+28
+
+                                               
+3
+
+Even if the Court credits Defendant’s version of events, agents legally searched the vehicle after
+obtaining Defendant’s consent to do so. And as the government notes in its supplemental response, at
+an immigration checkpoint, probable cause is not required in order to divert a driver and his vehicle to
+secondary inspection. See United States v. Barnett, 935 F.2d 178, 182 (9th Cir. 1991) (holding that no
+articulable suspicion was required to refer the defendants to secondary inspection at a lawfully operating
+immigration checkpoint) (citing United States v. Martinez-Fuerte, 428 U.S. 543 (1975)).
+5
+17cr1649-MMA
+
+ Case 3:17-cr-01649-MMA Document 42 Filed 04/05/18 PageID.395 Page 6 of 6
+
+1
+
+established when the dog alerts on a part of the car); United States v. Cedano-Arellano,
+
+2
+
+332 F.3d 568, 573 (9th Cir. 2003).
+
+3
+
+CONCLUSION
+
+4
+
+Based on the foregoing, the Court DENIES Defendant’s motion to suppress.
+
+5
+
+IT IS SO ORDERED.
+
+6
+7
+
+DATE: April 5, 2018
+
+_______________________________________
+HON. MICHAEL M. ANELLO
+United States District Judge
+
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+6
+17cr1649-MMA
+
+ 

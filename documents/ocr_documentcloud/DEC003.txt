@@ -1,0 +1,2250 @@
+Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.517 Page 1 of 20
+
+1
+2
+3
+4
+5
+6
+
+UNITED STATES DISTRICT COURT
+
+7
+
+SOUTHERN DISTRICT OF CALIFORNIA
+
+8
+9
+
+UNITED STATES OF AMERICA,
+Plaintiff,
+
+10
+11
+
+v.
+
+12
+
+FILADELFO MORALES-ROBLERO,
+
+13
+
+Case No.: 3:19-mj-24442-AHG
+ORDER:
+(1) DENYING FIRST MOTION TO
+DISMISS [ECF NO. 20];
+
+Defendant.
+
+(2) DENYING MOTION TO
+PRESERVE EVIDENCE AND
+COMPEL DISCOVERY [ECF
+NO. 20];
+
+14
+15
+16
+
+(3) DENYING MOTION TO
+SUPPRESS STATEMENTS [ECF
+NO. 20];
+
+17
+18
+19
+
+(4) DENYING MOTION FOR LEAVE
+TO FILE FURTHER MOTIONS
+[ECF NO. 20];
+
+20
+21
+22
+
+(5) DENYING MOTION TO
+PREVENT CIVIL ARREST [ECF
+NO. 40];
+
+23
+24
+
+(6) DENYING SECOND MOTION TO
+DISMISS [ECF NO. 40]; and
+
+25
+26
+
+(7) DENYING MOTION TO STAY
+[ECF NO. 40]
+
+27
+28
+1
+
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.518 Page 2 of 20
+
+1
+
+Before the Court are Defendant Filadelfo Morales-Roblero’s consolidated motions
+
+2
+
+to: (1) dismiss the complaint on multiple grounds; (2) preserve evidence and compel
+
+3
+
+discovery; (3) suppress statements; (4) for leave to file further motions; (5) prevent civil
+
+4
+
+arrest; (6) dismiss the complaint based on Village of Arlington Heights; and (7) stay the
+
+5
+
+trial. ECF Nos. 20, 40. The Court took the matters raised in the Motion under submission
+
+6
+
+after oral argument on September 1, 2020. ECF No. 42. Having considered the parties’
+
+7
+
+papers and their argument, the Court enters the following Order:
+
+8
+
+I.
+
+BACKGROUND
+
+9
+
+Defendant is charged with violating 8 U.S.C. § 1325(a)(1), which provides, in
+
+10
+
+relevant part, that “[a]ny alien who (1) enters or attempts to enter the United States at any
+
+11
+
+time or place other than as designated by immigration officers . . . shall [be guilty of a
+
+12
+
+misdemeanor].” See ECF No. 1. The Government alleges that on November 20, 2019, a
+
+13
+
+United States Customs and Border Protection agent encountered Defendant standing next
+
+14
+
+to a call box on the shoulder of State Route 94, approximately six and a half miles north of
+
+15
+
+the United States/Mexico International Boundary and approximately eight miles east of the
+
+16
+
+Otay Mesa, California Port of Entry. Id. at 2. The Government alleges that Defendant stated
+
+17
+
+that he was a citizen of Mexico and had entered the United States illegally on November
+
+18
+
+18, 2019. Id.
+
+19
+
+Defendant’s case proceeded under the “Streamline” process, which the Department
+
+20
+
+of Justice uses to manage prosecution of misdemeanor charges brought under 8 U.S.C.
+
+21
+
+§ 1325. See United States v. Chavez-Diaz, No. 18MJ20098 AJB, 2018 WL 9543024, at
+
+22
+
+*1–2 (S.D. Cal. Oct. 30, 2018) (describing the Department of Justice’s “Operation
+
+23
+
+Streamline” process, as implemented by the Government in this Court), rev’d on other
+
+24
+
+grounds, No. 18-50391, 2020 WL 562292 (9th Cir. Feb. 5, 2020). On November 21, 2019,
+
+25
+
+Defendant was brought to Court for his initial appearance. ECF No. 5. Defendant met with
+
+26
+
+an attorney on the ground floor of the Federal Building that morning before his appearance.
+
+27
+
+ECF No. 20-1 at 2. Defendant was shackled during that meeting. Id. At his initial
+
+28
+
+appearance, the Court arraigned Defendant and appointed Federal Defenders to represent
+2
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.519 Page 3 of 20
+
+1
+
+him. ECF No. 5. The Court denied the Government’s motion to detain and issued an order
+
+2
+
+setting conditions of pretrial release. Id. The Court granted Defendant’s motion to modify
+
+3
+
+the conditions of pretrial release on December 10, 2019, and Defendant was released from
+
+4
+
+custody on January 15, 2020. ECF Nos. 13, 18.
+
+5
+
+On February 27, 2020, defendant filed the consolidated motion currently before the
+
+6
+
+Court, seeking various forms of relief, including dismissal of the complaint. ECF No. 20.
+
+7
+
+On August 18, 2020, defendant filed an additional consolidated motion. ECF No. 40.
+
+8
+
+Defendant’s second consolidation motion seeks an order preventing Defendant’s civil
+
+9
+
+arrest in the courtroom, and moves to dismiss on an additional constitutional ground. Id.
+
+10
+
+II.
+
+DISCUSSION
+
+11
+
+A. First Motion to Dismiss
+
+12
+
+Defendant’s first motion to dismiss asserts five grounds for dismissal: (1) Congress
+
+13
+
+violated the non-delegation doctrine when it enacted § 1325(a)(1); (2) Congress violated
+
+14
+
+the Due Process Clause’s prohibition on vague laws when it enacted § 1325(a)(1); (3) the
+
+15
+
+prosecution of Defendant violates equal protection and due process; (4) § 1325 violates the
+
+16
+
+due process clause; and (5) the Complaint fails to allege all the elements of the charged
+
+17
+
+offense. ECF No. 20. The Court addresses each of Defendant’s arguments below.
+
+18
+
+1.
+
+Violation of the Non-Delegation Doctrine
+
+19
+
+Defendant argues that the § 1325 charge against him should be dismissed under the
+
+20
+
+non-delegation doctrine because Congress delegated its core legislative functions to the
+
+21
+
+Executive Branch by allowing “immigration officers” to determine the times and places
+
+22
+
+when an alien can lawfully enter the United States. See 8 U.S.C. § 1325(a) (defining as one
+
+23
+
+of three alternative elements of the offense the entry or attempted entry into the United
+
+24
+
+States “at any time or place other than as designated by immigration officers”). The non-
+
+25
+
+delegation doctrine generally forbids Congress from transferring “powers which are strictly
+
+26
+
+and exclusively legislative” to other branches of government. Gundy v. United States, 139
+
+27
+
+S. Ct. 2116, 2123 (2019) (citation omitted). Defendant claims that immigration officials
+
+28
+
+have unfettered discretion to designate times and places for entry on an ad hoc basis, and
+3
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.520 Page 4 of 20
+
+1
+
+that the statute does not provide any intelligible principle to guide this discretion.
+
+2
+
+“In our increasingly complex society, replete with ever changing and more technical
+
+3
+
+problems, [the Supreme] Court has understood that Congress simply cannot do its job
+
+4
+
+absent an ability to delegate power under broad general directives.” Gundy, 139 S. Ct. at
+
+5
+
+2123 (quoting Mistretta v. United States, 488 U.S. 361, 372 (1989)) (internal alteration and
+
+6
+
+quotations omitted). Therefore, as long as “Congress has supplied an intelligible principle
+
+7
+
+to guide the delegee’s use of discretion[,]” a statute does not run afoul of the non-delegation
+
+8
+
+doctrine. In performing the analysis of whether such an “intelligible principle” is supplied,
+
+9
+
+the Court must “constru[e] the challenged statute to figure out what task it delegates and
+
+10
+
+what instructions it provides.” Gundy, 139 S. Ct. at 2123. Importantly, that task of
+
+11
+
+construction does not require the Court to look only at the text of the statute “in isolation.”
+
+12
+
+Rather, the intelligibility of the standards that guide the delegee’s discretion must be
+
+13
+
+considered in light of “the purpose of the [statute at issue], its factual background, and the
+
+14
+
+statutory context in which they appear.” Am. Power & Light Co. v. SEC, 329 U.S. 90, 104
+
+15
+
+(1946).
+
+16
+
+Construing § 1325 in United States v. Nunez-Soberanis, 406 F. Supp. 3d 835 (S.D.
+
+17
+
+Cal. 2019) (Dembin, J.), another court in this District rejected the same non-delegation
+
+18
+
+argument Defendant presents here, reasoning as follows:
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+Defendant attempts to read into the statute a broader delegation than
+actually occurred by arguing that any individual immigration official can
+designate any piece of land as a place for entry. Not so. Congress requires
+that aliens seeking lawful entrance to the United States do so at a port of
+entry. See United States v. Corrales-Vasquez, 931 F.3d 944, 946 (9th Cir.
+2019); United States v. Aldana, 878 F.3d 877, 882 (9th Cir. 2017). Ports
+of entry can only be designated or de-designated by the Secretary of
+Homeland Security subject to the Administrative Procedures Act. See 8
+CFR § 100.4(a). Ports of entry also necessarily include facilities, staffed
+by immigration officials that are set up to accept applications for
+admission. Aldana, 878 F.3d at 882. To interpret Section 1325(a) to permit
+a border patrol agent to designate a portion of the border fence “on a whim”
+is in direct conflict with Congress’s clear statutory scheme.
+
+28
+4
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.521 Page 5 of 20
+
+1
+
+Id. at 839-40. This Court agrees. Contrary to Defendant’s argument, when viewed in the
+
+2
+
+proper context rather than viewing the statutory text in isolation, § 1325’s delegation to
+
+3
+
+immigration officers to designate time and place of lawful entry is not unfettered, but
+
+4
+
+significantly constrained. Am. Power, 329 U.S. at 104; see also Gundy, 139 S. Ct. at 2123-
+
+5
+
+24 (considering the text of a statute “alongside its context, purpose, and history” to
+
+6
+
+determine the extent of discretion afforded to the delegee in question).
+
+7
+
+Congress’s delegation of the duty to designate the time and place for lawful entry of
+
+8
+
+aliens also does not expand the scope of criminal liability under § 1325. Opening or closing
+
+9
+
+ports of entry does not change or expand the conduct that leads to criminal liability under
+
+10
+
+§ 1325. Closing ports or restricting hours of operation may make it more cumbersome for
+
+11
+
+aliens to enter legally, but it does not create new or different criminal liability.
+
+12
+13
+14
+
+Therefore, the Court denies Defendant’s motion to dismiss on the grounds that
+§ 1325 violates the non-delegation doctrine.
+2.
+
+Vagueness
+
+15
+
+Defendant argues the charge against him should be dismissed because
+
+16
+
+8 U.S.C. § 1325 is void for vagueness. A statute can be impermissibly vague in either of
+
+17
+
+two circumstances: 1) the statute “fails to provide people of ordinary intelligence a
+
+18
+
+reasonable opportunity to understand what conduct it prohibits;” or 2) the statute
+
+19
+
+“authorizes or even encourages arbitrary and discriminatory enforcement.” Hill v.
+
+20
+
+Colorado, 530 U.S. 703, 732 (2000). Defendant argues that § 1325 is impermissibly vague
+
+21
+
+because it permits immigration officers unlimited discretion to decide what places to
+
+22
+
+designate for lawful entry. As discussed above, this is not correct. Individual Border Patrol
+
+23
+
+agents cannot designate ports of entry on a whim. Closing a port of entry temporarily is not
+
+24
+
+synonymous with “de-designating” it as a port of entry. Section 1325 clearly delineates the
+
+25
+
+conduct that it prescribes and is not impermissibly vague.
+
+26
+27
+
+Therefore, the Court denies Defendant’s motion to dismiss on the grounds that
+§ 1325 is impermissibly vague.
+
+28
+5
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.522 Page 6 of 20
+
+1
+
+3.
+
+Equal Protection and Due Process
+
+2
+
+Defendant argues that the Government’s use of the “Streamline” process to
+
+3
+
+prosecute him, rather than through the Central Violations Bureau (“CVB”), violates the
+
+4
+
+Equal Protection Clause. Defendants who are prosecuted for petty offenses through the
+
+5
+
+CVB are generally cited and released, not taken into custody. ECF No. 20-1 at 7.
+
+6
+
+Defendants charged with a § 1325 offense, in contrast, are always taken into custody and
+
+7
+
+remain in custody unless conditions of pretrial release are set by a magistrate judge. Id.
+
+8
+
+Defendant argues that because § 1325 is a petty offense, the Government’s failure to
+
+9
+
+process him through CVB like other petty offenses constitutes disparate treatment that
+
+10
+
+violates the Equal Protection Clause on the basis of alienage, national origin, and race.
+
+11
+
+The Equal Protection Clause is part of the Fourteenth Amendment, and states in
+
+12
+
+relevant part that the government shall not “deny to any person within its jurisdiction the
+
+13
+
+equal protection of the laws.” U.S. Const. amend. XIV. The Streamline process does not
+
+14
+
+violate the Equal Protection Clause so long as the Government demonstrates a rational
+
+15
+
+basis for its use. See, e.g., United States v. Ramirez-Ortiz, 370 F. Supp. 3d 1151, 1154 (S.D.
+
+16
+
+Cal. 2019); United States v. Silva-Sosa, No. 18MJ23270-KSC, 2019 WL 1470868, at *2–
+
+17
+
+3 (S.D. Cal. Apr. 3, 2019); United States v. Mazariegos-Ramirez, No. 18MJ22276-WQH,
+
+18
+
+2019 WL 338923, at *2 (S.D. Cal. Jan. 28, 2019); Chavez-Diaz, 2018 WL 9543024, at *3.1
+
+19
+
+Congressional acts regarding immigration are “subject only to narrow judicial review.”
+
+20
+
+Fiallo v. Bell, 430 U.S. 787, 792 (1977) (citation omitted); see also United States v.
+
+21
+
+Barajas-Guillen, 632 F.2d 749, (9th Cir. 1980) (“[C]lassifications among aliens made
+
+22
+23
+24
+25
+26
+27
+28
+
+1
+
+Chavez-Diaz was reversed by the Ninth Circuit on February 5, 2020 because the Court of
+Appeals found that the defendant had waived his right to bring his constitutional challenges
+on appeal by entering an unconditional guilty plea, while the district court had found no
+waiver and considered the constitutional challenges on their merits. See Chavez-Diaz, No.
+18-50391, 2020 WL 562292, at *2-6 (9th Cir. Feb. 5, 2020). Therefore, the Ninth Circuit
+opinion reversing the district court does not address the merits analysis, much less
+contradict it.
+6
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.523 Page 7 of 20
+
+1
+
+pursuant to the immigration laws need only be supported by some rational basis to fulfill
+
+2
+
+equal protection guarantees.”).
+
+3
+
+In analyzing whether the Government’s processing of § 1325 defendants through the
+
+4
+
+Streamline process rather than CVB survives rational basis review, the question is whether
+
+5
+
+“the classification at issue bears some fair relationship to a legitimate public purpose.”
+
+6
+
+Hoffman v. United States, 767 F.2d 1431, 1436 (9th Cir. 1985) (quoting Plyler, 457 U.S.
+
+7
+
+at 216). The Government’s proffered reasons for finding Defendant’s § 1325 offense
+
+8
+
+unsuitable for disposition through the CVB include: 1) The CVB is “a national center
+
+9
+
+charged with processing violation notices (tickets) issued and payments received for petty
+
+10
+
+offenses committed on federal property[,]” and thus a criminal misdemeanor offense under
+
+11
+
+Title 8 of the United States Code is not the type of offense for which the CVB calendar
+
+12
+
+was
+
+13
+
+www.cvb.uscourts.gov); and 2) since Defendant was arrested for his alleged offense rather
+
+14
+
+than being given a violation notice, Rule 5 of the Federal Rules of Criminal Procedure
+
+15
+
+entitled Defendant to be taken “without unnecessary delay” before a magistrate judge
+
+16
+
+following his arrest, making it impossible to route his case to the CVB for processing. Id.;
+
+17
+
+Fed. R. Crim. P. 5(a)(1)(A). Each of these reasons for processing § 1325 defendants
+
+18
+
+differently than other defendants accused of federal “petty offenses” satisfies the rational
+
+19
+
+basis standard of review.
+
+designed,
+
+ECF
+
+No.
+
+24
+
+at
+
+6
+
+(quoting
+
+Central
+
+Violations
+
+Bureau,
+
+20
+
+In finding the test met, the Court here adopts Judge Anthony J. Battaglia’s detailed
+
+21
+
+explanation and persuasive reasoning on the same question in Chavez-Diaz, 2018 WL
+
+22
+
+9543024, at *1–*4. In addition, the Court notes that requiring the Government to process
+
+23
+
+§ 1325 defendants through the CVB would likely prove unworkable given the nature of the
+
+24
+
+charge: unlawful entry into the United States by an alien. As Defendant notes, CVB
+
+25
+
+defendants are not taken into custody. They are allowed to continue living in the United
+
+26
+
+States without restriction, and typically given the option to either pay a fine or appear at a
+
+27
+
+hearing. That would not be a manageable way to address individuals whose alleged offense
+
+28
+
+is entering the United States without authorization.
+7
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.524 Page 8 of 20
+
+1
+
+Defendant also argues that his prosecution under the Streamline process violates the
+
+2
+
+prohibition on selective prosecution and selective enforcement. “A selective-prosecution
+
+3
+
+claim is not a defense on the merits to the criminal charge itself, but an independent
+
+4
+
+assertion that the prosecutor has brought the charge for reasons forbidden by the
+
+5
+
+Constitution.” United States v. Armstrong, 517 U.S. 456, 463 (1996). The standard for
+
+6
+
+proving a claim of selective prosecution is demanding. Id. The executive branch, through
+
+7
+
+the Attorney General and United States Attorneys, has wide discretion in enforcing
+
+8
+
+criminal laws. Id. at 464. As long as there is probable cause to support a prosecution,
+
+9
+
+“whether or not to prosecute, and what charge to file or bring before a grand jury,” falls
+
+10
+
+squarely within the prosecutor’s discretion. Id.; see also United States v. Batchelder, 442
+
+11
+
+U.S. 114, 124 (1979) (“Whether to prosecute and what charge to file or bring before a
+
+12
+
+grand jury are decisions that generally rest in the prosecutor’s discretion.”).
+
+13
+
+Defendant does not argue that the fact he was charged under § 1325 reflects selective
+
+14
+
+prosecution. Instead, he argues that the manner in which his charge was processed reflects
+
+15
+
+selective prosecution. It is not clear that the manner of processing, rather than the fact of
+
+16
+
+prosecution, can be the basis of a claim for selective prosecution. Nonetheless, Defendant
+
+17
+
+has not produced any evidence that the § 1325 prosecutions of any similarly situated
+
+18
+
+individuals were processed using any method other than Streamline. CVB defendants and
+
+19
+
+§ 1325 defendants are not similarly situated merely because their offenses carry
+
+20
+
+comparable punishments. As discussed above, alienage is an element of § 1325, and the
+
+21
+
+statute passes constitutional muster due to Congress’s “broad power over immigration and
+
+22
+
+naturalization.” Fiallo, 430 U.S. at 792.
+
+23
+
+Defendant’s claim that the charge should be dismissed because of selective
+
+24
+
+enforcement also fails. A selective enforcement claim focuses on the investigatory
+
+25
+
+decisions of government agencies, such as the United States Customs and Border
+
+26
+
+Protection (“CBP”). United States v. Sellers, 906 F.3d 848, 853 (9th Cir. 2018). Although
+
+27
+
+investigatory decisions of agencies are not entitled to the same deference as prosecutorial
+
+28
+
+decisions by the Attorney General or United States Attorneys, id., Defendant’s selective
+8
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.525 Page 9 of 20
+
+1
+
+enforcement claim relates solely to how the charge brought against him by the United
+
+2
+
+States Attorney’s office was processed. Defendant’s claim is not related to any
+
+3
+
+investigatory activity by CBP or any other federal agency preceding the charge. The
+
+4
+
+Government’s use of the Streamline process does not amount to improper selective
+
+5
+
+prosecution or enforcement.
+
+6
+
+Defendant also argues that his prosecution violates procedural and substantive due
+
+7
+
+process because he should have been prosecuted under the CVB process. A procedural due
+
+8
+
+process analysis considers three factors: 1) the “private interest that will be affected by the
+
+9
+
+official action;” 2) “the risk of an erroneous deprivation of such interest through the
+
+10
+
+procedures used, and the probable value, if any, of additional or substitute procedural
+
+11
+
+safeguards;” and 3) “the Government’s interest, including the function involved and the
+
+12
+
+fiscal and administrative burdens that the additional or substitute procedural requirement
+
+13
+
+would entail.” Mathews v. Eldridge, 424 U.S. 319, 335 (1976). Although the Court agrees
+
+14
+
+that the liberty interest that is implicated when an individual is detained by the Government
+
+15
+
+is substantial, that interest must be weighed against the Government’s interest. Here, the
+
+16
+
+Government has put forth legitimate reasons why processing § 1325 defendants through
+
+17
+
+the alternative process of the CVB would not be practicable. Further, the procedures that
+
+18
+
+have been put into place through the Streamline process adequately protect against the risk
+
+19
+
+of an erroneous deprivation of that interest. Those procedures include a probable cause
+
+20
+
+review to support detention, appointment of counsel, and consideration of pretrial release
+
+21
+
+conditions under the Bail Reform Act. Therefore, Defendant’s procedural due process
+
+22
+
+claim does not establish a constitutional violation under the Mathews balancing test.
+
+23
+
+The Court further disagrees that the prosecution violates substantive due process
+
+24
+
+because the Streamline process shocks the conscience. As stated above, the Streamline
+
+25
+
+process included a probable cause review, appointment of counsel, and setting pretrial
+
+26
+
+release conditions. None of these procedures shocks the conscience.
+
+27
+28
+
+Therefore, the Court denies Defendant’s motion to dismiss on the grounds that
+Defendant’s prosecution violates equal protection and due process.
+9
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.526 Page 10 of 20
+
+1
+
+4.
+
+Constitutionality of § 1325
+
+2
+
+Defendant argues that § 1325 is unconstitutional following the U.S. Supreme
+
+3
+
+Court’s opinion in Sessions v. Morales-Santana, 137 S. Ct. 1678, 1686, 1700-01 (2017).
+
+4
+
+In Morales-Santana, the Supreme Court held that the gender-based distinctions for
+
+5
+
+derivative citizenship in 8 U.S.C. §§ 1401(a)(7) and 1409 (a) and (c) are unconstitutional
+
+6
+
+because they violate equal protection under the Due Process Clause. Morales-Santana, 137
+
+7
+
+S. Ct. at 1698, 1700-01. In United States v. Madero-Diaz, 752 F. App’x 537 (9th Cir. 2019),
+
+8
+
+the Ninth Circuit declined to extend Morales-Santana to the definition of “alien” that
+
+9
+
+applies to § 1325. Id. at 538. This Court does not have the authority or inclination to
+
+10
+11
+12
+
+overrule the Ninth Circuit Court of Appeals on this issue.
+Therefore, the Court denies Defendant’s motion to dismiss based on the alleged
+unconstitutionality of § 1325.
+
+13
+
+5.
+
+Failure to Allege the Elements of § 1325(a)(1)
+
+14
+
+Defendant argues that the charge should be dismissed because the Government
+
+15
+
+failed to allege that Defendant knew he was an alien when he attempted to enter the United
+
+16
+
+States.
+
+17
+
+The Court disagrees that knowledge of alienage is required under § 1325. Defendant
+
+18
+
+relies on Rehaif v. United States, 139 S. Ct. 2191 (2019) to make this argument. Rehaif,
+
+19
+
+however, is distinguishable. In Rehaif, the Supreme Court held that a defendant can be
+
+20
+
+convicted of possession of a firearm by an alien who is illegally or unlawfully present in
+
+21
+
+the United States under 18 U.S.C. § 922(g) only if the Government shows that the
+
+22
+
+defendant knew of his illegal or unlawful immigration status. Rehaif, 139 S. Ct. at 2196.
+
+23
+
+The Court’s interpretation of § 922(g) was governed by the overall statutory scheme, which
+
+24
+
+includes 18 U.S.C. § 924(a)(2). Section 924(a)(2) expressly provides for punishment of a
+
+25
+
+defendant who “knowingly violates” § 922(g). See Rehaif, 139 S. Ct. at 2194. There is no
+
+26
+
+similar express requirement in § 1325, however, that a violation be “knowing.”
+
+27
+
+Rehaif does address the general standard for interpreting the mens rea requirement
+
+28
+
+for an element of a criminal statute. Id. at 2195. The “longstanding presumption” is that
+10
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.527 Page 11 of 20
+
+1
+
+“Congress intends to require a defendant to possess a culpable mental state regarding ‘each
+
+2
+
+of the statutory elements that criminalize otherwise innocent conduct.’” Id. (quoting United
+
+3
+
+States v. X-Citement Video, Inc., 513 U.S. 64, 72 (1994)). However, unlike the statute at
+
+4
+
+issue in Rehaif, the element of alienage in a § 1325 charge does not criminalize “otherwise
+
+5
+
+innocent conduct.” See Nunez-Soberanis, 406 F. Supp. 3d at 843-45. The conduct that
+
+6
+
+§ 1325 criminalizes is attempting to cross the border outside the port of entry, free from
+
+7
+
+official restraint. See, e.g., United States v. Argueta-Rosales, 819 F.3d 1149, 1151 (9th Cir.
+
+8
+
+2016); United States v. Lombero-Valdovinos, 429 F.3d 927, 928-29 (9th Cir. 2005). Any
+
+9
+
+person, whether a United States citizen or an alien, who engages in such conduct violates
+
+10
+
+the laws of the United States. Nunez-Soberanis, 406 F. Supp. 3d. at 844 (citing
+
+11
+
+19 U.S.C. § 1459(a)). Therefore, the Government does not need to prove that a defendant
+
+12
+
+knew he was an alien to obtain a conviction for violating § 1325(a)(1).
+
+13
+14
+
+Therefore, the Court denies Defendant’s motion to dismiss on the grounds that the
+Government failed to allege all elements of § 1325.
+
+15
+
+B. Motion to Preserve Evidence and Compel Discovery
+
+16
+
+Defendant asks the Court to compel the production of further discovery in broad
+
+17
+
+categories. At the hearing on the motion, the Government stated that it had produced
+
+18
+
+discovery available to it to date, and that it would continue to comply with its discovery
+
+19
+
+obligations. Because Defendant has not identified any particular items or categories of
+
+20
+
+discovery that are at issue, the Court denies this motion without prejudice. See ECF No. 44.
+
+21
+
+The Court will, however, set a deadline for the Government to complete its production. All
+
+22
+
+discovery and information required by Giglio v. United States, 405 U.S. 150 (1972); Brady
+
+23
+
+v. Maryland, 373 U.S. 83 (1963); United States v. Henthorn, 931 F.2d 29 (9th Cir. 1991);
+
+24
+
+the Jencks Act; Fed. R. Crim. P. 16; and Fed. R. Evid. 404(b) must be produced by the
+
+25
+
+Government on or before October 12, 2020. The Government is required to confirm
+
+26
+
+whether any testifying witness’ was a member of the the Facebook “I’m 10-15” or
+
+27
+
+“America First X 2” groups, and produce any documentation available of content posted
+
+28
+
+by the witness in those groups such as likes, comments, or posts.
+11
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.528 Page 12 of 20
+
+1
+
+C. Motion to Suppress Statements
+
+2
+
+Defendant argues that statements made prior to, during, and after his arrest should
+
+3
+
+be suppressed. Because it is not clear what statements made by Defendant, if any, the
+
+4
+
+Government intends to introduce at trial, the Court denies this motion, without prejudice.
+
+5
+
+Defendant may renew this motion at the time of trial.
+
+6
+
+D. Motion for Leave to File Further Motions
+
+7
+
+Defendant seeks the Court’s approval to file further motions. This case has been
+
+8
+
+pending for almost ten months, and Defendant has already filed multiple motions,
+
+9
+
+including two motions to dismiss. Defendant seeks leave to file further motions without
+
+10
+
+identifying the subject matter or explaining why those motions could not have been filed
+
+11
+
+before. The Court denies this request without prejudice. Other than as specifically allowed
+
+12
+
+herein, before filing any further motions, Defendant must file a separate motion seeking
+
+13
+
+leave to do so that sets forth the subject matter of the motion and explains why the motion
+
+14
+
+was not filed earlier. The Court will grant the requested leave upon a showing of good
+
+15
+
+cause.
+
+16
+
+E. Motion to Prevent Civil Arrest
+
+17
+
+Defendant moves the Court to prohibit U.S. Immigration and Customs Enforcement
+
+18
+
+(“ICE”) from arresting him in the courthouse when he appears for trial. This is a request
+
+19
+
+for an injunction. See Nken v. Holder, 129 S. Ct. 1749, 1757 (2009) (an injunction is “a
+
+20
+
+means by which a court tells someone what to do or not to do”). As a magistrate judge, the
+
+21
+
+undersigned’s authority is constrained by 28 U.S.C. § 636(b)(1)(A), which expressly
+
+22
+
+excludes the issuance of injunctions from magistrate judges’ authority. See also Teczon-
+
+23
+
+Marin v. Dembin, Case No. 3:20-cv-01493-LAB, ECF No. 8.
+
+24
+
+At the hearing on the motion, Defendant argued that if § 636(b)(1)(A) is read to
+
+25
+
+preclude magistrate judges from issuing an injunction, then it must also be read to preclude
+
+26
+
+magistrate judges from issuing orders to suppress evidence in criminal cases, since
+
+27
+
+§ 636(b)(1)(A) states:
+
+28
+12
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.529 Page 13 of 20
+
+1
+
+5
+
+a judge may designate a magistrate judge to hear and determine any pretrial
+matter pending before the court, except a motion for injunctive relief, for
+judgment on the pleadings, for summary judgment, to dismiss or quash an
+indictment or information made by the defendant, to suppress evidence in a
+criminal case, to dismiss or to permit maintenance of a class action, to dismiss
+for failure to state a claim upon which relief can be granted, and to
+involuntarily dismiss an action.
+
+6
+
+28 U.S.C. § 636(b)(1)(A) (emphasis added). In this district, however, magistrate judges
+
+7
+
+regularly rule on motions to suppress evidence in misdemeanor criminal cases. To explain
+
+8
+
+that, it is helpful to compare § 636(a) and § 636(b). Section 636(a) sets forth the powers of
+
+9
+
+magistrate judges. Those powers include “the power to conduct trials under section 3401,
+
+10
+
+title 18, United States Code, in conformity with and subject to the limitations of that
+
+11
+
+section.” 28 U.S.C. § 636(a)(3). Section 3401 of title 18 allows magistrate judges to
+
+12
+
+conduct trials and sentencing of misdemeanors. Thus, the power of magistrate judges to
+
+13
+
+suppress evidence in misdemeanor criminal cases is affirmatively granted in § 636(a).
+
+14
+
+Section 636(b) prohibits district judges from designating magistrate judges to hear and
+
+15
+
+determine a motion to suppress evidence in a felony criminal case.
+
+2
+3
+4
+
+16
+
+Beyond the insurmountable issue of this Court’s lack of authority, this issue is not
+
+17
+
+ripe for determination at this juncture. “A claim is not ripe for adjudication if it rests upon
+
+18
+
+‘contingent future events that may not occur as anticipated, or indeed may not occur at all.”
+
+19
+
+Texas v. United States, 523 U.S. 296, 300 (1998) (quoting Thomas v. Union Carbide
+
+20
+
+Agricultural Prods. Co., 473 U.S. 568, 580–81 (1985)). There is no certainty that ICE will
+
+21
+
+attempt to arrest Defendant in the courtroom or courthouse at his trial. ICE is not required
+
+22
+
+to arrest Defendant there, and the outcome of the trial, including any potential custodial
+
+23
+
+sentence for Defendant, is undetermined.
+
+24
+
+This case is also in a markedly different posture than the cases relied on by
+
+25
+
+Defendant such as Ryan v. U.S. Immigration & Customs Enforcement, 382 F. Supp. 3d 142
+
+26
+
+(D. Mass 2019) and New York v. U.S. Immigration & Customs Enforcement, 431 F. Supp.
+
+27
+
+3d 377 (S.D.N.Y. 2019). In those cases, ICE was a party to the action. Here, Defendant
+
+28
+
+asks the Court to enjoin ICE even though it is not a party to this action. This is further
+13
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.530 Page 14 of 20
+
+1
+
+reason to deny the relief requested. Moreover, after Defendant filed this motion, the First
+
+2
+
+Circuit Court of Appeals vacated the preliminary injunction issued in Ryan on the grounds
+
+3
+
+that “the district court abused its discretion in finding that the plaintiffs were likely to
+
+4
+
+succeed on the merits of their argument that the INA implicitly incorporates a common law
+
+5
+
+privilege against civil arrests for individuals attending court on official business.” Ryan v.
+
+6
+
+U.S. Immigration & Customs Enforcement, ___ F.3d ___, 2020 WL 5201945, at *1 (1st
+
+7
+
+Cir. Sep. 1, 2020).
+
+8
+
+Therefore, the Court denies Defendant’s motion to prohibit his civil arrest in court.
+
+9
+
+F. Second Motion to Dismiss Based on Village of Arlington Heights
+
+10
+
+1. Parties’ Positions
+
+11
+
+Defendant further argues that the charge against him should be dismissed because
+
+12
+
+§ 1325(a)(1) is “presumptively unconstitutional.” Defendant argues that § 1325(a)(1)
+
+13
+
+violates the Equal Protection Clause because, although it is facially neutral, it was enacted
+
+14
+
+with a discriminatory purpose and disparately impacts a disfavored group.
+
+15
+
+Defendant contends that an analysis of § 1325(a)(1)’s constitutional validity must
+
+16
+
+begin with a review of transcripts from Congressional hearings and the Congressional
+
+17
+
+Record in the 1920s related to criminalization of illegal entry by aliens. These documents
+
+18
+
+show that immigration was seen at that time as a method to control the racial makeup of
+
+19
+
+American society. ECF No. 40-1 at 6 (“In our immigration law and practice, deportation is
+
+20
+
+the last line of defense against contamination of American family stocks by alien hereditary
+
+21
+
+degeneracy.”). They evidence consideration for basing standards for admission of aliens
+
+22
+
+on “total numbers, race, family stock, and individual quality,” and the use of immigration
+
+23
+
+policies to “control[] the character of future Americans.” Id. at 14, 21; see id. at 22
+
+24
+
+(“Immigration control is the greatest instrument which the Federal Government can use in
+
+25
+
+promoting race conservation of the Nation.”). The Congressional Record reflects an open
+
+26
+
+hostility to Mexican immigrants based on undeniably racist notions. ECF No. 40-1 at 117–
+
+27
+
+18.
+
+28
+
+Defendant contends that this legislative history demonstrates that “racism and
+14
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.531 Page 15 of 20
+
+1
+
+eugenics” were a “motivating factor” in the criminalization of illegal entry by aliens, and
+
+2
+
+that § 1325(a)(1) is tethered to this legislative history because it sets criminal penalties for
+
+3
+
+illegal entry. Applying the factors set forth in Village of Arlington Heights v. Metropolitan
+
+4
+
+Housing Dev. Corp., 429 U.S. 252 (1977) and using this legislative history, Defendant
+
+5
+
+argues that § 1325(a)(1) is presumptively unconstitutional because it is rooted in the
+
+6
+
+discriminatory intent underlying laws enacted in the 1920s. Defendant argues that reaching
+
+7
+
+back to this legislative history as a progenitor to § 1325(a)(1) is appropriate under the
+
+8
+
+Supreme Court’s recent opinions in Ramos v. Louisiana, 140 S. Ct. 1390 (2020), and
+
+9
+
+Espinoza v. Montana Dep’t of Revenue, 140 S. Ct. 2246 (2020). Defendant reads these
+
+10
+
+opinions to hold that where a predecessor law is tainted with discriminatory intent,
+
+11
+
+subsequent laws on the same subject matter that are non-discriminatory “do not cleanse the
+
+12
+
+law of its original taint.” ECF No. 40 at 19. Defendant further argues that § 1325(a)(1) also
+
+13
+
+violates equal protection under Arlington Heights because of its disparate impact on
+
+14
+
+Mexican and Latinx persons. Although current statistics are not available, Defendant points
+
+15
+
+to historical statistics showing that from 2000 to 2010, between 86% and 97% of people
+
+16
+
+apprehended by CBP were Mexican. ECF No. 40 at 20.
+
+17
+
+Defendant contends that because § 1325(a)(1) has a discriminatory purpose (based
+
+18
+
+on the 1920s legislative history) and a disparate impact, the burden shifts under Arlington
+
+19
+
+Heights for the Government to refute Defendant’s showing, or otherwise demonstrate that
+
+20
+
+the predecessor legislation – dating back to 1929 – would have been enacted without a
+
+21
+
+discriminatory purpose. Defendant moves the Court to set an evidentiary hearing on these
+
+22
+
+issues.
+
+23
+
+The Government disputes that there is an unbroken chain between the
+
+24
+
+criminalization of illegal entry in the 1920s, and passage of a criminal penalty for attempted
+
+25
+
+illegal entry in § 1325(a)(1). Although Congress made illegal entry a misdemeanor offense
+
+26
+
+in 1929, Congress did not criminalize attempted illegal entry until the Immigration Act of
+
+27
+
+1990. The Government argues that Defendant’s claim is non-justiciable because it is based
+
+28
+
+on the legislative history of a different law than the one under which Defendant is charged,
+15
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.532 Page 16 of 20
+
+1
+
+since attempted illegal entry was not criminalized until several decades after the legislative
+
+2
+
+history presented by Defendant.
+
+3
+
+The Government further argues that Arlington Heights is inapplicable, and
+
+4
+
+Defendant cannot establish an equal protection violation in the first instance, because of
+
+5
+
+Congress’ plenary power to regulate immigration. The Government contends that based on
+
+6
+
+this plenary power, the constitutionality of § 1325(a)(1) is subject to a highly deferential
+
+7
+
+standard of review that is limited to consideration of whether it is “facially legitimate and
+
+8
+
+bona fide.” ECF No. 43 at 11 (quoting Kleindienst v. Mandel, 408 U.S. 753, 769 (1972)).
+
+9
+
+Section 1325(a)(1) satisfies this standard of review because the United States has a
+
+10
+
+legitimate interest in deterring illegal entry, and § 1325(a)(1) serves that interest. The
+
+11
+
+Government also disputes that the high percentage of Mexican and Latinx persons affected
+
+12
+
+by § 1325(a)(1) demonstrates unlawful disparate impact, arguing that those statistics reflect
+
+13
+
+the geographic situation of the border.
+
+14
+
+2. Analysis
+
+15
+
+Defendant’s claim that § 1325(a)(1) is “presumptively unconstitutional” rests on the
+
+16
+
+Supreme Court’s opinion in Arlington Heights. In Arlington Heights, the Supreme Court
+
+17
+
+examined a challenge to a local agency’s denial of a rezoning request. 429 U.S. at 254. The
+
+18
+
+Court set forth factors to be considered in determining whether there is a discriminatory
+
+19
+
+purpose underlying government action. Id. at 266. These factors include “the impact of the
+
+20
+
+official action,” the “historical background” of the decision, the “specific sequence of
+
+21
+
+events leading up to the challenged decision,” and whether the decision reflects a departure
+
+22
+
+“from the normal procedural [or substantive] sequence.” Id. at 266–67.
+
+23
+
+Defendant’s Arlington Heights analysis of § 1325(a)(1) is fatally flawed, however,
+
+24
+
+because it relies entirely on legislative history from the 1920s, decades before § 1325(a)(1)
+
+25
+
+was enacted. The Government correctly points out two key subsequent enactments whose
+
+26
+
+legislative history Defendant has completely ignored: the Immigration and Nationality Act
+
+27
+28
+16
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.533 Page 17 of 20
+
+1
+
+of 1952, and the Immigration Act of 1990. 2
+
+2
+
+Defendant’s reliance on legislative history from the 1920s is based on two recent
+
+3
+
+Supreme Court cases: Ramos and Espinoza. In Ramos, the issue before the Court was
+
+4
+
+whether state laws allowing non-unanimous jury verdicts in criminal trials were
+
+5
+
+constitutional. 140 S. Ct. at 1392. The Court held that the Sixth Amendment right to a jury
+
+6
+
+trial “requires a unanimous verdict to convict a defendant of a serious offense.” Id. at 1394.
+
+7
+
+The Court noted at the outset that the state laws at issue were rooted in racism, although its
+
+8
+
+holding was based primarily on an analysis of common law rights to a unanimous jury. Id.
+
+9
+
+In his dissent, Justice Alito disagreed with any reference to the laws’ discriminatory
+
+10
+
+origins, stating that the reasons why the laws were originally adopted were not relevant to
+
+11
+
+the question of their constitutionality, particularly since they were later reenacted for
+
+12
+
+ostensibly non-discriminatory reasons. Id. at 1426 (Alito, J., dissenting). In response, the
+
+13
+
+majority explained that consideration of the reasons for adoption of the state laws at issue
+
+14
+
+was part of the Court’s “functional analysis” required by the Sixth Amendment. Id. at 1401
+
+15
+
+n.44. The majority confirmed that the state laws at issue would be unconstitutional even if
+
+16
+
+enacted for solely benign reasons. Id.
+
+17
+
+Several weeks later, the Court issued its opinion in Espinoza. There, the Court held
+
+18
+
+that a government program that provided tuition assistance to private schools, but expressly
+
+19
+
+excluded religious schools, violated the Free Exercise Clause of the Constitution. Espinoza,
+
+20
+
+140 S. Ct. at 2261. In a concurring opinion that was not joined by any other justices, Justice
+
+21
+
+Alito argued that Ramos set a precedent that requires the Court to examine the original
+
+22
+
+motivation behind the exclusion of religious schools from the program, which was based
+
+23
+24
+25
+26
+27
+28
+
+2
+
+The Government argues that Defendant’s tethering of the attempted illegal entry statute
+to legislative history of statutes that did not criminalize attempted illegal entry makes this
+issue non-justiciable because it asks the Court “to adjudicate the constitutionality of a
+crime which is not even charged.” ECF No. 43 at 10. The Court disagrees. The Court’s
+analysis is confined to the constitutionality of § 1325(a)(1), the charging statute in this
+case, under the arguments presented by Defendant.
+17
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.534 Page 18 of 20
+
+1
+
+on anti-Catholic sentiment. Id. at 2271 (Alito, J., concurring). Justice Sotomayor was the
+
+2
+
+only justice to address Justice Alito’s argument regarding the precedent of Ramos. In her
+
+3
+
+dissent, she noted that even a law with an “uncomfortable past” is not automatically
+
+4
+
+invalidated by its discriminatory origins. Id. at 2294 n.2 (Sotomayor, J., dissenting).
+
+5
+
+These cases do not support Defendant’s contention that “Ramos and Espinoza both
+
+6
+
+confirm that not only do courts examine the racial motivations of a law at the time of its
+
+7
+
+passage, later reenactments do not cleanse the law of its original taint.” ECF No. 40 at 19.
+
+8
+
+That faulty premise underlies Defendant’s entire motion. There is no support for
+
+9
+
+Defendant’s suggestion that § 1325(a)(1) should be judged according to legislative history
+
+10
+
+from laws enacted decades before, and Defendant has not attempted to argue that
+
+11
+
+§ 1325(a)(1) would be unconstitutional under an Arlington Heights analysis of relevant
+
+12
+
+legislative history. Defendant’s argument that § 1325(a)(1) is “presumptively
+
+13
+
+unconstitutional” under Arlington Heights fails.
+
+14
+
+As discussed above in reference to Defendant’s first motion to dismiss, the Court
+
+15
+
+agrees with the Government that the rational basis test applies to any analysis of the
+
+16
+
+constitutional validity of § 1325(a)(1) under the Equal Protection Clause. In United States
+
+17
+
+v. Hernandez-Guerrero, 147 F.3d 1075 (9th Cir. 1998), the Ninth Circuit addressed
+
+18
+
+congressional power to pass criminal statutes regulating immigration. The defendant there
+
+19
+
+challenged congressional authority to enact 8 U.S.C. § 1326, a related statute to
+
+20
+
+§ 1325(a)(1) that makes illegal entry and presence a felony. The court rejected this
+
+21
+
+contention, holding that “Congress possessed ample authority to enact § 1326 pursuant to
+
+22
+
+its inherent immigration power, … .” Hernandez-Guerrero, 147 F.3d at 1078. The court
+
+23
+
+further held that because the clear purpose of § 1326 “‘is to deter aliens who have been
+
+24
+
+forced to leave the United States from reentering the United States,’ … § 1326 is well
+
+25
+
+within the ambit of Congress’s sweeping power over immigration matters.” Id. (quoting
+
+26
+
+United States v. Cooke, 850 F. Supp. 302, 306 (E.D. Pa. 1994).
+
+27
+
+In United States v. Lopez-Flores, 63 F.3d 1468, 1470 (9th Cir. 1995), the Ninth
+
+28
+
+Circuit addressed an equal protection challenge to the Hostage Taking Act, 18 U.S.C. §
+18
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.535 Page 19 of 20
+
+1
+
+1203, which classifies offenders and victims based on alienage. The appellants argued that
+
+2
+
+the Act violated the Equal Protection Clause because of this classification. Id. The Ninth
+
+3
+
+Circuit held that “[f]ederal legislation that classifies on the basis of alienage, enacted
+
+4
+
+pursuant to Congress’ immigration or foreign powers, is therefore subject to the lowest
+
+5
+
+level of judicial review.” Id. at 1475 (emphasis in original); see also United States v. Ruiz-
+
+6
+
+Chairez, 493 F.3d 1089, 1091 (9th Cir. 2007) (applying rational basis review to sentencing
+
+7
+
+guidelines that provide enhanced punishment for illegal immigrants).
+
+8
+
+Section 1325(a)(1) readily satisfies the rational basis test. The Ninth Circuit has
+
+9
+
+already found that a similar felony statute, 8 U.S.C. § 1326, satisfies rational basis because
+
+10
+
+it “‘is a regulatory statute enacted to assist in the control of unlawful immigration by
+
+11
+
+aliens.’” Hernandez-Guerrero, 147 F.3d at 1078 (quoting Pena-Cabanillas v. United
+
+12
+
+States, 394 F.2d 785, 788 (9th Cir. 1968)). Section 1325(a)(1) serves the same purpose of
+
+13
+
+deterring illegal immigration. Any disparate impact of § 1325(a)(1) on Mexicans and
+
+14
+
+Latinx persons is more readily explained by the geographic proximity of the border to
+
+15
+
+Mexico and Latin America than by racial animus. See Dep’t. of Homeland Security v.
+
+16
+
+Regents of the Univ. of Cal., 140 S. Ct. 1891, 1915–16 (2020) (plurality). In any event,
+
+17
+
+disparate impact alone, absent some further evidence of discriminatory intent, would not
+
+18
+
+be sufficient to demonstrate an equal protection violation. Washington v. Davis, 426 U.S.
+
+19
+
+229, 242 (1976).
+
+20
+21
+
+Therefore, the Court denies Defendant’s second motion to dismiss based on Village
+of Arlington Heights.
+
+22
+
+G. Motion to Stay
+
+23
+
+Defendant moves the Court to stay the proceedings to allow him to file an
+
+24
+
+interlocutory appeal if the Court denies his motion to prohibit his arrest at court. The
+
+25
+
+Government opposes.
+
+26
+
+In determining whether a stay is appropriate, a court must consider the likelihood of
+
+27
+
+success on the merits, irreparable injury to the defendant or others involved in the
+
+28
+
+proceeding, and the public interest. Leiva-Perez v. Holder, 640 F.3d 962, 964 (9th Cir.
+19
+3:19-mj-24442-AHG
+
+ Case 3:19-mj-24442-AHG Document 45 Filed 09/14/20 PageID.536 Page 20 of 20
+
+1
+
+2016). Here, the Court finds that these factors weigh against a stay. This is primarily
+
+2
+
+because there is no likelihood of success on the merits of Defendant’s motion to prohibit
+
+3
+
+his arrest. As noted above, a magistrate judge has no authority to grant such a request, the
+
+4
+
+issue is not ripe for determination in any event, and the requested order is directed at a non-
+
+5
+
+party. The irreparable injury factor also weighs against a stay. Defendant makes no
+
+6
+
+argument that he cannot present a full defense to the charge because he is in fear of arrest
+
+7
+
+inside the courthouse. Defendant’s arrest following trial is likely an inevitability if he has
+
+8
+
+no grounds for remaining in the United States legally, and the requested order would not
+
+9
+
+change that circumstance. Finally, the Court does not discern a particular public interest in
+
+10
+
+the delay of Defendant’s trial, particularly given the other factors to be considered for
+
+11
+
+issuing a stay.
+
+12
+
+Therefore, the Court denies Defendant’s motion for a stay pending interlocutory
+
+13
+
+appeal.
+
+14
+
+III.
+
+CONCLUSION
+
+15
+
+For the reasons set forth above, the Court: (1) DENIES Defendant’s first motion to
+
+16
+
+dismiss the complaint; (2) DENIES Defendant’s motion to preserve evidence and Compel
+
+17
+
+discovery, but sets a deadline of October 12, 2020 to complete production; (3) DENIES
+
+18
+
+Defendant’s motion to suppress statements, without prejudice; (4) DENIES Defendant’s
+
+19
+
+motion for leave to file further motions, without prejudice; (5) DENIES Defendant’s
+
+20
+
+motion to prevent his civil arrest; (6) DENIES Defendant’s second motion to dismiss based
+
+21
+
+on Village of Arlington Heights; and (7) DENIES Defendant’s motion to stay.
+
+22
+23
+
+IT IS SO ORDERED.
+Dated: September 14, 2020
+
+24
+25
+26
+27
+28
+20
+3:19-mj-24442-AHG
+
+ 

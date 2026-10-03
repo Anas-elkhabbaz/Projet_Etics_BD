@@ -1,0 +1,1753 @@
+Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 1 of 21
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MASSACHUSETTS
+
+UNITED STATES OF AMERICA
+No. 13-CR-10200-GAO
+v.
+DZHOKHAR TSARNAEV
+
+MOTION TO SUPPRESS STATEMENTS
+Defendant, Dzokhar Tsarnaev, by and through counsel, respectfully moves that this Court
+suppress all statements that he made to law enforcement agents while he was hospitalized at Beth
+Israel Deaconess Medical Center. The agents began interrogating him approximately 20 hours
+after he arrived at the hospital. They questioned him on and off over a period of 36 hours,
+despite the fact that he quickly allayed concerns about any continuing threats to public safety,
+repeatedly requested a lawyer, and begged to rest as he recovered from emergency surgery and
+underwent continuing treatment for multiple and serious gunshot wounds.
+Suppression is required for the following reasons:
+1)
+
+The statements were involuntary, see Mincey v. Arizona, 437 U.S. 385 (1978);
+
+2)
+
+The so-called “public safety exception” does not permit admission of the
+statements; and
+
+3)
+
+The delay in presenting Mr. Tsarnaev to a court, for the purpose of prolonging
+interrogation without counsel, violated his due process rights.
+Facts
+
+In the early morning hours of April 19, 2013, Mr. Tsarnaev was shot and his brother,
+Tamerlan, was killed during a gun battle in the streets of Watertown. Mr. Tsarnaev fled. He was
+arrested some 20 hours later, after suffering multiple gunshot wounds when police unleashed a
+
+- 1-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 2 of 21
+
+barrage of bullets into the boat where he was hiding, unarmed. Before he surrendered to law
+enforcement, he also was subjected to a number of “flash-bang” grenades, designed to disorient a
+suspect.
+Mr. Tsarnaev was transported by ambulance to Beth Israel Deaconess Medical Center
+(“BIDMC”) at approximately 9 p.m. on April 19. He was in critical condition, with numerous
+serious injuries from gunshot wounds to his head, face, throat, jaw, left hand, and both legs. 1
+Although oriented upon arrival, Mr. Tsarnaev's mental status suddenly declined and he required
+intubation to keep him alive during the initial examination of his injuries. After being stabilized,
+he underwent emergency surgery to address life-threatening wounds. At about 7 a.m. on April
+20, he was transferred to the Surgical Intensive Care Unit. He was given narcotic pain
+medication throughout the following days.
+The news media publicized Mr. Tsarnaev’s arrest and hospitalization around the world.
+Many of these news accounts highlighted federal officials’ announcement that they intended to
+interrogate him without first giving him constitutionally-required Miranda warnings.
+
+See, e.g.,
+
+ABC News, “Feds Make Miranda Rights Exception for Marathon Bombing Suspect Dzhokhar
+Tsarnaev” April 19, 2013, http://abcnews.go.com/blogs/politics/2013/04/next-for-bombingsuspect-high-value-detainee-interrogation-group/.
+Agents from the FBI “High Value Interrogation Group” began questioning Mr. Tsarnaev
+at 7:22 p.m. on April 20. See FBI 302 report dated April 21, 2013 (filed under seal as Exhibit
+1S), at 6-7; agent notes dated April 20, 2013 (filed under seal as Exhibit 2S). The interrogation
+continued, with breaks ranging from 30 minutes to 3 hours and 13 minutes, until 7:05 a.m. the
+next day. Id. The agents resumed interrogation at 5:35 p.m. on April 21, and continued, with
+1
+
+The description of Mr. Tsarnaev’s medical condition and treatment is based on a review of
+records from the Beth Israel Deaconess Medical Center.
+
+- 2-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 3 of 21
+
+breaks of varying lengths, until 9:00 a.m. the following day, April 22, when counsel was
+appointed to represent Mr. Tsarnaev. FBI 302 Report dated April 22, 2013 (filed under seal as
+Exhibit 3S), at 8-9; agent notes dated April 21, 2013 (filed under seal as Exhibit 4S). A
+complaint charging Mr. Tsarnaev with crimes carrying a potential death sentence had been filed
+the previous evening, under seal. See DE 1, 3. Throughout the time that Mr. Tsarnaev was
+being questioned, lawyers from the Federal Public Defender’s Office repeatedly asked the court
+to appoint them to represent Mr. Tsarnaev.
+Before interrogation began, two lawyers from the Federal Public Defender Office and a
+private lawyer who had been appointed by the state public defender’s office (pursuant to its
+authority to assign lawyers before charges are filed in homicide cases) attempted to meet with
+Mr. Tsarnaev at the hospital. They were turned away by FBI agents, who refused to accept a
+letter to Mr. Tsarnaev notifying him of counsel’s availability. See Affidavit of Charles P.
+McGinty (“McGinty Aff.”), attached as Exhibit 1. One of the agents insisted, nonsensically, that
+Mr. Tsarnaev was not in custody. Id.
+Hospital records show that Mr. Tsarnaev suffered gunshot wounds, including one to the
+head, which likely caused traumatic brain injury. Following emergency surgery, Mr. Tsarnaev
+was prescribed a multitude of pain medications, including Fentanyl, Propofol and Dilaudid. 2
+The side effects of these medications include confusion, light-headedness, dizziness, difficulty
+concentrating, fatigue, and sedation. Damage to cranial nerves required that his left eye be
+2
+
+The FBI reports state that, according to two nurses, Mr. Tsarnaev was taking only “phenatyl”
+(presumably Fentanyl) and antibiotics. The medical records reflect that Mr. Tsarnaev received
+Dilaudid during this time period and may have received Propofol as well. “Fentanyl, which is
+
+used to relieve severe pain and is often given to end-stage cancer patients, can be as much as 40
+times more powerful than heroin and 100 times more powerful than morphine.” Brian MacQuarrie,
+Deadly opioid Fentanyl confirmed in Boston overdose, Boston Globe, April 30, 2014, available at
+http://www.bostonglobe.com/metro/2014/04/29/fentanyl-deadly-opiod-confirmed-bostonoverdose/LVVkH6Jzng1CJypurWWM1L/story.html .
+
+- 3-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 4 of 21
+
+sutured shut; his jaw was wired closed; and injuries to his left ear left him unable to hear on that
+side. Although apparently able to mouth words when asked about his medical condition by
+hospital staff, he was unable to talk, in part because of a tracheotomy. He was handcuffed to the
+bed railing and under heavy guard.
+A “high powered” gunshot wound had fractured the base of his skull. See transcript of
+April 22, 2013 testimony of Dr. Stephen Odom, at 4, DE 13. This injury would likely have
+caused a concussion. Immediately before the initial appearance on April 22, Dr. Odom, who was
+treating Mr. Tsarnaev, described his condition at that time — approximately 36 hours after the
+agents began their interrogation and two hours after it ended — as “guarded.” Id. Mr. Tsarnaev
+had received Dilaudid, a narcotic painkiller, at 10 a.m. on April 22. Id.
+The first interrogation began at 7:22 p.m. on April 20 and continued through the night
+until 7 a.m. on April 21. Exhibit 1S, 2S. Mr. Tsarnaev wrote answers to questions in a notebook
+because he was unable to speak. These notes reflect his attempt to respond to urgent questions
+(he assured the agents that no public safety threat remained), as well as his poor functioning and
+limited cognitive ability. On the first page, he wrote his address in Cambridge incorrectly the
+first time. See notes (filed under seal as Exhibit 5S). His next note assured the agents that there
+were no more bombs. On the fourth page, he wrote, “is it me or do you hear some noise,” an
+indication of how those injuries were interfering with his cognitive processes. 3 The notes
+contain repeated requests to be allowed to rest and for a lawyer.
+Interspersed with these pleas are his assurances that no one other than his brother was
+involved, that there was no danger to anyone else, and that there were no remaining bombs. In
+all, he wrote the word “lawyer” ten times, sometimes circling it. At one point, he wrote, “I am
+3
+
+It is unclear whether Mr. Tsarnaev was hearing actual sounds or experiencing auditory
+hallucinations at that point. A later note reads, “whats that noise, she made it stop can you tell
+her please”.
+
+- 4-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 5 of 21
+
+tired. Leave me alone. I want a l[illegible].” His pen or pencil then trails off the page,
+suggesting that he either fell asleep, lost motor control, or passed out. At least five other times in
+these pages, he begged the agents to leave him alone and to let him sleep. He also wrote, “I’m
+hurt,” “I’m exhausted,” and “Can we do this later?” At one point, he wrote, “You said you were
+gonna let me sleep.” Another note reads, “I need to throw up.”
+According to the FBI report regarding the interrogation on April 20-21, Exhibit 1S, Mr.
+Tsarnaev “asked to speak to a lawyer on multiple occasions” sometime between 8:35 pm and
+9:05 pm on April 20. “JAHAR was told that he first needed to answer questions to ensure that
+the public safety was no longer in danger from other individuals, devices, or otherwise.” Id. The
+reports omit any mention of Mr. Tsarnaev’s repeated pleas for sleep.
+Mr. Tsarnaev also asked the agents several times about his brother, who, by the time of
+questioning, had been dead for nearly 48 hours. It is apparent that the agents falsely told him
+that Tamerlan was alive. One of Mr. Tsarnaev’s notes reads: “Is my brother alive I know you
+said he is are you lying Is he alive? One person can tell you that.” Exhibit 5S. Another asked:
+“Is he alive, show me the news! Whats today? Where is he?” Id. In his last note, 4 Mr. Tsarnaev
+wrote, “can I sleep? Can you not handcuff my right arm? Where is my bro Are you sure.” Id.
+Despite Mr. Tsarnaev’s entreaties to be left alone, allowed to rest, and provided with a
+lawyer, the agents persisted in questioning him throughout the night and into the morning of
+April 20. The FBI report and notes makes it clear that the interrogation was wide-ranging,
+covering everything from how and where the bombs were made to his beliefs about Islam and
+U.S. foreign policy, as well as his sports activities, future career goals, and school history. The
+interrogation resumed on the afternoon of April 21. See FBI report dated April 22, Exhibit 3S;
+4
+
+The notes do not contain any indication of when they were written. Apart from the sequence in
+which they were provided, it is impossible even to determine on what day they were written.
+
+- 5-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 6 of 21
+
+Agent notes, Exhibit 4S. This second round of interrogation covered many of the same topics as
+the first one, eliciting a detailed description of the brothers’ activities during the days after the
+bombings.
+It is hard to ascertain exactly what questions the agents posed, since their reports simply
+summarize his statements in a continuous narrative format and their notes reflect only a few
+questions. In keeping with its controversial and much-criticized practice, the FBI chose not to
+make any audio or video recording of the questioning. Such a recording would have permitted
+the Court to assess Mr. Tsarnaev’s condition and functioning, to hear the actual words he used
+and the way he used them, and to verify the sequence of events. Instead, the FBI reports
+reconfigure Mr. Tsarnaev’s statements into an unbroken narrative. Mr. Tsarnaev’s handwritten
+notes provide a much clearer picture of the circumstances of the interrogation than the 302
+reports do.
+At 6:45 p.m. on Sunday evening, April 21, a criminal complaint was filed under seal. DE
+3. However, counsel were not appointed until the next morning. It was only at that point that the
+agents ceased interrogation.
+Argument
+I.
+
+THE STATEMENTS WERE NOT VOLUNTARY AND THEREFORE MUST BE SUPPRESSED.
+Any use of an involuntary statement against a defendant is a denial of due process. See
+
+Mincey v. Arizona, 437 U.S. 385, 398 (1978). A statement is involuntary if it was not “the
+product of a rational intellect and a free will.” Townsend v. Sain, 372 U.S. 293, 306 (1963)
+(quoting Blackburn v. Alabama, 361 U.S. 199, 208 (1960). The government bears the burden of
+proving that any statements it seeks to introduce were made voluntarily. Lego v. Twomey, 404
+U.S. 477, 489 (1972).
+
+- 6-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 7 of 21
+
+In Mincey, the Supreme Court ordered a new trial based on its conclusion that statements
+made in a hospital bed by an injured suspect, who repeatedly requested a lawyer, should not have
+been used to impeach him. The Court wrote:
+It is hard to imagine a situation less conducive to the exercise of “a rational
+intellect and a free will” than Mincey’s. He had been seriously wounded just a
+few hours earlier, and had arrived at the hospital “depressed almost to the point of
+coma,” according to his attending physician. Although he had received some
+treatment, his condition at the time of [the] interrogation was still sufficiently
+serious that he was in the intensive care unit.
+Mincey, 437 U.S. at 398.
+The facts presented here may be distinguishable in some respects; for example, Mr.
+Tsarnaev did not complain of “unbearable pain,” as Mincey did, although hospital records reflect
+that Mr. Tsarnaev’s pain level fluctuated during this period 5 and increased as medications
+started to wear off. Of course, Mincey had not been shot in the head or subjected to flash-bang
+grenades. Like Mincey, Mr. Tsarnaev “was questioned [while] lying on his back on a hospital
+bed,” connected to tubes and medical equipment. Like Mincey, “[h]e was, in short, ‘at the
+complete mercy’ of [his interrogators], unable to escape or resist the thrust of [the]
+interrogation.” Id. at 399 (citation omitted).
+Mincey was questioned for four hours, with breaks for medical treatment. Mr. Tsarnaev
+was questioned during two sessions, lasting a total of more than 27 hours, with breaks. During
+these breaks, he was receiving medical treatment. The government may argue that Mr. Tsarnaev,
+
+5
+
+The hospital records reflect “generalized” complaints of pain on April 20 and “significant
+surgical pain” on April l 21 at 3:28 pm. On April 21, he had “incisional pain and generalized
+discomfort”. On April 22, he rated the pain in his hand as 7 on a scale of 1 to 10, which is
+considered “severe” and “very intense.” It is defined as pain that “completely dominates your
+senses, causing you to think unclearly about half the time.” See
+https://lane.stanford.edu/portals/cvicu/HCP_Neuro_Tab_4/0-10_Pain_Scale.pdf.
+
+- 7-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 8 of 21
+
+unlike the defendant in Mincey, did not give incoherent answers. 6 That is not necessarily true.
+Mr. Tsarnaev gave inconsistent responses — for example, in answering questions about when he
+first learned of the bombing plan — and his written notes are at times illegible or simply trail off.
+But more to the point, the medication that Mr. Tsarnaev was administered before and during both
+interrogation sessions — including the opioid painkiller Dilaudid, given intravenously — had
+disinihibiting and sedative effects and impaired his judgment, increasing his susceptibility to
+pressure. Cf. Townsend v. Sain, 372 U.S. 293, 307-08 (1963) (confession given after “truth
+serum” administered to suspect).
+Like Mincey, Mr. Tsarnaev “clearly expressed his wish not to be interrogated.” Id.
+These entreaties — along with his pleas for a lawyer, for a chance to rest, and to be left alone —
+were ignored by the agents. The Mincey Court’s conclusion is equally applicable here:
+[T]he undisputed evidence makes clear that Mincey wanted not to answer
+Detective Hurst. But Mincey was weakened by pain and shock, isolated from
+family, friends, and legal counsel, and barely conscious, and his will was simply
+overborne. Due process of law requires that statements obtained as these cannot
+be used in any way against a defendant at his trial.
+Mincey, 437 U.S. at 402.
+In some respects, moreover, the interrogation in Mincey was less coercive than the
+agents’ relentless interrogation here. In Mincey, the interrogator at least told the suspect, “If you
+want a lawyer now, I cannot talk to you any longer, however you don’t have to answer any
+questions if you don’t want to.” Id. at 401. No such assurances were given to Mr. Tsarnaev.
+Instead, agents made clear by word and deed that they would not allow him to see a lawyer until
+
+6
+
+At the initial appearance, which occurred an hour or two after the last round of interrogation
+ended, the magistrate judge found Mr. Tsarnaev to be “alert, mentally competent, and lucid.”
+DE 11 at. 7. That finding does not, however, demonstrate that he was competent to waive his
+rights and voluntarily submit to questioning.
+
+- 8-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 9 of 21
+
+they had finished questioning him. 7 He was thus given no choice but to submit to lengthy
+interrogation. That fact distinguishes this case from others where a defendant who was
+questioned while recovering from injuries challenged the use of statements against him or her.
+Cf. United States v. Siddiqui, 699 F.3d 690, 707 (2d Cir. 2012) (agent routinely asked defendant
+hospitalized in Afghanistan if she wished to speak with them; if she said she did not, the agent
+remained silently in the room).
+United States v. Abdulmutallab, No. 10-20005, 2011 U.S. Dist. LEXIS 105462 (E.D.
+Mich. Sept. 16, 2011), and United States v. Khalil, 214 F.3d 111 (2d Cir. 2000), are not to the
+contrary. In Abdulmutallab, unlike here, “there was no evidence that Defendant was reluctant to
+answer questions.” Abdulmutallab, 2011 U.S. Dist. LEXIS 105462 at *4. Nor did he apparently
+request a lawyer. The same was true in Khalil, 214 F.3d 111 (2d Cir. 2000).
+The undisputed fact that the agents expressly told Tsarnaev that he would not get a
+lawyer until they were done questioning him also renders the statements involuntary. See
+Haynes v. Washington, 373 U.S. 503 (1963) (pre-Miranda case holding that written statements
+obtained from suspect by police who rejected his request to contact his wife so she could get him
+a lawyer until he cooperated and signed a confession rendered his ensuing statements
+inadmissible). In Haynes, the Court emphasized that “[t]hough the police were in possession of
+evidence more than adequate to justify his being charged without delay . . . Haynes was not taken
+before a magistrate and granted a preliminary hearing until he had acceded to demands that he
+give and sign the written statement.” Id. at 510. Based on those facts, the Court found that
+Haynes “was alone in the hands of the police, with no one to advise or aid him, and he had ‘no
+reason not to believe that the police had ample power to carry out their threats . . . to continue,
+7
+
+Here, there is the additional fact that counsel unsuccessfully tried to see Mr. Tsarnaev, who was
+not informed of their availability.
+
+- 9-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 10 of 21
+
+for a much longer period if need be, the incommunicado detention – as in fact was actually
+done.” Id. at 514. Despite a half-century of precedents since Haynes forbidding the use of such
+tactics, law enforcement resorted to them here.
+Before leaving this issue, a word must be said about the government’s failure to record
+the interrogation. Presumably, given the fact that the FBI arranged for members of its High
+Value Intelligence Group to travel to Boston, it could easily have arranged for electronic
+recording of the questions asked and the answers given. Such recordings would have provided
+this Court with direct evidence of Mr. Tsarnaev’s condition, his demeanor, and the manner in
+which the questions were posed. It is clear that government officials — who surely conferred at
+the highest levels about the scope and timing of the questioning, given the U.S. Attorney’s
+televised announcement of how it would proceed — made a deliberate decision not to create
+such a record. Indeed, a 2006 internal FBI memorandum, cited as among the reasons not to tape
+a defendant’s statement, explains that techniques used by investigators to question suspects “do
+not always come across in recorded fashion to lay persons as proper means of obtaining
+information from defendants.” FBI Memorandum dated March 23, 2006, attached as Exhibit 2.
+The memorandum goes on: “Initial resistance may be interpreted as involuntariness and
+misleading a defendant as to the quality of the evidence against him may appear to be unfair
+deceit.” Id.
+According to recent disclosures, current FBI policy permits interviews to be recorded
+with prior approval of the Assistant Special Agent in Charge. See FBI Domestic Investigations
+and Operations Guide (2011) (“DIOG”) at18.6. 8 Given the massive mobilization of FBI
+8
+
+The memorandum and policy have been widely criticized for being too restrictive. See, e.g.,
+Steve Chapman, The FBI shuts a window on the truth: recording interrogations is way overdue,”
+THE CHICAGO TRIBUNE, July 8, 2010, available at http://articles.chicagotribune.com/2010-0708/news/ct-oped-0708-chapman-20100708_1_recording-interrogations-fbi-device. In one
+
+- 10-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 11 of 21
+
+personnel and resources, this could have easily been obtained — if the government wished to
+create a record. The FBI policy is not intended to “indicate that the FBI disfavors recording.
+Indeed, there are many circumstances in which audio or video recording of an interview may be
+prudent.” Exhibit 2. If this case did not present such circumstances, it is hard to imagine one
+that would. The government’s apparently deliberate refusal to create an electronic record should
+weigh against any claim it now makes that Mr. Tsarnaev’s hospital statements were voluntarily
+given.
+If the statements were not voluntary, they must be excluded. The public safety exception
+to Miranda, first recognized in New York v. Quarles, 467 U.S. 649 (1984) does not apply to
+involuntary statements. United States v. DeSantis, 870 F.3d 536, 540 (9th Cir. 1989). Cf.
+Quarles at 654 (case involved “no claim that respondent’s statements were actually compelled
+by police conduct which overcame his will to resist”).
+II.
+
+THE PUBLIC SAFETY EXCEPTION TO MIRANDA DOES NOT PERMIT ADMISSION
+9
+OF THE STATEMENTS.
+In Quarles, the Supreme Court addressed the admissibility of a rape suspect’s response to
+
+a police officer’s question, posed before Miranda warnings were given, concerning the location
+of a missing gun. The suspect, who was wearing an empty holster when arrested, told police
+highly publicized case, a U.S. Attorney in Arizona was fired after requiring agents in his district
+to record statements by defendants. See E. Lipton, J. Steinhauer, Battle Over F.B.I. Policy
+Against Taping of Suspects Comes to Light in Firing Inquiry, THE NEW YORK TIMES, April 2,
+2007, available at
+http://query.nytimes.com/gst/fullpage.html?res=9C03E5D71E30F931A35757C0A9619C8B63.
+9
+
+This issue may be moot, as government counsel informed defense counsel by e-mail on the
+afternoon of May 7, as this motion was being finalized, “that it does not intend to use Mr.
+Tsarnaev’s statements at Beth Israel in its case-in-chief at trial or sentencing.” Because,
+however, the government has not agreed to forego all potential uses of the statement, e.g., in
+rebuttal, and has explicitly declined to disavow reliance on Quarles, defendant seeks by this
+motion to preserve all issues regarding the admissibility of the statements.
+
+- 11-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 12 of 21
+
+where to find the weapon. The Supreme Court held that the statement was admissible, where the
+police, “in the very act of apprehending a suspect, were confronted with the immediate necessity
+of ascertaining the whereabouts of a gun which they had every reason to believe the suspect had
+just removed from his empty holster and discarded in the supermarket.” Quarles, 467 U.S. at
+657.
+The scope of the public safety exception has been debated ever since the Supreme Court
+first recognized its existence in Quarles. Defense counsel submit that, however broad it may be,
+applying it to the facts of this case cannot be justified.
+A.
+
+The Public Safety Exception does not Apply Here.
+
+In Quarles, the Supreme Court upheld the admission of statements made moments after
+arrest to officers who, “in the very act of apprehending a suspect, were confronted with the
+immediate necessity” of determining where the suspect had discarded a gun. Quarles, 467 U.S.
+at 657. As soon as the suspect told them where the gun was, they read him his Miranda rights
+before asking further questions. Id. at 652.
+The prolonged and comprehensive interrogation at issue here is the very opposite of what
+the Court approved in Quarles. When Mr. Tsarnaev’s interrogation began, more than five days
+had passed since the bombings and he had been in custody for nearly 24 hours. His brother was
+dead. Agents had spent nearly 12 hours searching the Tsarnaev family’s Cambridge home.
+They had also searched and secured all cars known to have been used by the Tsarnaev brothers.
+Whatever emergent circumstances might have existed earlier in the week had largely, if not
+completely, dissipated.
+The first round of interrogation lasted nearly 12 hours, with breaks. The second round,
+resumed on the afternoon of April 21, lasted more than 15 hours and ended only when counsel
+
+- 12-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 13 of 21
+
+were appointed. Mr. Tsarnaev had assured his interrogators — apparently within the first few
+minutes — that there were no other bombs, that no one else had been involved in the plot, and
+that no further danger remained. He provided them with details about how the bombs were
+built. But still the questioning continued for hours, in what was obviously an effort to extract as
+much incriminating information as possible, without regard for the protections of the Fifth
+Amendment.
+The FBI agents elicited information about the brothers’ activities before and after the
+bombings, about the murder of Sean Collier, about the carjacking, and about their family
+relationships and history. These questions went well beyond even the Department of Justice’s
+own written policy regarding use of the public safety exception to interrogate members of
+terrorist organizations. This policy contemplates limited questioning outside of Miranda about
+“possible impending or coordinated terrorist attacks; the location, nature and threat posed by
+weapons that might post (sic) an imminent danger to the public; and the identities, locations, and
+activities or intentions of accomplices who may be plotting additional imminent attacks.” FBI,
+“Custodial Interrogation for Public Safety and Intelligence-Gathering Purposes of Operations
+Terrorists Inside the United States,” (October 21, 2010), as published in The New York Times on
+March 25, 2011, attached as Exhibit 3. The memorandum encourages agents to “ask any and all
+questions that are reasonably prompted by an immediate concern for the safety of the public or
+the arresting agents without advising the arrest (sic) of his Miranda rights.” Id. Here, the agents
+instead used the opportunity to conduct a thorough debriefing of Mr. Tsarnaev, with no regard
+for constitutional restrictions.
+Some courts have extended the Quarles exception to situations lacking the immediacy
+presented in Quarles itself. See, e.g., Trice v. United States, 662 A.2d 891 (D.C. App. 1995)
+
+- 13-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 14 of 21
+
+(questioning regarding presence of gun in apartment where defendant was arrested four days
+after shooting). But undersigned counsel is unaware of any case that has applied the public
+safety exception to an interrogation as prolonged, wide-ranging, and remote in time from the
+public safety emergency as this one.
+The use of the “public safety” exception in terrorism cases was brought into sharp focus
+by the arrest of the so-called “underwear bomber” on Christmas Day in 2009. In that case,
+agents questioned the suspect within four hours of his arrival at the hospital. See Abdulmutallab,
+2011 U.S. Dist. LEXIS 105462 at *3. The agents gave Abdulmutallab Miranda warnings after
+questioning him for 50 minutes. Id. at *4. The pre-Miranda questions “sought to identify any
+other attackers or other potentially imminent attacks[.]” Id. at *17. The suspect told the agents
+that he was not in pain and expressed no reluctance to answer questions. Id. at *4. In that case,
+the agents knew that Abdulmutallab “claimed to be acting on behalf of al-Qaeda,” id. at *3, a
+circumstance which made the threat of other attacks far more grave. Cf. Khalil, 214 F.3d at 121
+(brief questioning of suspected terrorist at hospital immediately after bombs were discovered and
+before they were disarmed produced admissible statements). These cases illustrate the narrow
+scope of the Quarles exception to Miranda and provide no support for the radical expansion of
+Quarles that would be required to uphold admission of the statements obtained here.
+B. The Public Safety Exception does not Permit Admission of Statements
+Obtained after a Defendant Invokes his Right to Counsel and Seeks to Stop
+Questioning.
+Neither the Supreme Court nor the First Circuit have decided whether Quarles provides a
+public safety exception to the rules requiring police to cease interrogation when a suspect
+invokes his right to counsel under Edwards v. Arizona, 451 U.S. 477 (1981) and right to remain
+silent under Michigan v. Mosley, 423 U.S. 96 (1975). Those cases held that once a suspect
+
+- 14-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 15 of 21
+
+asserts his rights to counsel or against self-incrimination, questioning must stop and can only
+begin again if initiated by the suspect. As the Mosley court put it: “Through the exercise of his
+option to terminate questioning he can control the time at which questioning occurs, the subjects
+discussed, and the duration of the interrogation.” Id. at 103.
+That is precisely the option that Mr. Tsarnaev sought to exercise, by pleading with the
+agents to let him rest and to allow him to see a lawyer. The entreaties were ignored.
+The Fourth and Ninth Circuits have held that the public safety exception permits police to
+override a suspect’s request for a lawyer. United States v. Mobley, 40 F.3d 688, 693 (4th Cir.
+1990); United States v. DeSantis, 870 F.2d 536 (9th Cir. 1989). We submit that these cases
+were wrongly decided, and are, in any event, factually distinguishable. First, Mobley recognized
+that “the reasoning of Quarles is not on all points with the situation in which the accused has
+claimed his right to counsel[.]” Id. at 692. After all, Quarles permits police to forego a
+prophylactic warning about a defendant’s right to remain silent; it does not permit police to
+override those rights once they are asserted.
+Second, the Mobley court found that the facts of that case did not support the application
+of the Quarles exception, stressing that:
+the [Quarles] “public safety” exception applies only where there is “an
+objectively reasonable need to protect the police or the public from any immediate
+danger associated with [a] weapon.” Id. at 659 n. 8, 104 S.Ct. at 2633 n. 8. Absent
+such circumstances posing an objective danger to the public or police, the need
+for the exception is not apparent, and the suspicion that the questioner is on a
+fishing expedition outweighs the belief that public safety motivated the
+questioning that all understand is otherwise improper.”
+Id. at 693. In Mobley, officers executing a search warrant asked the defendant, after he had
+invoked his right to counsel and they were preparing to leave his apartment with him in custody,
+if there were any guns or weapons in the apartment. Id. at 690-91. The Fourth Circuit concluded
+
+- 15-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 16 of 21
+
+that his response — informing police of the presence of a gun — was not covered by the public
+safety exception, where officers had already conducted a sweep of the apartment, determined
+that no one else was present or resided there, and had arrested the defendant. Id. at 693.
+United States v. DeSantis, 870 F.2d 536 (9th Cir. 1989) also concluded that the Quarles
+exception can be applied to a claimed violation of Edwards. Id. at 541. In that case, officers
+arresting the defendant on a warrant asked him whether there were any weapons in his bedroom
+before allowing him to enter the room to get dressed. “The inspectors lawfully were entitled to
+question DeSantis for the purpose of securing their safety, even after he had asserted his desire to
+speak with counsel.” Id. No such compelling, immediate threat to safety was present here,
+where Mr. Tsarnaev was in custody, gravely injured, and heavily guarded. Even assuming
+arguendo that some limited questioning was permissible, it should have ceased after Mr.
+Tsarnaev assured the agents that no other bombs existed and there were no accomplices who
+posed a danger to public safety.
+The government may argue that the interrogation that began on the afternoon of April 21
+does not suffer from the same flaws as the first one. It is unclear whether Mr. Tsarnaev repeated
+his request for a lawyer during the second night of interrogation. But neither a failure to do so
+nor the lapse of time between the morning and afternoon of the April 21 constitute a “break”
+sufficient to permit renewed questioning despite Mr. Tsarnaev’s earlier request for counsel. See
+Edwards, 451 U.S. at 484-85 (once defendant asserts right to counsel, police may not further
+interrogate him unless he initiates further contact with them); Mosley, 423 U.S. at 104 (police
+must “scrupulously honor” invocation of right to remain silent).
+It is undisputed that Mr. Tsarnaev was not provided with Miranda warnings before this
+second session, either. The argument that these statements fall within the public safety exception
+
+- 16-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 17 of 21
+
+is even weaker, since any danger to the public was further diminished by the passage of time and
+by the information that Mr. Tsarnaev already had provided.
+III.
+
+THE POSTPONEMENT OF MR. TSARNAEV’S INITIAL APPEARANCE BEFORE A JUDICIAL
+OFFICER IN ORDER TO PROLONG INTERROGATION REQUIRES SUPPRESSION OF HIS
+STATEMENTS.
+Even before suspects were identified in the Boston Marathon bombing, lawyers with the
+
+Federal Public Defender Office notified officials in the U.S. Attorney’s office that they were
+available on a 24-hour basis to represent any suspect taken into custody. While thousands of
+officers searched for Mr. Tsarnaev in Watertown, this offer was repeated.
+Mr. Tsarnaev was arrested on the night of April 19 and rushed to Beth Israel Deaconess
+Medical Center, where he arrived in critical condition. During the press conference that
+immediately followed his capture, government officials announced that agents would not read
+the suspect his rights and were invoking “the public safety exception.” Lawyers from the
+Federal Public Defender Office contacted prosecutors and court officials in an effort to provide
+representation. Two of the lawyers went to the hospital in the early morning hours of April 20.
+McGinty Aff. They were turned away. The agent with whom they spoke refused to accept a
+letter to him from the lawyers, although she did take a business card, on which a cell phone
+number was written.
+A lawyer assigned by the state public defender agency also went to the hospital on the
+night of April 19 and again in the afternoon on April 20, in an attempt to see Mr. Tsarnaev. He,
+too, was turned away and a law enforcement officer refused to accept a letter from him to Mr.
+Tsarnaev. The lawyer sent two emails to a federal prosecutor, asking to be permitted to see Mr.
+Tsarnaev and to have Mr. Tsarnaev informed of his availability and of his advice that Mr.
+Tsarnaev remain silent until he could speak to counsel. The prosecutor did not respond.
+
+- 17-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 18 of 21
+
+Throughout April 20 and 21, the Federal Public Defender and other lawyers from her
+office contacted court officials, asking to be appointed. Court personnel informed the lawyers
+that they would be appointed as soon as a complaint was filed. McGinty Aff.
+This turned out to be incorrect. A complaint was signed at 6:47 pm on April 21, DE 3,
+and filed under seal. Interrogation continued through the night and well into the morning of
+April 22. The government’s motion to seal, DE 1, explained that “public disclosure of these
+materials might jeopardize the ongoing investigation of this case.” This baffling assertion
+ignores the fact, well-known to anyone with access to a television, radio, newspaper, smartphone
+or computer, that Mr. Tsarnaev was in custody. Nothing in the application for the complaint
+revealed information that had not already been reported by media around the world. It thus
+appears that the sole reason to seal the complaint was to allow the interrogation to continue by
+delaying the defendant’s initial appearance before a judicial officer and the appointment of
+counsel.
+Here, as in Haynes v. Washington, “the only fair inference to be drawn under all the
+circumstances is that” the defendant would not be charged and brought to court “until the police
+had secured the additional evidence they desired[.]” Haynes, 373 U.S. at 512. In Haynes,
+decided before Miranda, the Supreme Court held that the confession was involuntary and its use
+at trial violated the Due Process Clause of the Fourteenth Amendment.
+Fed. R. Crim. P. 5(a)(1)(A) requires that an arresting officer “must take the defendant
+without unnecessary delay before a magistrate judge.” The Supreme Court has held that even a
+voluntary confession must be suppressed if this rule is violated. See Mallory v. United States,
+354 U.S. 449 (1957) (holding that delay for purpose of interrogation is, by definition,
+unnecessary delay).
+
+- 18-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 19 of 21
+
+Section 3501 of Title 18 prohibits exclusion of a voluntary confession, based on a
+delayed presentment, if the statement was made within six hours of arrest. In Corley v. United
+States, 556 U.S. 303 (2009), the Supreme Court interpreted this statute in light of the McNabbMallory line of cases, noting, “In a world without McNabb-Mallory, federal agents would be
+free to question suspects for extended periods before bringing them out in the open, and we have
+always known what custodial secrecy leads to.” Id. at 320. As a result, the Supreme Court held,
+statements made more than six hours after arrest are admissible only if the delay in presentment s
+is shown to be reasonable and necessary.
+Here, the delay meets neither requirement. The government cannot contend that
+presentment was delayed due to the unavailability of the magistrate-judge. On April 21, the
+magistrate-judge approved five search warrant applications in connection with the investigation
+of the bombing.
+Furthermore, the complaint and arrest warrant issued on the evening of April 21, shortly
+after the second round of interrogation began. Nevertheless, appointment of counsel and the
+initial appearance were delayed until the following morning, despite the fact that counsel were
+ready, willing, and available to immediately represent Mr. Tsarnaev. During that time, agents
+continued to interrogate him for another 15½ hours.
+The 2010 Department of Justice policy regarding interrogation of terrorism suspects who
+are under arrest but not yet indicted specifically warns, “Presentment of an arrestee may not be
+delayed simply to continue the interrogation, unless the defendant has timely waived prompt
+presentment.” DOJ Memo, Exhibit 3. No such waiver occurred here.
+
+- 19-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 20 of 21
+
+Conclusion
+For the reasons set forth above, this Court should suppress the statements made by Mr.
+Tsarnaev to FBI agents at Beth Israel Deaconess Medical Center on April 20 through 22.
+Request for Evidentiary Hearing
+Defendant requests an evidentiary hearing on this motion.
+Respectfully submitted,
+DZHOKHAR TSARNAEV
+by his attorneys
+/s/ Miriam Conrad
+Judy Clarke, Esq.
+California Bar: 76071
+CLARKE & RICE, APC
+1010 Second Avenue, Suite 1800
+San Diego, CA 92101
+(619) 308-8484
+JUDYCLARKE@JCSRLAW.NET
+
+David I. Bruck, Esq. (SC Bar # 967)
+220 Sydney Lewis Hall
+Lexington, VA 24450
+(540) 460-8188
+BRUCKD@WLU.EDU
+Miriam Conrad, Esq. (BBO # 550223)
+Timothy Watkins, Esq. (BBO # 567992)
+William Fick, Esq. (BBO # 650562)
+FEDERAL PUBLIC DEFENDER OFFICE
+51 Sleeper Street, 5th Floor
+Boston, MA 02210
+(617) 223-8061
+MIRIAM_CONRAD@FD.ORG
+TIMOTHY_WATKINS@FD.ORG
+WILLIAM_FICK@FD.ORG
+
+- 20-
+
+ Case 1:13-cr-10200-GAO Document 295 Filed 05/07/14 Page 21 of 21
+
+Certificate of Service
+I hereby certify that this document filed through the ECF system will be sent
+electronically to the registered participants as identified on the Notice of Electronic Filing (NEF)
+and paper copies will be sent to those indicated as non-registered participants on May 7, 2014.
+
+/s/ Miriam Conrad
+
+- 21-
+
+ Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 1 of 29
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MASSACHUSETTS
+UNITED STATES OF AMERICA
+v.
+DZHOKHAR A. TSARNAEV,
+Defendant
+
+)
+)
+)
+)
+)
+)
+
+Crim. No.13-10200-GAO
+
+GOVERNMENT'S OPPOSITION TO
+DEFENDANT'S MOTION TO SUPPRESS STATEMENTS
+The United States of America, by and through its undersigned counsel, respectfully opposes
+the motion of defendant, Dzhokhar Tsarnaev ("Tsarnaev"), to suppress statements he made to FBI
+agents at Beth Israel Deaconess Medical Center ("Beth Israel"). As grounds for this opposition, the
+government states the following.
+Tsarnaev committed one of the most sophisticated and successful terrorist attacks on
+American soil since September 11, 2001. The attacks began with the deadly bombing of individuals
+at an iconic American event on April 15, 2013, and continued with additional bomb attacks on law
+enforcement officers on April 18 and 19, 2013. The circumstances of these crimes gave law
+enforcement strong reason to believe that the public was at risk from additional bombs, bombers, or
+bomb plots. In light of the history of coordinated terrorist attacks (and planned attacks) such as the
+ones in Mumbai, India, Times Square, the New York subway system, and on September 11, the FBI
+had a duty to be investigate whether any additional attacks were imminent. Interviewing Tsarnaev
+as soon as possible was therefore essential to protect the public from possible harm.
+The fact that Tsarnaev was in the hospital recovering from bullet wounds does not mean the
+interview was coercive or that the agents who conducted it did anything wrong. As Justice
+Kennedy has explained, "There is no rule against interrogating suspects who are in anguish and
+pain. The police may have legitimate reasons, borne of exigency, to question a person who is
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 2 of 29
+
+suffering or in distress. Locating the victim of a kidnaping, ascertaining the whereabouts of a
+dangerous assailant or accomplice, or determining whether there is a rogue police officer at large
+are some examples." Chavez v. Martinez, 538 U.S. 760, 796 (2003) (Kennedy, J., concurring in
+part and dissenting in part). The question is always whether the police took actions that they "may
+not take if the prohibition against the use of coercion to elicit a statement is to be respected." Id. at
+797. Because the agents in this case did not coerce Tsarnaev into making statements against his
+will, his statements were "voluntary" for Fifth Amendment purposes. And because the government
+does not intend to use his statements in its case-in-chief, the Miranda and Edwards issues are moot.
+Similarly, the government did nothing wrong in presenting Tsarnaev to the magistrate judge
+on the first business day after his arrest. There was no unnecessary delay, taking into account the
+intervening weekend and his obvious need for medical treatment; his initial appearance was not
+delayed exclusively for purposes of interrogation; and consequently, there is no basis in law to hold
+that any of his statements during this period are inadmissible. Accordingly, the motion to suppress
+should be denied and the government should be permitted to use the statements for impeachment or
+rebuttal purposes if necessary.
+INTRODUCTION
+On April 15, 2013, Tsarnaev and his brother Tamerlan detonated two powerful, remotecontrolled pressure-cooker bombs seconds apart along the final stretch of the Boston Marathon,
+killing a little boy and two young women and maiming and injuring approximately 260 others. The
+bombings were one of the bloodiest terrorist attacks ever against American civilians and drew
+worldwide attention.
+After detonating the bombs, both Tsarnaevs escaped and remained at large until the night of
+April 18, 2013, when they ambushed and executed an MIT police officer. Then they violently
+carjacked, kidnaped, and robbed a civilian before fleeing to Watertown, where police finally caught
+2
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 3 of 29
+
+up with them. During a fierce confrontation, they fired numerous gunshots and hurled several
+additional bombs at the police. Tsarnaev eventually returned to the vehicle he had helped carjack,
+deliberately drove at top speed toward a group of police officers, ran over his brother before police
+could drag him to safety, crashed through a police barricade, and escaped. He eluded a massive
+police manhunt for approximately 20 hours before officers found him hiding in a drydocked boat
+and arrested him. (His brother died on the way to the hospital.)
+A.
+
+Basis for reasonable belief that there was an imminent danger to public
+safety
+
+The facts known to law enforcement at the time they interviewed Tsarnaev provided reason
+to believe that the Tsarnaevs had accomplices and that they or others might have built additional
+bombs that posed a continuing danger to public safety:
+?
+
+The Tsarnaevs had access to a small arsenal of bombs. They used two of them at the
+Marathon and several days later used four more in Watertown. They also indicated to the
+man they carjacked that they planned to travel to New York to explode additional bombs.
+These facts suggested the existence of a larger plot to wage a multi-pronged attack on
+different cities, as well as the possible existence of yet more unused bombs and other
+bombers waiting to pick up where the Tsarnaevs had left off.
+
+?
+
+Of the two remote-control detonators used during the Marathon bombings, only one was
+recovered, suggesting that the Tsarnaevs (or someone else) had retained the other one for
+possible use with additional bombs.
+
+?
+
+During the week of April 15, 2013, police received multiple reports from people in the
+Boston area of suspicious objects that might be bombs. Although none of those reports
+proved accurate, they heightened police concern about the existence of additional bombs.
+
+?
+
+The Marathon bombs were constructed using improvised fuses made from Christmas lights
+and improvised, remote-control detonators fashioned from model car parts. These relatively
+sophisticated devices would have been difficult for the Tsarnaevs to fabricate successfully
+without training or assistance from others.
+
+?
+
+The Tsarnaevs also appeared to have crushed and emptied hundreds of individual fireworks
+containing black powder in order to obtain explosive fuel for the bombs. The black powder
+used in fireworks is extremely fine; it was therefore reasonable to expect that if the
+Tsarnaevs had crushed the fireworks and built the bombs all by themselves, traces of black
+powder would be found wherever they had done the work. Yet searches of the Tsarnaevs'
+residences, three vehicles, and other locations associated with them yielded virtually no
+3
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 4 of 29
+
+traces of black powder, again strongly suggesting that others had built, or at least helped the
+Tsarnaevs build, the bombs, and thus might have built more.
+?
+
+For years after September 11, 2001, one of Al-Q'aeda's chief goals was to carry out another
+high-profile, spectacular attack on the United States. The spectacular nature and devastating
+carnage of Tsarnaev's attack -- which targeted a high-profile, iconic American event, and
+was followed by the execution of a police officer in Cambridge and the attempted murder of
+other police officers in Watertown -- suggested that it might have been planned, directed,
+and even assisted by a terrorist group.
+
+?
+
+The note Tsarnaev wrote in pencil on the inside of the boat where he was found hiding
+underscored the possible involvement of a terrorist group. Tsarnaev wrote:
+I'm jealous of my brother who ha[s] [re]ceived the reward of jannutul
+Firdaus (inshallah) before me. I do not mourn because his soul is
+very much alive. God has a plan for each person. Mine was to hide
+in this boat and shed some light on our actions. I ask Allah to make
+me a shahied (iA) to allow me to return to him and be among all the
+righteous people in the highest levels of heaven. He who Allah
+guides no one can misguide. A[llah Ak]bar!
+The US Government is killing our innocent civilians but most of you
+already know that. As a [UI] I can't stand to see such evil go
+unpunished, we Muslims are one body, you hurt one you hurt us all.
+Well at least that's how muhhammad (pbuh) wanted it to be [for]ever,
+the ummah is beginning to rise/[UI] has awoken the mujahideen,
+know you are fighting men who look into the barrel of your gun and
+see heaven, now how can you compete with that. We are promised
+victory and we will surely get it. Now I don't like killing innocent
+people it is forbidden in Islam but due to said [UI] it is allowed. All
+credit goes [UI].
+Stop killing our innocent people and we will stop.
+This writing, which bears hallmarks of al-Q'aeda-inspired rhetoric, suggested that Tsarnaev
+might have received instruction from a terrorist group. In addition, the fact that Tsarnaev
+used the word "we" (i.e. "We are promised victory and we shall surely get it. . . . Stop
+killing our innocent people and we will stop.) suggested that others might be poised to
+commit similar attacks and that Tsarnaev was urging them on.
+
+?
+
+Before hiding in the boat, Tsarnaev smashed both of his cell phones to avoid being located
+through them. One of them appeared to be a "burner" phone: it contained a SIM card
+purchased the day before the Marathon and was used by Tsarnaev on April 15 to coordinate
+the attacks with his brother. These basic elements of apparent terrorist tradecraft provided
+additional grounds for believing that Tsarnaev had received training and direction from a
+terrorist group.
+4
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 5 of 29
+
+In short, the facts and circumstances known to law enforcement at the time they interviewed
+Tsarnaev provided ample reason to believe that the Tsarnaevs did not act alone; that others might
+have radicalized them, directed them, trained them, assisted them, and/or concealed them; and that
+these others might be planning or poised to carry out additional attacks. Finding out if there were
+other bombs, other bombers, or others plotting similar and coordinated attacks was a public safety
+matter of the utmost urgency.
+B.
+
+Tsarnaev's physical and mental condition during questioning
+
+Following Tsarnaev's arrest he was taken directly by ambulance to Beth Israel hospital in
+Boston. He arrived at approximately 9:00 p.m. According to medical records, he was awake, alert,
+and conversing fluently both during the ambulance ride and at Beth Israel. He had no internal
+injuries, and his psychological condition appeared normal. Shortly after his arrival, his mental
+status began to decline and he was intubated, but after receiving a single unit of blood he quickly
+stabilized. He was given pain medication, examined by various doctors, and then transferred to the
+operating room for treatment of multiple gunshot wounds. He underwent surgery to repair his
+wounds, which was successful.
+On April 20, 2013, at approximately 5:00 a.m., Tsarnaev was transferred to the surgical
+intensive care unit to begin his recovery. He spent the next 14 hours sleeping, resting, and receiving
+care. By 6:30 p.m., according to a note in his chart, he had been weaned off propofol, a short-acting
+sedative that normally wears off quickly, and was receiving only Fentanyl for pain. At 11:30 p.m.
+that night, the Fentanyl was discontinued, and Tsarnaev was given Dilaudid as needed for pain. At
+6:00 a.m. the next morning, a nurse noted on Tsarnaev's chart, "Pain adequately controlled with low
+doses of Dilaudid." Tsarnaev signed informed consent forms for various procedures on April 21 at
+4:00 a.m., 7:15 a.m., and 2:30 p.m.
+
+5
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 6 of 29
+
+Two FBI agents started interviewing Tsarnaev on April 20 at 7:22 p.m., nearly 24 hours
+after he arrived at the hospital. Before they began, the nurse overseeing Tsarnaev's care informed
+them that the interview would pose no medical risk to him. The nurse also told them that Tsarnaev
+had suffered no brain injuries and that his only medications at that time were an antibiotic and
+Fentanyl, neither of which, at their current dose, would inhibit his mental faculties. The agents then
+introduced themselves to Tsarnaev, and he confirmed that he could hear and understand them, could
+respond to them notwithstanding his tracheostomy, and was not in too much pain. (The agents
+sought and obtained these same assurances a second time at the beginning of the second day of
+questioning.)
+The interview proceeded until the morning of April 22 as follows:
+Questioning
+43 min
+30 min
+45 min
+67 min
+65 min
+60 min
+83 min
+45 min
+35 min
+50 min
+13 min
+43 min
+75 min
+36 min
+
+Rest/sleep/medical treatment
+30 min
+90 min
+140 min
+197 min
+10hrs, 30 min
+80 min
+27 min
+15 min
+125 min
+17 min
+112 min
+90 min
+19 min
+End
+
+Tsarnaev was able to speak despite his tracheostomy by covering it. To spare him the effort, the
+agents began by asking mostly yes or no questions. Tsarnaev at first answered mainly by nodding
+or writing in a notebook; later he answered virtually all questions orally. Throughout the entire
+interview he appeared alert, mentally competent, and lucid.
+On April 22, 2013, at 11:00 a.m., two hours after the interview concluded, Tsarnaev's
+attending physician testified in a hearing before United States Magistrate Judge Marianne B.
+6
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 7 of 29
+
+Bowler. He described Tsarnaev's condition as "guarded" but "not critical." He stated that Tsarnaev
+had received .5 mg of Dilaudid at 7:00 a.m. and another .5 mg at 10:00 a.m., and that this was the
+only pain medication or sedation that Tsarnaev had received during the preceding eight hours. He
+testified that, despite Tsarnaev's injuries, medical treatment, and this medication, Tsarnaev was
+lucid enough to understand and respond to basic questions. On the basis of this expert testimony,
+Judge Bowler proceeded forthwith to conduct an initial appearance.
+During the initial appearance, Tsarnaev was told the charges against him, the maximum
+penalties, and certain legal rights, among other things. He repeatedly indicated that he understood
+everything that was being said to him. At the conclusion of the hearing, having had the benefit of
+observing Tsarnaev and hearing his answers in person, the court stated: "I find that the defendant is
+alert, mentally competent, and lucid."
+C.
+
+The FBI interview of Tsarnaev
+
+From the moment the agents began questioning Tsarnaev about the Marathon bombings, he
+readily admitted his own involvement,
+
+But Tsarnaev steadfastly denied that any other bombs existed or that anyone else was
+involved in the bombings. Specifically,
+
+.
+
+7
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 8 of 29
+
+In the face of these denials, the agents continued to question Tsarnaev not to extract a
+confession, which they already had, but because of their reasonable belief that Tsarnaev was
+concealing information about impending attacks, accomplices, and/or the existence of additional
+bombs. For example, Tsarnaev's claim that
+seemed implausible given the absence
+of any traces of black powder in the apartment. The agents also needed to determine whether
+Tsarnaev was unaware of the existence of accomplices who might be plotting additional attacks but
+might still have information that, in combination with other information known to law enforcement,
+could help law enforcement identify accomplices and stop them in time.
+To determine if there were additional bombs, bombers or bomb plots, the agents asked only
+those questions likely to reveal that information, namely: who constructed the bombs, and how,
+when, and where they were constructed; where any additional bombs were stored; who if anyone
+had assisted the brothers; who made the decision to target the Boston Marathon, murder an MIT
+Policeman, kidnap a civilian and attack additional policemen in Watertown; who Tsarnaev had
+contacted immediately before and after the bombings, and why; and how and when he and his
+brother had become radicalized.
+ARGUMENT
+I.
+
+The Agents Did Not Violate Tsarnaev's Fifth Amendment Rights By Coercing Him
+to Make Statements Against His Will.
+
+A.
+
+A statement is "voluntary" for Fifth Amendment purposes unless it is
+coerced.
+
+The Self-Incrimination Clause of the Fifth Amendment prohibits the government from using
+a defendant's "involuntary" statements against him in a judicial proceeding. See Dickerson v.
+United States, 530 U.S. 428, 434 (2000). Although the Supreme Court wrote a half century ago that
+a statement is "involuntary" for Fifth Amendment purposes if it is not "the product of a rational
+8
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 9 of 29
+
+intellect and a free will," Blackburn v Alabama, 361 U.S. 199, 208 (1960), it has since clarified that
+"coercive police activity is a necessary predicate to the finding that a confession is not 'voluntary,'"
+Colorado v. Connelly, 479 U.S. 157, 167 (1986). The trial court in Connelly suppressed a
+defendant's confession as "involuntary" based on expert testimony that it was prompted by
+"psychosis" and "command hallucinations" rather than a "free and rational choice[]" to confess. Id.
+at 161-62. The Colorado Supreme Court affirmed. See 702 P.2d 722 (1985). It held that the proper
+test of "voluntariness" is whether statements are "the product of a rational intellect and a free will,"
+and that "the absence of police coercion or duress does not foreclose a finding of involuntariness."
+Id. at 728.
+The United States Supreme Court reversed. It squarely rejected the proposition that a
+defendant's statements are ever "involuntary" in the constitutional sense absent "the crucial element
+of police overreaching." 479 U.S. at 163. The Court eschewed "inquiries into the state of mind of a
+criminal defendant who has confessed . . . [that are] divorced from any coercion brought to bear on
+the defendant by the State." Id. at 167. It held instead that a suspect's decision to confess is
+"involuntary" only if "governmental conduct coerced his decision." Id. Accord United States v.
+Byram, 145 F.3d 405, 407 (1st Cir. 1998) ("[O]nly confessions procured by coercive official tactics
+should be excluded as involuntary.") (emphasis in original); United States v. Newman, 889 F.2d 88,
+95 n.3 (6th Cir. 1989) (same).
+It follows that even assuming, for the sake of argument, Tsarnaev made self-incriminating
+statements to the police because he was worn down by pain and fatigue, or confused and lightheaded from taking pain medication, or was hoping to find out information about his brother, his
+statements were still "voluntary" unless the police engaged in misconduct. See United States v.
+Genao, 281 F.3d 305, 310 (1st Cir. 2002) ("[The facts must] add up to 'police overreaching' . . . for
+a holding of coercion."); United States v. Fruchter, 137 Fed. Appx. 390, 393 (2nd Cir. 2005) ("The
+9
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 10 of 29
+
+district court properly found that no police overreaching or misconduct occurred during Yague's
+interrogation and that, in the absence of coercion, the statement was not involuntary."); United
+States v. Sauseda, 526 Fed. Appx. 349. at *3 (5th Cir. 2013) (holding that statement was "voluntary"
+because suspect "has not shown the presence of 'police overreaching,' the crucial element in a
+voluntariness analysis"); see also Moran v. Burbine, 475 U.S. 412, 466 (Stevens, J., dissenting)
+("[A]nalysis of the 'voluntariness' of a confession is frequently a convenient shorthand for
+reviewing objectionable police methods.")
+In determining the "voluntariness" of Tsarnaev's statements, the Court must consider "the
+totality of the circumstances, including both the nature of the police activity and the defendant's
+situation." United States v. Hughes, 640 F.3d 428, 438 (1st Cir. 2011). The statements are
+"voluntary" if the evidence shows that the agents did not use official coercive tactics, or, if they did,
+that those tactics were not so coercive that Tsarnaev's "will was overborne." United States v.
+Jacques, 744 F.3d 804, 809 (1st Cir. 2014); see Byrom v. Epps, 518 Fed. Appx. 243, 256 (5th Cir.
+2013) ("[It] is essential that there be a link between the coercive conduct of the police and the
+confession of the defendant.") (internal quotation marks and citations omitted); Burnett v.
+Duckworth, 952 F.2d 1398, *2 n.5 (7th Cir. 1992) (same); Ryals v. Ingle, 990 F.2d 1259 (9th Cir.
+1993) (to warrant exclusion, the "alleged coercive conduct must be causally related to the
+confession"). The government bears the burden of proof by a preponderance of the evidence. Lego
+v. Twomey, 404 U.S. 477, 489 (1972).
+The Sixth Circuit has described the proper analysis this way:
+Threshold to the determination that a confession was 'involuntary' for due process
+purposes is the requirement that the police 'extorted [the confession] from the
+accused by means of coercive activity.' Once it is established that the police activity
+was objectively coercive, it is necessary to examine [a defendant's] subjective state
+of mind to determine whether the 'coercion' in question was sufficient to overbear
+the will of the accused. . . . If the police misconduct at issue was not the 'crucial
+10
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 11 of 29
+
+motivating factor' behind petitioner's decision to confess, the confession may not be
+suppressed.
+McCall v. Dutton, 863 F.2d 454, 459 (6th Cir. 1988).
+B.
+
+The agents did not coerce Tsarnaev into making statements against his will.
+
+1.
+
+The agents did not use coercive tactics.
+
+An evidentiary hearing will establish that the agents who questioned Tsarnaev did not use
+coercive tactics that forced him to make statements against his will. Notwithstanding the dire threat
+to public safety, they waited 24 hours before questioning Tsarnaev to ensure that he was medically
+stable, lucid, and capable of giving accurate answers to their questions. They did not touch him,
+except to make him more comfortable; they did not threaten him physically or verbally; they did not
+deprive him of food, water, medical treatment, bathroom breaks, or adequate rest; they did not offer
+him any promises, rewards, or inducements; and they did not employ forbidden types of trickery or
+deceit. They also made no efforts psychologically to intimidate him. (The agents did not tell
+Tsaranev about his brother's death, or the manner of that death, to spare him emotional trauma.)
+Only two agents questioned Tsarnaev, and they wore plain clothes and did not have their weapons
+visible. They were polite and spoke quietly. They assured him that he was going to be fine. They
+took steps to increase his comfort, such as removing his handcuff every time they entered the room,
+adjusting his pillows as needed, and summoning nurses for him at his request. Tsarnaev never
+dozed or drifted off during the interview; whenever the agents believed he was growing tired, they
+ceased questioning him and advised him to rest or sleep.
+These factors are ordinarily dispositive of the "voluntariness" determination. See, e.g.,
+Moran, 475 U.S. at 421 ("[T]he record is devoid of any suggestion that police resorted to physical
+or psychological pressure to elicit the statements."); Fare v. Michael C., 442 U.S. 707, 726-727
+(1979) ("[The defendant was] not worn down by improper interrogation tactics or questioning or by
+11
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 12 of 29
+
+trickery or deceit. . . . The officers did not intimidate or threaten respondent in any way."); United
+States v. Verdugo, 617 F.3d 565, 575-76 (1st Cir. 2010) ("The circumstances surrounding Verdugo's
+questioning . . . contain no traces of the 'brutality, [p]sychological duress, threats, [or] unduly
+prolonged interrogation' that courts have previously found when they have concluded that
+statements were involuntarily made.") (collecting cases); Genao, 281 F.3d at 310 ("The record
+establishes that the police did not apply undue or unusual pressure to Genao, use coercive tactics, or
+threaten him with violence or retaliation if he did not confess."); United States v. Vega-Figueroa,
+234 F.3d 744, 749 (1st Cir. 2000) ("Defendant's statement was not the result of intimidation,
+coercion resulting from the setting in which the statement was made, or a deliberate plan by the
+agents to place defendant in an environment that would induce a confession.")
+Although the questioning took some time, there was good reason for that. Tsarnaev's
+tracheostomy slowed the pace of conversation considerably, as did the time it took for him to write
+answers in a notebook. The agents took frequent and lengthy breaks (including one of more than 10
+hours) to ensure that Tsarnaev received adequate time for sleep, rest, and medical care. The agents
+also had to cover a large number of topics in detail to flush out whether any additional attacks were
+planned or imminent and the identity of accomplices or perpetrators.
+But most important, the length of the questioning was not designed to break down
+Tsarnaev's will to resist so that he would confess, nor did it have that effect.
+There is simply no basis
+for finding on the facts of this case that the length of questioning was coercive, let alone that it
+overcame Tsarnaev's will to resist or is causally related to any of his statements. See Stein v. New
+York, 346 U.S. 156, 185 (1953) (holding that 12-hour interrogation "by a number of officers at a
+
+12
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 13 of 29
+
+time and by different officers at different times" stretched out over 32-hour period was not so
+"oppressive as to overwhelm powers of resistance").
+The police also did not question Tsarnaev continuously. On the contrary, as noted earlier,
+they provided frequent and lengthy breaks during which Tsarnaev slept, rested and received medical
+treatment. The periods of questioning on the first day were fewer, shorter, and farther between than
+on the second, because by the second, Tsarnaev had had another day to heal and another night's
+sleep. Once again, on the facts of this case, there is no basis for a finding that the police denied
+Tsarnaev adequate breaks in order to coerce a confession from him.
+Although the police did not inform Tsarnaev of his right to remain silent or to have an
+attorney present during questioning, and did not accommodate his repeated requests for a "human
+rights lawyer" (or any lawyer), the Supreme Court has ruled that such omissions are not coercive.
+In Procunier v. Atchley, 400 U.S. 446 (1971), a defendant "contended that his confession was
+involuntary [in part] because he had been denied a lawyer, [and] because he had not been advised of
+his right to remain silent." Id. at 453. The Court rejected that argument, holding that "denial of the
+right to counsel and failure to advise of the right to remain silent were not in themselves coercive.
+Rather they were relevant only in establishing a setting in which actual coercion might have been
+exerted to overcome the will of the suspect." Id. at 453-54. The Court has also held that police do
+not violate the constitution by failing to tell a suspect that an attorney retained to represent him is
+attempting to contact him. Moran, 475 U.S. at 416-18, 432 (1986). (In this case, in any event, none
+of the attorneys who showed up at Beth Israel seeking to communicate with Tsarnaev had been
+retained or appointed by the Court to represent him.)
+Finally, the fact that Tsarnaev received pain medication is not evidence of coercion, because
+the medication was administered by medical staff for medical reasons, without input from the
+police. See, e.g., United States v. Palmer, 203 F.3d 55, 61-62 (1st Cir. 2000); United States v.
+13
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 14 of 29
+
+Chapman, 112 Fed. Appx. 469, 474 (6th Cir. 2004); United States v. Newman, 889 F.2d 88, 94 (6th
+Cir. 1989).
+In short, the agents who questioned Tsarnaev were conducting a public-safety interview and
+did not "prolong or increase a suspect's suffering against the suspect's will . . . with the purpose and
+intent of securing an incriminating statement." Chavez, 538 U.S. at 797 (Kennedy, J., concurring in
+part and dissenting in part). Because the police employed no coercive tactics in questioning
+Tsarnaev, his motion to suppress his statements on "involuntariness" grounds must be denied for
+that reason alone.
+2.
+
+Tsarnaev's will was not overborne by police questioning.
+
+Even assuming arguendo the existence of actual coercive tactics, it does not follow that
+merely because Tsarnaev was recovering from gunshot wounds or had received pain medication
+that his will was overborne. Tsarnaev was a healthy young man a few months shy of 20 years' old
+when he was shot in the course of his crimes. The medical records reflect that he was alert,
+oriented, lucid, and conversant when he was brought to the hospital on April 19, 2013 at 9:00 p.m.
+He had suffered bullet wounds but no internal injuries or significant loss of blood. (Hospital
+records reflect he was given only one unit of blood in the emergency room.) He also appeared
+psychologically normal and had suffered no apparent brain damage. (Although Tsarnaev claims
+that he "likely" suffered both "a concussion" and "traumatic brain injury" [Deft. Mot. at 3], that is
+speculative; his medical records do not say that, and his attending nurse told the agents the
+opposite.) He underwent successful surgery lasting several hours and then began a recovery that
+progressed steadily without setbacks.
+Although Tsarnaev writes that he "was prescribed a multitude of pain medications" (Deft.
+Mot. at 3), his hospital records show that by the time the police began questioning him he was
+receiving only Fentanyl for pain, and that was changed four hours later to Dilaudid "PRN" or as
+14
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 15 of 29
+
+needed. More important, Tsarnaev's pain medication, far from weakening his will to resist
+questioning, appears to have had the salubrious effect of blunting his pain while leaving him lucid
+and clear-headed. He told the police at the start of each day's interview that he could hear and
+understand them and was not in too much pain. He then gave lucid, responsive, and in some cases
+spirited answers to their questions.
+Against this first-hand evidence that Tsarnaev's pain medication had no ill effects, Tsarnaev
+offers only speculation. He writes that "[t]he side effects of these [pain] medications include
+confusion, light-headedness, dizziness, difficulty concentrating, fatigue, and sedation." (Deft. Mot.
+at 3). But courts have ruled that general allegations about the side-effects of drugs contribute little
+to the analysis of whether a suspect's will was overborne by allegedly coercive police tactics. See
+Wolfrath v. LaVallee, 576 F.2d 965, 972 (2nd Cir. 1978). That is because "[t]he effects of narcotic
+use will vary depending on the amount of drugs taken, the degree of tolerance developed by the
+individual, and the idiosyncratic reaction of the person to the drugs." Hansford v. United States,
+365 F.2d 920, 923 (D.C. Cir. 1966).
+In Wolfrath, for example, a defendant confessed to a robbery less than four hours after
+receiving morphine and approximately one hour after receiving Demerol and sodium luminal in
+connection with surgery for a bullet wound. The district court held that the defendant's statements
+were "involuntary" based on medical testimony that such drugs "would create a 'fugue-like state' in
+the mind of the patient and would induce a euphoric feeling of invulnerability . . . [rendering the
+patient] not capable of making a serious decision." Id. at 971. But the Second Circuit reversed,
+holding that mere "generalizations about the probable effect of drugs" are of little or no use in the
+analysis of "voluntariness." Id. at 972.
+The facts of this case are similar to those of United States v. Short, 947 F.2d 1445 (10th Cir.
+1991), in which the court held that a defendant's statement was "voluntary" even though he was in
+15
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 16 of 29
+
+the hospital with both arms in casts and was taking the painkillers Percodan and hydrocodeine when
+interviewed by police. Id. at 1448. The court explained that, like Tsarnaev, "[d]efendant's pain was
+not so great, nor was his mind so clouded by pain pills that he was unable to think and converse
+with the police freely and intelligently on several subjects. . . . Defendant's will [thus] was not
+overborne by the police." Id. at 1450 (citations omitted). Likewise, in United States v. Martin, 781
+F.2d 671 (9th Cir. 1985), the court held that the defendant's statements were "voluntary" even
+though he had been hospitalized to treat explosives injuries and had received Demerol for pain. The
+court wrote that the defendant
+was awake and relatively coherent during the questioning at the
+hospital. . . . When he became too groggy to understand the
+detective's questions, Detective Schindler terminated the interview.
+There is no evidence of extended and oppressive questioning. Nor
+had Martin received excessive quantities or unusual combinations of
+drugs. Martin's injuries, while painful, did not render him
+unconscious or comatose. Moreover, Martin said that he wanted to
+talk to the officers and was not reluctant to tell his story. The district
+court properly concluded that 'although the defendant was injured and
+under medical care at the time the statements were made, the type,
+dosage, and schedule of painkilling narcotic administered to [Martin]
+was not sufficient to overbear his will to resist the questioning or
+impair his rational faculties.'
+Id. at 674.
+The Beth Israel medical staff evidently did not believe that Tsarnaev's pain medication
+impaired his judgment to the point where he could not make important decisions about his own
+care. They had him sign informed consent forms for various medical and surgical procedures on
+April 21 at 4:00 a.m., 7:15 a.m., and 2:30 p.m. This plainly indicates that the medical staff believed
+Tsarnaev had a sufficiently "rational intellect" and "free will" to give informed consent at those
+times.
+Tsarnaev relies heavily on Mincey v. Arizona, 437 U.S. 385 (1978), in arguing that his
+statement was "involuntary," but that reliance is misplaced. For one thing, Mincey arrived at the
+16
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 17 of 29
+
+hospital "depressed almost to the point of coma" and complained during the interview of
+"unbearable" pain. Id. at 398-99. Tsarnaev, in contrast, arrived at the hospital alert, oriented, and
+lucid, and he was in the same condition when the FBI interview began and ended. He also
+repeatedly described his own pain level as tolerable. For another thing, although Mincey, like
+Tsarnaev, was seriously wounded by gunshots, received "various drugs," and was intubated, id. at
+396, 398, his compromised physical condition, standing alone, is not what led the Court to conclude
+his statements were "involuntary," id. at 401-02. That conclusion was instead based on two other
+factors.
+First, Mincey "clearly expressed his wish not to be interrogated," id. at 399-401, and in
+keeping with that wish it appears he resisted giving any self-incriminating statements until the
+police finally wore him down, id. at 399 n.16. Tsarnaev, in contrast, readily answered questions
+about the Marathon bombings,
+
+Within minutes
+
+of meeting the agents, for example, Tsarnaev told them that
+
+Second, when the police interviewed Mincey, some of his written answers to their questions
+were "not entirely coherent" and others showed that he was "confused and unable to think clearly
+about either the events of that afternoon or the circumstances of his interrogation." Id. at 398-99.
+(For example, "two of the answers written by Mincey were: 'Do you me Did he give me some
+money (no)' and 'Every body know Every body.'" Id. at 399 n.15.) Mincey also "gave
+17
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 18 of 29
+
+unresponsive or uninformative answers" and "complained several times that he was confused or
+unable to think clearly." Id. at 399-400.
+Tsarnaev, in contrast, was responsive, coherent, and clearheaded throughout his interview
+with the officers. With few exceptions, he wrote answers to their questions clearly, legibly, and in a
+strong hand. The notes reveal no sign that Tsarnaev was mentally compromised, confused, or in
+any way intimidated by the agents. On the contrary, they show that he answered questions when it
+suited him, refused to answer questions when it did not, and did not hesitate to make demands for
+things he wanted (notably, sleep, a "human rights lawyer," and information about his brother's
+fate). In one early note, for example, Tsarnaev wrote,
+
+Although in his first few notes Tsarnaev complained repeatedly that he was tired and wanted
+to sleep, the agents complied with those requests. On April 20, 2013, the day questioning began,
+Tsarnaev was interviewed for four periods averaging 45 minutes each, but in between those periods
+he rested, slept and received medical care a total of nearly eight hours. Then, after another 65minute period of questioning, he rested, slept, and received medical care for 10-1/2 hours straight.
+After that, he ceased complaining about being tired, and spent roughly equal amounts of time
+talking to the agents and resting, sleeping, and receiving care. Moreover, unlike Mincey, Tsarnaev
+never said that he wanted questioning to cease altogether, writing instead, "I don't have to answer
+that now" and "can we do this later?"
+
+18
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 19 of 29
+
+Tsarnaev's situation is closer to that of the defendant in United States v. Abdulmutallab,
+2011 WL 4345243 (E.D. Mich. Sept. 16, 2011), than to Mincey's. The defendant in Abdulmutallab
+attempted to ignite a bomb concealed in his underwear while aboard a plane that had begun its
+descent into Detroit's main airport. Id. at *1. Abdulmutallab
+suffered third degree burns to his lower extremities, was transported to the hospital,
+was given 350 micrograms of fentanyl [approximately seven times the dose Tsarnaev
+received], and then interrogated for approximately 50 minutes by federal agents
+while he was in the burn care unit. Like the defendant in Mincey . . . he was isolated
+from his family, friends, and legal counsel. Moreover, unlike Mincey, Defendant
+was questioned without first being read his Miranda rights.
+Id. A nurse testified that, notwithstanding the pain medication, Abdulmutallab "was lucid, fully
+'oriented times 3,' was not confused, and gave no indication that he did not or could not understand
+the questions being asked or the circumstances in which they were being asked." Id. at *3. An
+agent likewise testified that Abdulmutallab "was not confused, and understood where he was, why
+he was there, what he was there for, and what had happened." Id. Based on this testimony, the
+district court found that the defendant's statements were "voluntary."
+In sum, the evidence shows that Tsarnaev's statements did not result from his will's being
+overborne by coercive official tactics. Although he was in a hospital bed recovering from gunshot
+wounds and had received pain medication, neither the length of the questioning nor any other
+purportedly abusive police tactic caused Tsarnaev
+
+Rather,
+
+As the note he wrote in Watertown on the inside of the boat
+reflects, Tsarnaev was eager to take credit for his crimes and "shed some light" on their meaning.
+That indeed is a common practice among terrorists. Although Tsarnaev might have preferred fewer
+questions and more sleep, especially at the very start of the interview, he never hesitated
+His own behavior during the police interview
+
+19
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 20 of 29
+
+reveals unmistakably that he retained a rational intellect and sufficient willpower to choose whether
+to answer questions.
+II.
+
+The Claimed Existence of a Miranda And Edwards Violation is Moot Because The
+Government Will Not Use Tsarnaev's Statements Against Him in Its Case-in-Chief
+Despite The Public Safety Nature of The Interview.
+
+A. The government was fully justified in conducting public safety questioning of Tsarnaev.
+Miranda v. Arizona, 384 U.S. 436 (1966), prohibits the government from using a
+defendant's statements against him in its case-in-chief unless the statements were preceded by
+Miranda warnings. In New York v. Quarles, 467 U.S. 649 (1984), however, the Supreme Court
+held that there are situations "where concern for public safety must be paramount to adherence to
+the literal language of the prophylactic rules enunciated in Miranda." Id. at 653. Quarles involved
+a woman who told police that she had just been raped at gunpoint by a man (Quarles) who had fled
+into a nearby supermarket. Id. at 651-52. An officer found Quarles in the supermarket, discovered
+that Quarles had an empty shoulder holster, and asked him where the gun was. Id. Quarles nodded
+in the direction of some empty cartons and responded, "the gun is over there." Id.
+The New York courts held that Quarles's statement and gun were inadmissible because the
+police had not first read him his Miranda rights, but the Supreme Court reversed. It held that the
+police need not give Miranda warnings before they "ask questions reasonably prompted by a
+concern for the public safety." Id. at 656. It reasoned that "the need for answers to questions in a
+situation posing a threat to the public safety outweighs the need for the prophylactic rule protecting
+the Fifth Amendment's privilege against self-incrimination." Id. at 657. The Court explained that if
+in cases like the one before it "the police are required to recite the familiar Miranda warnings before
+asking the whereabouts of the gun, suspects in Quarles' position might well be deterred from
+responding," which would impose too high a societal cost in light of the resulting "danger to the
+public." Id. at 657.
+20
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 21 of 29
+
+Tsarnaev's statements are admissible under the public-safety exception, because the
+questioning was reasonably prompted by a need to protect the public from the risk of additional
+bombs, weapons, or follow-on terrorist attacks. Although this case, unlike Quarles, did not involve
+a single question about a missing weapon, it would be a mistake to limit Quarles to its facts merely
+because the Quarles Court did not expressly authorize the more expansive public safety questioning
+that took place here. The Quarles Court foresaw that future cases would involve different kinds of
+public-safety threats and wrote that "in each case it [i.e. the scope of permissible public-safety
+questioning] will be circumscribed by the exigency which justifies it." Id. at 658.
+The exigency in this case amply justified the questions the agents asked. Tsarnaev is not an
+ordinary criminal; he is a terrorist who launched a coordinated bombing attack on an
+internationally-renowned sporting event, killing three people and maiming and wounding hundreds
+more. Nearly four days after the Marathon bombings, Tsarnaev was still deemed to pose such a
+grave threat to public safety that the Governor of Massachusetts asked nearly one million people to
+shelter in place for an entire day while law enforcement endeavored to find Tsarnaev and neutralize
+him. The possibility that other bombs existed and/or that others associated with Tsarnaev might
+engage in additional violence once he was captured posed a public safety threat of the highest order.
+The agents investigating the Marathon bombings were well aware of the danger of coordinated
+terrorist attacks, and they had an objectively reasonable belief that the Tsarnaev brothers might have
+been radicalized, trained, directed, and assisted by a terrorist group, the members of which might
+perpetrate other attacks. Under the circumstances, the officers who questioned Tsarnaev were
+warranted in believing that the public's need for answers outweighed the need for "adherence to the
+literal language of the prophylactic rules enunciated in Miranda." Id. at 653.
+Courts have recognized that when it comes to potential terrorist attacks, public-safety
+questioning necessarily encompasses more than simple inquiries like "where's the gun?" In
+21
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 22 of 29
+
+Abdulmutallab, supra, for example, the defendant told the agents who first interviewed him that he
+was acting on behalf of al-Q'aeda. Approximately three hours after the defendant was taken to the
+hospital, other federal agents, without first administering Miranda warnings, asked him
+where he traveled, when he had traveled, how, and with whom; the details of the
+explosive device; the details regarding the bomb-maker, including where Defendant
+had received the bomb; his intentions in attacking Flight 253; who else might be
+planning an attack; whether he associated with, lived with, or attended the same
+mosque with others who had a similar mind-set as Defendant about jihad,
+martyrdom, support for al-Qaeda, and a desire to attack the United States by using a
+similar explosive device on a plane, and what these individuals looked like -- all in
+an attempt to discover whether Defendant had information about others who could
+be on planes or about to board planes with explosive devices similar to the one
+Defendant used.
+Abdulmutallab, 2011 WL 4345243, at *5. These questions were reasonable, the district court held,
+because the police reasonably believed, based upon their "training, experience, and knowledge of
+earlier al-Qaeda attacks, [that] this was not a solo incident and the potential for a multi-prong attack
+existed even if Defendant was unaware of any specific additional planned attack." Id. at *6. The
+court further held that in the context of a terrorist threat, public-safety questioning includes
+"information that could be used in conjunction with other U.S. government information to identify
+and disrupt such imminent attacks before they could occur." Id. The agents could thus ask
+questions designed "to determine where to go next and investigate if anyone else might be planning
+to or was already in the process of carrying a similar device on an aircraft." Id.
+Similarly, in United States v. Khalil, 214 F.3d 111 (2nd Cir. 2000), police questioned a bomb
+maker who had been shot and wounded during a raid on his apartment. Id. at 115. He was
+questioned at the hospital, without Miranda warnings, about the construction and stability of the
+pipe bombs and whether he intended to kill himself when he detonated them. Id. at 115. The
+district court held that all of these questions were public-safety related and fell within the Quarles
+exception to Miranda. Id. The Second Circuit affirmed (although only the question about the
+22
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 23 of 29
+
+defendant's intending to kill himself had been challenged on appeal). See generally United States v.
+Estrada, 430 F.3d 606, 611 (2nd Cir. 2005) (Sotomayor, J.) (because of the need for "flexibility in
+situations where the safety of the public and the officers are at risk," courts evaluating the
+applicability of the public-safety exception must eschew "template[s]" and consider "the totality of
+the circumstances in a given case.") (internal citations omitted).
+Although the police questioned Tsarnaev five days after the Marathon bombings and
+approximately 24 hours after his arrest, the potential threat to public safety was no less real or
+pressing than the one in Quarles. Tsarnaev's arrest, his brother's death, and the searches of their
+home and vehicles did not rule out the possible existence of other bombs, bombers, or terrorist
+plots. See, e.g., United States v. Liddell, 517 F.3d 1007, 1008-09 (8th Cir. 2008) (holding that even
+after defendant told police that gun was in car, and they found it, Quarles permitted police to ask if
+there was "anything else in there we need to know about," because the discovery of one gun gave
+rise to "an objectively reasonable concern that" there might be others); Allen v. Roe, 305 F.3d 1046,
+1051 (9th Cir. 2002) (holding that public-safety exception applied notwithstanding defendant's
+argument "that a significant amount of time had elapsed from when the shooting occurred to when
+the police questioned him," because "[if] the gun was discarded in a public place, it posed a
+continuing immediate danger . . . [that did] not dissipate over time."); United States v. Carrillo, 16
+F.3d 1046, 1049 (9th Cir. 1994) (noting that a "pressing need for haste is not essential" for the
+public-safety exception to apply). Indeed, Quarles himself was handcuffed and in the custody of
+armed officers when he was questioned. See 467 U.S. at 655. Moreover, as the dissent noted, the
+police had no evidence that Quarles had an accomplice, the supermarket was "apparently deserted"
+during the late-night arrest, and the "police could easily have cordoned off the store and searched
+for the missing gun" rather than question Quarles about its whereabouts. Id. at 674-676 (Marshall,
+J., dissenting). Yet these facts did not alter the Court's analysis.
+23
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 24 of 29
+
+That Tsarnaev affirmatively asked for an attorney likewise does not change the analysis. As
+the Ninth Circuit explained in United States v. DeSantis, 870 F.2d 536 (9th Cir. 1989), the Supreme
+Court's judgment that public safety concerns outweigh the marginal benefits of Miranda's
+procedural safeguards "appl[ies] with equal force to the procedural safeguards established when the
+accused asks for the aid of counsel. Society's need to procure the information about the location of
+a dangerous weapon is as great after, as it was before, the request for counsel." Id. at 541. Accord
+United States v. Mobley, 40 F.3d 688, 692 (4th Cir. 1994) (holding that "'[t]he same considerations
+that allow the police to dispense with providing Miranda warnings in a public safety situation also
+would permit them to dispense with the prophylactic safeguard that forbids initiating further
+questioning of an accused who requests counsel.'") (quoting DeSantis, 870 F.2d at 541)); Trice v.
+United States, 662 A.2d 891 (D.C. App 1995) (same).
+B. The government does not intend to use the statements Tsarnaev made to agents in its
+case-in-chief.
+Although the public-safety interview of Tsarnaev was non-coercive and fully justified by the
+seriousness and scope of the public threat, the government does not intend to use Tsarnaev's
+statements in its case-in-chief at trial or sentencing. The strength of the evidence against Tsarnaev,
+which includes the confession he wrote on the inside of the boat, makes affirmative use of the Beth
+Israel statements unnecessary. The government reserves its right, however, to use the Beth Israel
+statements to impeach Tsarnaev, or in rebuttal, in the event Tsarnaev offers testimony or other postarrest statements inconsistent with them. See Harris v. New York, 401 U.S. 222, 226 (1971) ("The
+shield provided by Miranda cannot be perverted into a license to use perjury by way of a defense,
+free from the risk of confrontation with prior inconsistent utterances."); Oregon v. Hass, 420 U.S.
+714, 722 ("[S]ufficient deterrence flows when the evidence in question is made unavailable to the
+
+24
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 25 of 29
+
+prosecution in its case in chief."). This stipulation on the government's part effectively moots the
+Miranda and Edwards issues.
+III.
+
+1
+
+Tsarnaev's Initial Appearance Was Not Unnecessarily Delayed.
+
+Federal Rule of Criminal Procedure 5(a) provides in pertinent part that "[a] person making
+an arrest within the United States must take the defendant without unnecessary delay before a
+magistrate judge." In McNabb v. United States, 318 U.S. 332 (1943), and Mallory v. United States,
+354 U.S. 449 (1957), the Supreme Court, exercising "its supervisory authority over the
+administration of criminal justice in the federal courts," McNabb, 318 U.S. at 341, held that
+statements made by a defendant who is not brought before a judicial officer without unnecessary
+delay should be excluded from evidence, id. at 346. Ten years after the Court decided Mallory,
+Congress limited its scope by enacting 18 U.S.C. 3501(c), which provides in part that a defendant's
+voluntary statements made "within six hours immediately following his arrest or other detention"
+are admissible regardless of the reasons for presentment delay. In Corley v. United States, 556
+U.S. 303 (2009), the Supreme Court reconciled Rule 5(a), section 3501(c), and the McNabb-
+Mallory line of cases by announcing the following rule: if a voluntary statement is made within six
+hours of arrest, it is admissible regardless of the reason for presentment delay; if it is made "before
+presentment and beyond six hours, however, the court must decide whether delaying that long was
+unreasonable or unnecessary under the McNabb-Mallory cases, and if it was, the confession is to be
+suppressed." Id. at 322. See United States v. Jacques, 744 F.3d 804 (1st Cir. 2014); United States v.
+McDowell, 687 F.3d 904, 909 (7th Cir. 2012).
+
+1
+
+If the Court determines that the Quarles issue is not moot and must be decided, the
+government respectfully requests an opportunity to be heard on the issue before any decision is
+made.
+25
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 26 of 29
+
+The presentment delay in this case was reasonable for several reasons. First, courts have
+held that where, as here, an arrest occurs at night, on a holiday, or over the weekend, it is reasonable
+to delay presentment until the following business day. See, e.g., United States v. Ortega, 471 F.2d
+1350, 1362 (2nd Cir,. 1972); United States v. Mendoza, 473 F.2d 697, 702 (5th Cir. 1973); United
+States v. Collins, 349 F.2d 296, 298 (6th Cir. 1965); United States v. Mills, 434 F.2d 266, 273 (8th
+Cir. 1970); United States v. Garcia-Hernandez, 569 F.3d 1100, 1106 (9th Cir. 2009); Gregory v.
+United States, 364 F.2d 210, 212 (10th Cir. 1966); United States v. Carter, 484 Fed.Appx. 449, 457
+(11th Cir. 2012). These decisions are based on the well-established doctrine that "a delay may be
+reasonable if caused by administrative concerns, such as the unavailability of a magistrate following
+an arrest." Jacques, 744 F.3d at 814. Tsarnaev was presented before the magistrate on the first
+business day following his arrest.
+Although Tsarnaev argues that a magistrate judge could have made him- or herself available
+over the weekend to conduct an initial appearance, Rule 5(a) has never been viewed as embodying
+such a requirement. On the contrary, in Jacques, the First Circuit took it for granted that a
+magistrate judge was unavailable for Rule 5(a) purposes because the arrest there occurred at 7:20
+p.m. See id. at 807, 818. On Tsarnaev's logic, magistrate judges in this district would have to
+conduct initial appearances 24 hours a day, seven days a week, because it is always possible for a
+magistrate judge to make himself or herself available if needed. And not just magistrate judges: as
+the Ninth Circuit pointed out in United States v. Van Poyck, 77 F.3d 285 (9th Cir. 1996), the nextbusiness-day rule "is dictated by the complex procedures needed to arraign a defendant. An
+arraignment requires court personnel to randomly select a judge, requires pretrial services to process
+the defendant, and often requires an interpreter." Id. at 289. It also normally requires the presence
+of a court reporter, one or more Deputy Marshals, sheriffs to transport the defendant if he is
+detained, and other personnel to staff the courthouse (where virtually all initial appearances take
+26
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 27 of 29
+
+place). Tsarnaev cites no authority for the remarkable proposition that a presentment delay is
+unreasonable if all of these actors could be summoned on nights, holidays, and weekends to process
+arrestees. He also cites no authority for the proposition that if an ordinary defendant need not be
+presented on nights, holidays, or weekends, Rule 5(a) required that a special exception be made for
+him.
+The delay in this case also was reasonable because Tsarnaev was in the hospital. Rule 5(a)
+contemplates that initial appearances will occur in a courthouse: it states that the arresting officer
+"must take the defendant without unnecessary delay before a magistrate judge," not vice-versa. It
+would have been reasonable for the agents to have delayed bringing Tsarnaev to the courthouse for
+his initial appearance until he was well enough to go. See, e.g., United States v. Isom, 588 F.2d
+858, 862 (2nd Cir. 1978) ("The period during which appellant received medical treatment (at his
+request) and overnight lodging at the MCC should not be counted in computing unnecessary
+delay."); United States v. Johnson, 352 F.Supp.2d 596, 598 (D. Md. 2005) (same); see also United
+States v. Bear Killer, 534 F.2d 1253, 1257 (8th Cir. 1976) (holding that it is reasonable to delay
+presentment of an intoxicated individual until he becomes sober); United States v. Manuel, 706 F.2d
+908, 914 (9th Cir. 1983) (same). Similarly, in light of Tsarnaev's need for medical treatment, it was
+reasonbale for the magistrate judge to delay going to the hospital until Monday morning - the first
+business day after Tsarnaev's arrest -- to conduct the initial appearance, at which point she
+determined that Tsarnaev was alert, mentally competent, and lucid.
+Finally, it is important to bear in mind that the agents began questioning Tsarnaev as soon as
+they received medical clearance to do so, and that Tsarnaev
+In
+United States v. Mitchell, 322 U.S. 65 (1944), the Supreme Court held that it was error to suppress a
+defendant's confession given shortly after his arrest, even though he was thereafter illegally
+27
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 28 of 29
+
+detained for eight days before being presented. Id. at 69-70. The Court noted the chief purpose of
+the prompt presentment requirement is to prevent police from using lengthy periods of secret
+detention to apply "those reprehensible practices known as the 'third degree'" to extract
+confessions. Id. at 66. As we have already shown, far from subjecting Tsarnaev to the "third
+degree" in a secluded prison cell, the agents who questioned Tsarnaev did so in a hospital where
+Tsarnaev received world-class medical treatment along with all of the rest, refreshment, and
+bathroom breaks he required; the agents themselves were polite, casually dressed, carried no visible
+weapons, applied no physical or psychological pressure, made no threats or promises, unhandcuffed
+him every time they were present, and made him as comfortable as possible. Nothing in this set of
+circumstances suggests that Tsarnaev's initial appearance was delayed solely for the purpose of
+interrogation. Corley, 129 5. Ct. at 1563 ("delay for the purpose of interrogation is the
+
+epitome of 'unnecessary delay,'") (quoting Mallory, 354 U.S. at 455-456).
+In sum, the government did nothing wrong: Tsarnaev was promptly presented to a
+magistrate, taking into consideration that he was arrested on a Friday night and that he needed
+medical treatment. "Jurists and scholars uniformly have recognized that the exclusionary rule
+imposes a substantial cost on the societal interest in law enforcement by its proscription of what
+concededly is relevant evidence." Connelly, 479 U.S. at 166. That cost is justified solely by the
+need to effectively deter unlawful interrogation practices. See Miranda, 384 U.S. 436 . As the
+Supreme Court recently observed in the Fourth Amendment context, "[a]bout all that exclusion
+would deter in this case is conscientious police work." Davis v. United States, 131 S. Ct. 2419,
+2429 (2011). Under the circumstances of this case, there is no reason to hold that any of Tsarnaev's
+statements are inadmissible under Rule 5, 18 U.S.C ? 3501(c), or the McNabb-Mallory line of
+cases.
+
+28
+
+Case 1:13-cr-10200-GAO Document 319 Filed 05/21/14 Page 29 of 29
+
+CONCLUSION
+WHEREFORE, the government respectfully requests that Tsarnaev's motion to suppress
+statements be denied.
+
+Respectfully submitted,
+CARMEN M. ORTIZ
+United States Attorney
+By:
+
+/s/ William D. Weinreb
+WILLIAM D. WEINREB
+ALOKE S. CHAKRAVARTY
+NADINE PELLEGRINI
+Assistant U.S. Attorneys
+
+29
+
+Case 1:13-cr-10200-GAO Document 359 Filed 06/09/14 Page 1 of 6
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MASSACHUSETTS
+
+UNITED STATES OF AMERICA
+No. 13-CR-10200-GAO
+v.
+DZHOKHAR TSARNAEV
+
+DEFENDANT'S REPLY TO GOVERNMENT'S
+OPPOSITION TO MOTION TO SUPPRESS STATEMENTS
+Defendant, Dzokhar Tsarnaev, by and through counsel, respectfully submits this reply to
+the Government's Opposition to the Defendant's Motion to Suppress Statements ("Govt. Opp."),
+DE 319.
+Because the government concedes that it bears the burden of proving the voluntariness of
+Mr. Tsarnaev's statements, Govt. Opp. at 10, and acknowledges the need for an evidentiary
+hearing, Govt. Opp. at 11, this submission will not itemize undersigned counsel's many
+disagreements with the government's version of events. Nor will we endeavor to distinguish all
+of the cases cited by the government, beyond noting that the government has not identified a
+single case in which a court has affirmed the admission of statements obtained under comparable
+circumstances, applying current legal standards.
+Instead, defendant provides this submission to set forth the correct legal framework for
+evaluation of the claims presented.
+I.
+
+THE GOVERNMENT RELIES ON AN ERRONEOUS VIEW OF THE
+VOLUNTARINESS INQUIRY.
+The government's lengthy description of the public safety concerns that existed at the
+
+time of the interrogation is simply beside the point. The exception recognized in New York v.
+Quarles, 467 U.S. 649 (1984), does not apply to involuntary statements. United States v.
+
+- 1-
+
+Case 1:13-cr-10200-GAO Document 359 Filed 06/09/14 Page 2 of 6
+
+DeSantis, 870 F.3d 536, 540 (9th Cir. 1989). Cf. Quarles at 654 (case involved "no claim that
+respondent's statements were actually compelled by police conduct which overcame his will to
+resist"). Instead, public safety concerns are only relevant to the question of whether the failure to
+give Miranda warnings requires suppression, an issue which the government has rendered moot
+by its agreement that it will not introduce Mr. Tsarnaev's statements in its case-in-chief. Govt.
+Opp. at 20, 24.
+The government's position regarding voluntariness depends in large part on its repeated
+rejection of factors that, standing alone, do not warrant suppression of the statements. See, e.g.,
+Govt. Opp. at 13, 14. These arguments ignore the touchstone of voluntariness analysis:
+consideration of "the totality of circumstances." Dickerson v. United States, 530 U.S. 428, 434
+(2000). "[A] totality of the circumstances analysis does not permit state officials to cherry-pick
+cases that address individual potentially coercive tactics, isolated one from the other, in order to
+insulate themselves when they have combined all of those tactics in an effort to overbear an
+accused's will." Wilson v. Lawrence County 260 F.3d 946, 953 (8th Cir. 2001).
+As the Ninth Circuit recently explained in an en banc decision:
+Thus, the voluntariness inquiry "is not limited to instances in which the claim is that the
+police conduct was 'inherently coercive,'" Miller v. Fenton, 474 U.S. 104, 110 (1985)
+(quoting Ashcraft v. Tennessee, 322 U.S. 143, 154 (1944)), but "applies equally when the
+interrogation techniques were improper only because, in the particular circumstances of
+the case, the confession is unlikely to have been the product of a free and rational will,"
+id. (citing Mincey v. Arizona, 437 U.S. 385, 401 (1978)).
+United States v. Preston, ____ F.3d _____, 2014 U.S. App. LEXIS 88252014 (May 12, 2014)
+(en banc).
+In Mincey v. Arizona, 437 U.S. 385 (1978), the Supreme Court held:
+There were not present in this case some of the gross abuses that have led the Court in
+other cases to find confessions involuntary, such as beatings, see Brown v. Mississippi,
+297 U.S. 278, or "truth serums," see Townsend v. Sain, 372 U.S. 293. But "the blood of
+
+- 2-
+
+Case 1:13-cr-10200-GAO Document 359 Filed 06/09/14 Page 3 of 6
+
+the accused is not the only hallmark of an unconstitutional inquisition." Blackburn v.
+Alabama, 361 U.S., at 206. Determination of whether a statement is involuntary
+"requires more than a mere color-matching of cases." Reck v. Pate, 367 U.S. 433, 442. It
+requires careful evaluation of all the circumstances of the interrogation.
+Mincey, 437 U.S. at 401.
+The government's version of the facts surrounding the interrogation - a narrative which
+the defendant disputes 1 - omits a crucial fact, set forth in the FBI's own reports: that the agents
+told Mr. Tsarnaev, in response to his repeated requests for a lawyer, "that he first needed to
+answer questions to ensure that the public safety was no longer in danger from other individuals,
+devices, or otherwise." Exhibit 1S to Motion to Suppress Statements, DE 295. Here, as in
+Greenwald v.Wisconsin, 390 U.S. 519 (1968), the defendant answered the FBI's questions
+because "[he knew they weren't going to leave [him] alone until [he]I did." Id. at 520.
+See also Darwin v. Connecticut, 391 U.S. 346, 340 (1968) (applying pre-Miranda law,
+suppressing statements obtained after suspect held incommunicado and deprived of access to
+lawyer for 30 to 48 hours).
+The government's reliance on Stein v. New York, 346 U.S. 156 (1953), illustrates its
+antiquated view of the law. The government fails to note that Stein was overruled in part by
+Jackson v. Denno, 378 U.S. 368 (1964), and depended upon an examination of the reliability of a
+confession, "a short-lived departure from prior views of the Court" that "was unequivocally put
+to rest in Rogers v. Richmond [365 U.S. 534 (1961)]," Jackson, 378 U.S. at 384-85.
+
+1
+
+" Such
+
+disputes, we may say, are an inescapable consequence of secret inquisitorial practices.
+And always evidence concerning the inner details of secret inquisitions is weighted against an
+accused, particularly where, as here, he is charged with a brutal crime, or where, as in many
+other cases, his supposed offense bears relation to an unpopular economic, political, or religious
+cause." Ashcraft v. Tennesse, 322 U.S. 143, 152-53 (1944)
+
+- 3-
+
+Case 1:13-cr-10200-GAO Document 359 Filed 06/09/14 Page 4 of 6
+
+II.
+
+WHERE AGENTS DELAYED MR. TSARNAEV'S PRESENTMENT IN ORDER TO
+CONTINUE QUESTIONING HIM, HIS STATEMENTS MUST BE SUPPRESSED.
+The government asserts that the presentment of Mr. Tsarnaev "was not delayed
+
+exclusively for purposes of interrogation[.]" Govt. Opp. at 2 (emphasis added). Given this
+admission that the desire to interrogate Mr. Tsarnaev was at least a partial reason for the delay,
+the government's reliance on United States v. Jacques, 744 F.3d 804, (1st Cir. 2014) is
+misplaced. In that case, the First Circuit concluded:
+[T]his situation is not one where agents took the unavailability of a magistrate as an
+excuse to "continue their interrogation through the night." Rather, it is one where agents
+properly informed Jacques of his right to terminate the interrogation and presented him
+with a formal waiver when their six-hour safe harbor expired.
+Id. at 815 n.4. The Jacques court distinguished the facts presented from those found in United
+States v. Middleton, 344 F.2d 78, 82 (2d Cir. 1965). There, the Second Circuit held :
+The objective of Rule 5(a) is to check resort to psychologically coercive or 'third degree'
+practices, see United States v. McNabb, 318 U.S. at 344, 63 S.Ct. at 614, and not simply
+to insure that the accused is arraigned at the earliest possible time. And since the purpose
+here, at some point after 7:00 p.m., had narrowed to a single objective -- to obtain the flat
+admission from the accused's lips that he had stolen the calculating machine -- the delay
+became unreasonable.
+Id. at 83. In Middleton, arraignment occurred at the earliest possible time, the following
+morning. Id. (Moore, J, concurring in part, dissenting in part). Nevertheless, the majority of the
+panel required suppression of the statements obtained during the delay.
+
+- 4-
+
+Case 1:13-cr-10200-GAO Document 359 Filed 06/09/14 Page 5 of 6
+
+CONCLUSION
+For the reasons set forth above and in defendant's Motion to Suppress Statements, an
+evidentiary hearing should be held to determine whether Mr. Tsarnaev's statements must be
+suppressed.
+Respectfully submitted,
+
+DZHOKHAR TSARNAEV
+by his attorneys
+/s/ Miriam Conrad
+Judy Clarke, Esq.
+California Bar: 76071
+CLARKE & RICE, APC
+1010 Second Avenue, Suite 1800
+San Diego, CA 92101
+(619) 308-8484
+JUDYCLARKE@JCSRLAW.NET
+
+David I. Bruck, Esq. (SC Bar # 967)
+220 Sydney Lewis Hall
+Lexington, VA 24450
+(540) 460-8188
+BRUCKD@WLU.EDU
+Miriam Conrad, Esq. (BBO # 550223)
+Timothy Watkins, Esq. (BBO # 567992)
+William Fick, Esq. (BBO # 650562)
+FEDERAL PUBLIC DEFENDER OFFICE
+51 Sleeper Street, 5th Floor
+Boston, MA 02210
+(617) 223-8061
+MIRIAM_CONRAD@FD.ORG
+TIMOTHY_WATKINS@FD.ORG
+WILLIAM_FICK@FD.ORG
+
+- 5-
+
+Case 1:13-cr-10200-GAO Document 359 Filed 06/09/14 Page 6 of 6
+
+Certificate of Service
+I hereby certify that this document filed through the ECF system will be sent
+electronically to the registered participants as identified on the Notice of Electronic Filing (NEF)
+and paper copies will be sent to those indicated as non-registered participants on June 9, 2014.
+
+/s/ Miriam Conrad
+
+- 6-
+
+

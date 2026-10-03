@@ -1,0 +1,2596 @@
+Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.789 Page 1 of 24
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+UNITED STATES DISTRICT COURT
+
+9
+
+SOUTHERN DISTRICT OF CALIFORNIA
+
+10
+11
+12
+13
+14
+
+UNITED STATES OF AMERICA,
+Plaintiff,
+
+Case No.: 3:19-CR-02513-GPC
+ORDER DENYING MOTION TO
+SUPPRESS STATEMENTS.
+
+v.
+BRANDON KEMMERER,
+
+(ECF Nos. 22, 24, 25, 26, 30, 34, 38, 39,
+64, 65, 68, 71, 82.)
+
+Defendant.
+
+15
+16
+
+Before the Court is Defendant’s Motion to Suppress Statements for an unnecessary
+
+17
+18
+
+delay in presentment under Federal Rule of Criminal Procedure (“FRCP”) 5 and 18
+
+19
+
+U.S.C. § 3501(c). As a threshold matter, the Court finds that § 3501(c) applies to Mr.
+
+20
+
+Kemmerer’s statements and that his valid Miranda waiver does not foreclose a challenge
+
+21
+
+to the statements under § 3501(c). Then, applying the two-step framework for § 3501(c)
+
+22
+
+outlined by the Supreme Court in Corley v. United States, 556 U.S. 315, 320 (2009), the
+
+23
+
+Court concludes that Special Agent Hutchinson interviewed Mr. Kemmerer within the
+
+24
+
+statute’s six-hour safe harbor period and that Kemmerer’s statement was voluntary.
+Consequently, the Court DENIES Mr. Kemmerer’s motion to suppress statements
+
+25
+26
+
+made to Agent Hutchinson during the June 7, 2019 interview.
+
+27
+
+///
+
+28
+
+1
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.790 Page 2 of 24
+
+1
+
+I.
+
+Background
+
+2
+
+A. Procedural History
+
+3
+
+On November 13, 2019, Mr. Kemmerer filed a motion to suppress post-arrest
+
+4
+
+statements made during his detention from Friday, June 7, 2019 to Monday, June 10,
+
+5
+
+2019. (ECF No. 22.) On December 13, 2019, the Government filed a response. (ECF No.
+
+6
+
+24.) On December 20, 2019, the Court then held its first hearing on the motion to
+
+7
+
+suppress. (ECF No. 25.) The Court continued the hearing and granted Defendant leave to
+
+8
+
+filed a reply. (Id.)
+
+9
+
+On January 12, 2020, Mr. Kemmerer filed a reply. (ECF No. 26.) Then, on January
+
+10
+
+15, 2020, the Court held a second hearing on Defendant’s motion. (ECF No. 30.) Given
+
+11
+
+the Parties’ arguments, the Court again continued the matter and permitted the Parties to
+
+12
+
+submit additional briefing. (Id.) On January 24, 2020, the Government filed supplemental
+
+13
+
+briefing. (ECF No. 31.) On January 31, 2020, Mr. Kemmerer filed a response. (ECF No.
+
+14
+
+34.) The Court ordered Mr. Kemmerer to file a sur-response, which he then filed on
+
+15
+
+February 20, 2020. (ECF No. 38.) The Court held a hearing the next day. (ECF No. 39.)
+
+16
+
+On May 6, 2020, the Court held a status conference and ordered an evidentiary
+
+17
+
+hearing as to Mr. Kemmerer’s motion to suppress. (ECF No. 60.) On June 2, 2020, the
+
+18
+
+Government filed a supplemental brief. (ECF No. 64.) On June 4, 2020, Mr. Kemmerer
+
+19
+
+filed two additional briefs. (ECF No. 65, 68.) Then, on June 12, 2020, the Government
+
+20
+
+filed an additional brief. (ECF No. 71.) An evidentiary hearing was held on June 18 and
+
+21
+
+19, 2020, during which Special Agent Jonathan D. Hutchinson testified as to the motion
+
+22
+
+to suppress on the first day. (ECF Nos. 82, 83.)
+
+23
+
+B. Mr. Kemmerer’s Arrest
+
+24
+
+At approximately 9:30 a.m. on June 7, 2019 at the San Ysidro, California Port of
+
+25
+
+Entry (“POE”), United States Customs and Border Protection (“CBP”) Officer Orlando
+
+26
+
+Perez’s narcotics dog “alert[ed]” to the rear driver side door of a car driven by Defendant
+
+27
+
+Brandon Kemmerer. (ECF No. 24-1, Declaration of Special Agent Jonathan D.
+
+28
+
+2
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.791 Page 3 of 24
+
+1
+
+Hutchinson (“Hutchinson Decl.”) at ¶ 2; ECF No. 22-1 at 2, Ex. A, Perez Report of
+
+2
+
+Investigation (“Perez ROI”).)
+
+3
+
+Officer Perez instructed Mr. Kemmerer to put the car in park, turn it off, and open
+
+4
+
+the trunk. (Perez ROI.) Mr. Kemmerer complied. Officer Perez inspected the passenger
+
+5
+
+side quarter panel of the car and discovered several packages. (Hutchinson Decl. at ¶ 2;
+
+6
+
+ECF No. 26-1, Ex. A, Declaration of Defendant Brandon Kemmerer (“Kemmerer Decl.”)
+
+7
+
+at ¶ 2.) Officer Perez then instructed Mr. Kemmerer to stay in the car. (Perez ROI.)
+
+8
+
+Defendant again complied, stating “Oh, OK thank you.” (Id.) Officer Perez called over a
+
+9
+
+second officer, CBP Officer Justine Burnett. (Hutchinson Decl. at ¶ 2.) Officer Burnett
+
+10
+
+spoke with Officer Perez, inspected the car, and also saw the cellophane wrapped
+
+11
+
+packages. (Hutchinson Decl. at ¶ 3; Perez ROI; ECF No. 22-1 at 4, Ex. B, Burnett Report
+
+12
+
+of Investigation (“Burnett ROI”).) The officers then ordered Defendant to get out of his
+
+13
+
+car. (Hutchinson Decl. at ¶ 3.) Officer Burnett handcuffed Mr. Kemmerer and escorted
+
+14
+
+him to the security office. (Id.; Kemmerer Decl. at ¶ 3.) There, Officer Burnett removed
+
+15
+
+the handcuffs, patted Mr. Kemmerer down, and took his personal belongings.
+
+16
+
+(Hutchinson Decl. at ¶ 3; Kemmerer Decl. at ¶¶ 6–7; Burnett ROI.)
+
+17
+
+By 9:41 a.m., Officer Burnett secured Mr. Kemmerer to a bench in the security
+
+18
+
+office with a leg shackle. (Kemmerer Decl. at ¶ 8; Hutchinson Decl. at ¶ 3.) It is
+
+19
+
+“standard CBP pattern and practice . . . to detain individuals on a bench in the main
+
+20
+
+Security Office area with one leg secured to the bench using an ankle chain.”
+
+21
+
+(Hutchinson Decl. at ¶ 4.) Officer Burnett did not tell Mr. Kemmerer that he was under
+
+22
+
+arrest. (Hutchinson Decl. at ¶ 3; Kemmerer Decl. at ¶ 5.) Officer Burnett also “never told
+
+23
+
+[Mr. Kemmerer] . . . that he was detain[ed] for officer safety.” (Kemmerer Decl. at ¶ 5.)
+
+24
+
+Officer Burnett “had no further contact with [Mr. Kemmerer].” (Burnett ROI.)
+
+25
+26
+
+Defendant remained “shackled to the bench for what seemed like hours.”
+(Kemmerer Decl. at ¶ 9.) “While shackled to the bench, [Defendant] could not freely use
+
+27
+28
+
+3
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.792 Page 4 of 24
+
+1
+
+the restroom and did not have access to drinking water.” 1 (Id. at ¶ 10.) While Defendant
+
+2
+
+was in custody, CBP Officer Abram Lopez examined images of Defendant’s car on the
+
+3
+
+Z-portal x-ray machine and noticed several anomalies. (Hutchinson Decl. at ¶ 5.)
+
+4
+
+At approximately 10:15 a.m., CBP Officer David Davis inspected the vehicle
+
+5
+
+itself. (Hutchinson Decl. at ¶ 6.) Ten minutes later, Davis went to the security office and
+
+6
+
+“obtained Kemmerer’s biographical information.” (Id.) Davis then returned to the lot and
+
+7
+
+drove the car to the processing area. (Id.) There, Davis removed one package from the
+
+8
+
+rear passenger side quarter panel and another officer tested its contents. (Id. at ¶ 7.) The
+
+9
+
+contents tested positive for methamphetamine. (Id.) At about 10:40 a.m., Davis contacted
+
+10
+
+“Apple Enterprises to potentially remove the fuel tank” from the car. (Id.)
+
+11
+
+Officer Davis then returned to the security office and “formally placed Kemmerer
+
+12
+
+under arrest.” (Id. at ¶ 8.) Davis could not remember “at exactly what time” he did so.
+
+13
+
+(Id.) According to the “CBP computer system, officials with CBP entered an arrest time
+
+14
+
+for Kemmerer of approximately 11:12 a.m. on June 7, 2019.” (Id. at ¶ 9.) Once under
+
+15
+
+arrest, an officer “moved [Defendant] to a detention cell.” (ECF No. 31 at 12.)
+
+16
+
+Defendant’s shackles were thus removed no later than 11:12 a.m. 2
+
+17
+18
+19
+20
+21
+22
+23
+
+1
+
+The Court understands Defendant’s declaration to mean that he could not get up of his own volition to
+get water or use the bathroom. The Government recognized as much. (ECF No. 30 at 10 (“Certainly we
+are not saying that [Defendant] was free to get up at will and move around.”)) There is no specific
+allegation that an officer denied any request to use the bathroom, drink water, or place a phone call.
+2
+
+27
+
+It is not clear when Defendant’s shackles were removed. The Parties agree that he was brought into the
+security room and shackled shortly after being stopped at the border. (Compare ECF No. 22 at 2–3
+(asserting that the officers inspected Defendant’s car at about 9:30 a.m. and then escorted him to the
+security office) with ECF No. 24 at 3 (“At approximately 9:41 a.m., Officer Burnett arrived in the
+security office with Defendant . . . [and secured] Defendant in the Security Office.”) The Government
+further proffers without dispute by Defendant that the officers “moved [Defendant] to a detention cell”
+once he was arrested. (ECF No. 31 at 12.) Consequently, the Court finds that Defendant was shackled
+by 9:41 a.m. and that the shackles were removed no later than 11:12 a.m.
+
+28
+
+4
+
+24
+25
+26
+
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.793 Page 5 of 24
+
+1
+
+C. Agent Hutchinson’s Investigative Conduct
+
+2
+
+At approximately 11:47 a.m., Agent Hutchinson was notified that a narcotics load
+
+3
+
+was found concealed in a vehicle at the San Ysidro POE. (ECF No. 82, Transcript of June
+
+4
+
+19, 2020 Evidentiary Hearing (“Tr. 1”) at 16:1.) Agent Hutchinson was one of three 3 duty
+
+5
+
+agents “on call to accept new drug-smuggling cases or other cases . . . at the ports of
+
+6
+
+entry” in San Ysidro, Otay Mesa, and Tecate at that time. (Tr. 1 at 14:23–25, 15:1–3.)
+
+7
+
+Agent Hutchinson understood the time of arrest to be 11:12 a.m. (Id. at 18:14–15.)
+
+8
+
+At the time, Agent Hutchinson was conducting an interview at the Otay Mesa Port
+
+9
+
+of Entry. (Tr. 1 at 18:19–21.) The interview finished at 12:05 p.m. (Id. at 19:4–5.) Agent
+
+10
+
+Hutchinson then processed the case, which typically requires completing the U.S.
+
+11
+
+Attorney’s Office intake form, the defendant locator intake form, the prisoner remand
+
+12
+
+form, the subject’s rap sheet, and the criminal complaint. (Id. at 19:9–25, 20:1–11.)
+
+13
+
+Agent Hutchinson estimates that he finished processing the Otay Mesa case by 2:28 p.m.
+
+14
+
+because, at that time, he texted another Agent that he was “on [his] way to San Ysidro.”
+
+15
+
+(Id. at 21:16–25, 22:7–12.)
+
+16
+
+Agent Hutchinson arrived at San Ysidro POE by 2:48 p.m. (Tr. 1 at 18:24–25.)
+
+17
+
+Upon arriving for a duty call, it is Agent Hutchinson’s “practice” to conduct a one to two-
+
+18
+
+hour preliminary investigation “prior to starting the interview” of the subject in custody.
+
+19
+
+(Id. at 27:5–14.) Agent Hutchinson testified that this investigation includes conducting
+
+20
+
+“initial records checks” about the subject at the HSI office, 4 speaking to the seizure
+
+21
+
+officers, inspecting the seized vehicle and contraband, documenting any items retrieved
+
+22
+23
+24
+
+3
+
+Approximately three additional duty agents were available as “floaters” to assist with investigations.
+(Tr. 1 at 16:12–24.)
+4
+
+27
+
+Agent Hutchinson explained that such checks might include, for example, a criminal history check, a
+check of the subject’s border crossing history, a check of the vehicle’s border crossing history, opensource database checks, checks in the Department of State systems, and other associated checks (i.e.,
+checks on co-passengers, people associated with the subject, or people associated with the vehicle). (Tr.
+1 at ¶ 22:23–25, 23:1–13.)
+
+28
+
+5
+
+25
+26
+
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.794 Page 6 of 24
+
+1
+
+from the vehicle, photocopying any seized documents or relevant reports produced by the
+
+2
+
+officers at the POE, checking-in at the security office, and finally conducting any
+
+3
+
+additional checks regarding the information learned in the preliminary investigation. (Id.
+
+4
+
+at 22–26.) Agent Hutchinson testified that these “investigative steps are very important
+
+5
+
+because they build a foundation of information regarding the incident, [] subject, [and]
+
+6
+
+vehicle” that are “very useful when determining the truthfulness of a subject during the
+
+7
+
+interview.” (Id. at 27:18–22.) Agent Hutchinson also testified that many of these
+
+8
+
+investigative steps – including reviewing a defendant’s criminal history, checking his
+
+9
+
+border crossing pattern, or photographing relevant documents and items – were not
+
+10
+
+necessary to filling a complaint or charging a defendant. (Id. at 41:14–25, 42:1–20.)
+
+11
+
+Agent Hutchinson reviewed six items that were taken from the vehicle, including a
+
+12
+
+passport, as well as “some vehicle documents” and a receipt. (Tr. 1 at 25:13–15.) He first
+
+13
+
+encountered Mr. Kemmerer during the investigation when he stopped by the holding cell
+
+14
+
+to determine if Mr. Kemmerer needed an interpreter. (Id. at 28:2–13.) After completing
+
+15
+
+the investigation, Agent Hutchinson asked a CBP officer to join him for the interview and
+
+16
+
+then escorted Mr. Kemmerer from his holding cell to an office. (Id. at 27:1–4, 28:14–18.)
+
+17
+
+D. Mr. Kemmerer’s Custodial Interview
+
+18
+
+Agent Hutchinson began interviewing Mr. Kemmerer at approximately 3:46 p.m.
+
+19
+
+by completing a biographical form with the Defendant. (Tr. 1 at 29:1–9.) Ten minutes
+
+20
+
+into the interview, at “3:56 p.m., approximately,” Agent Hutchinson read from the
+
+21
+
+Miranda form and explained to Mr. Kemmerer the rights he was waiving by participating
+
+22
+
+in the interview. (Id. at 29:12–19, 50:1–3.) Mr. Kemmerer read the form, initialed each
+
+23
+
+line, and affixed his signature next to those of Agent Hutchison and a CBP officer. (Id. at
+
+24
+
+29:20–23, 31:1–6.)
+
+25
+
+During the Court of the interview, Mr. Kemmerer repeatedly denied knowledge of
+
+26
+
+the methamphetamines hidden in the car and explained that a neighbor had access to the
+
+27
+
+car. (Gov’t Hrg. Ex. 13, DVD of Interview.) Mr. Kemmerer also discussed his
+
+28
+
+6
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.795 Page 7 of 24
+
+1
+
+relationship to the car, border crossing history, conduct in the days preceding his arrest,
+
+2
+
+and communications with other people who had access to the car. (Id.) The Agent,
+
+3
+
+moreover, indicated that several of Mr. Kemmerer’s statements seemed suspicious or
+
+4
+
+deceitful, including his denial of knowledge, failure to bring up a prior arrest, and certain
+
+5
+
+details as to his recent use of the car. (Id.)
+
+6
+
+In describing Mr. Kemmerer’s demeanor at the interview, Agent Hutchinson stated
+
+7
+
+that he “seemed normal to me, cordial, didn’t seem to be under any duress, any
+
+8
+
+nervousness. He seemed perfectly fine.” (Tr. 1 at 33:1–3.) Mr. Kemmerer did not seem
+
+9
+
+“ill” or “impaired,” and Mr. Kemmerer did not request to take a break for any reason or
+
+10
+
+indicate that he needed medication. (Id. at 34–35.) Responding to a question from the
+
+11
+
+Court, Agent Hutchinson observed that Mr. Kemmerer maintained the same appearance
+
+12
+
+during most of the interview and only acted “a little skittish” when the Agent raised the
+
+13
+
+possibility that he was “not being truthful.” (Id. at 33:9–18.) Towards the end of the
+
+14
+
+interview, Mr. Kemmerer remarked that he felt “intimidated.” (Gov’t Hrg. Ex. 13.)
+
+15
+
+Ultimately, the interview lasted about one hour and concluded around 4:52 p.m. (Id. at
+
+16
+
+33:5–6; Hutchinson Decl. at ¶ 10.)
+
+17
+
+After the interview, Agent Hutchinson first contacted the MCC to obtain a booking
+
+18
+
+window for Mr. Kemmerer. (Tr. 1 at 51:1–7; Hutchinson Decl. at ¶ 13.) Agent
+
+19
+
+Hutchinson also contacted the U.S. Attorney’s Office to submit a referral package
+
+20
+
+regarding Mr. Kemmerer. (Tr. 1 at 51:9–13.) On June 10, 2019, Defendant was presented
+
+21
+
+to Magistrate Judge Andrew G. Schopler. (Hutchinson Decl. at ¶ 14.) Assuming
+
+22
+
+Defendant’s initial appearance occurred at 11 a.m., Defendant was held 73.5 hours, or
+
+23
+
+about three days, before his initial presentment. There is no allegation Mr. Kemmerer
+
+24
+
+gave any statements to law enforcement following his interview with Agent Hutchinson.
+
+25
+26
+27
+28
+
+7
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.796 Page 8 of 24
+
+1
+
+II.
+
+Legal Standard
+
+2
+
+A. Miranda
+
+3
+
+Before proceeding with a custodial interrogation, a suspect must be advised of his
+
+4
+
+Miranda rights: that he “‘has the right to remain silent, that anything he says can be used
+
+5
+
+against him in a court of law, that he has the right to the presence of an attorney, and that
+
+6
+
+if he cannot afford an attorney one will be appointed for him prior to any questioning if
+
+7
+
+he so desires.’” Dickerson v. United States, 530 U.S. 428, 435 (2000) (quoting Miranda
+
+8
+
+v. Arizona, 384 U.S. 436, 479 (1966)). The police are required to explain these rights to a
+
+9
+
+suspect “before questioning begins,” Davis v. United States, 512 U.S. 452, 457 (1994),
+
+10
+
+and, if a defendant requests counsel, “the interrogation must cease until an attorney is
+
+11
+
+present.” Miranda v. Arizona, 384 U.S. 436, 474 (1966). Statements obtained in violation
+
+12
+
+of Miranda generally are inadmissible in the Government’s case-in-chief. New York v.
+
+13
+
+Harris, 495 U.S. 14, 20 (1990).
+
+14
+
+A suspect’s waiver of these rights is valid only if it is “voluntary, knowing and
+
+15
+
+intelligent.” Miranda, 384 U.S. at 479. Thus, the waiver inquiry “has two distinct
+
+16
+
+dimensions.” Berghuis v. Thompkins, 560 U.S. 370, 382–83 (2010) (quotation omitted).
+
+17
+
+First, it must be “voluntary in the sense that it was the product of a free and deliberate
+
+18
+
+choice rather than intimidation, coercion, or deception.” Id. Second, it must be “made
+
+19
+
+with a full awareness of both the nature of the right being abandoned and the
+
+20
+
+consequences of the decision to abandon it.” Id.
+
+21
+
+A waiver satisfies this two-part standard only “if the totality of the circumstances
+
+22
+
+surrounding the interrogation reveal both an uncoerced choice and the requisite level of
+
+23
+
+comprehension.” Moran v. Burbine, 475 U.S. 412, 421 (1986) (quotation omitted).
+
+24
+
+Among other circumstances, a court may consider “(i) the defendant’s mental capacity;
+
+25
+
+(ii) whether the defendant signed a written waiver; (iii) whether the defendant was
+
+26
+
+advised in his native tongue or had a translator; (iv) whether the defendant appeared to
+
+27
+
+understand his rights; (v) whether the defendant’s rights were individually and repeatedly
+
+28
+
+8
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.797 Page 9 of 24
+
+1
+
+explained to him; and (vi) whether the defendant had prior experience with the criminal
+
+2
+
+justice system.” United States v. Price, 921 F.3d 777, 792 (9th Cir. 2019) (quoting United
+
+3
+
+States v. Crews, 502 F.3d 1130, 1140 (9th Cir. 2007)).
+
+4
+
+B. 18 U.S.C. § 3501(c)
+
+5
+
+The right to prompt presentment is found in Rule 5(a), which provides that “[a]
+
+6
+
+person making an arrest within the United States must take the defendant without
+
+7
+
+unnecessary delay before a magistrate judge.” FED. R. CRIM P. 5(a)(1)(A). 18 U.S.C. §
+
+8
+
+3501(c), in turn, governs whether a defendant’s confession may be admissible where the
+
+9
+
+Government violates Rule 5(a). 5 Section 3501(c) codifies the McNabb–Mallory Rule,
+
+10
+
+which rendered a confession inadmissible if it was obtained during an unreasonably long
+
+11
+
+period of detention between a defendant’s arrest and initial court appearance. See
+
+12
+
+generally Mallory v. United States, 354 U.S. 449, 450–51 (1957) (confession obtained
+
+13
+
+around 9:30 p.m. following defendant’s arrest “between two and two-thirty p.m.”);
+
+14
+
+McNabb v. United States, 318 U.S. 332 (1943).
+
+15
+
+A district court hearing a presentment challenge must engage in a two-step inquiry
+
+16
+
+under to § 3501(c). First, the court “must find whether the defendant confessed within six
+
+17
+
+hours of arrest.” Corley v. United States, 556 U.S. 315, 320 (2009) (quotations omitted).
+
+18
+
+“If the confession came within [the safe harbor] period, it is admissible, subject to the
+
+19
+20
+5
+
+27
+
+This provision states in full: “In any criminal prosecution by the United States or by the District of
+Columbia, a confession made or given by a person who is a defendant therein, while such person was
+under arrest or other detention in the custody of any law-enforcement officer or law-enforcement
+agency, shall not be inadmissible solely because of delay in bringing such person before a magistrate
+judge or other officer empowered to commit persons charged with offenses against the laws of the
+United States or of the District of Columbia if such confession is found by the trial judge to have been
+made voluntarily and if the weight to be given the confession is left to the jury and if such confession
+was made or given by such person within six hours immediately following his arrest or other detention:
+Provided, That the time limitation contained in this subsection shall not apply in any case in which the
+delay in bringing such person before such magistrate judge or other officer beyond such six-hour period
+is found by the trial judge to be reasonable considering the means of transportation and the distance to
+be traveled to the nearest available such magistrate judge or other officer.” 18 U.S.C. § 3501(c).
+
+28
+
+9
+
+21
+22
+23
+24
+25
+26
+
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.798 Page 10 of 24
+
+1
+
+other Rules of Evidence, so long as it was made voluntarily and . . . the weight to be
+
+2
+
+given it is left to the jury.” Id. (quotations omitted); United States v. Redlightning, 624
+
+3
+
+F.3d 1090, 1108 (9th Cir. 2010) (referring to the six-hour period as a “safe harbor”). The
+
+4
+
+safe harbor period under § 3501(c) begins with a defendant’s arrest. 6 See United States v.
+
+5
+
+Garcia-Hernandez, 569 F.3d 1100, 1105 (9th Cir. 2009).
+
+6
+
+An arrest occurs at the point when “a reasonable person would have believed that
+
+7
+
+he was not free to leave.” United States v. Mendenhall, 446 U.S. 544, 554 (1980). That
+
+8
+
+“depends upon the objective circumstances of the situation,” United States v. Bravo, 295
+
+9
+
+F.3d 1002, 1009 (9th Cir. 2002), including “the extent to which liberty of movement is
+
+10
+
+curtailed and the type of force or authority employed.” United States v. Robertson, 833
+
+11
+
+F.2d 777, 780 (9th Cir. 1987). Handcuffing is one “substantial” factor militating in favor
+
+12
+
+of finding an arrest, Bravo, 295 F.3d at 1010 (quoting United States v. Juvenile (RRA–A),
+
+13
+
+229 F.3d 737, 743 (9th Cir. 2000)), though the use of handcuffs does not always convert
+
+14
+
+a detention into an arrest if necessary to ensure the officers’ safety. See United States v.
+
+15
+
+Taylor, 716 F.2d 701, 709 (9th Cir. 1983) (finding that officers did “transform a Terry
+
+16
+
+stop into an arrest” by using handcuffs where a suspect “twice disobeyed” and made
+
+17
+
+“furtive movements”).
+
+18
+
+The Government “has more latitude to detain persons in a border-crossing
+
+19
+
+context.” United States v. Doe, 219 F.3d 1009, 1014 (9th Cir. 2000). The “power to
+
+20
+
+detain persons at the border . . . derives from the nation’s right to regulate who and what
+
+21
+
+may enter the Country,” United States v. Ramsey, 431 U.S. 606, 616 (1977), and this
+
+22
+
+national interest alters the “balance between the interests of the Government and the
+
+23
+24
+25
+26
+27
+28
+
+6
+
+Section 3501(c) states that it applies to a person “under arrest or other detention.” 18 U.S.C. § 3501(c).
+The Ninth Circuit has recognized that “the term ‘other detention’ might have independent meaning from
+‘arrest’ upon formal charges in an extraordinary situation.” United States v. Gowadia, 760 F.3d 989, 995
+(9th Cir. 2014). Here, the Court need not consider what precisely amounts to an extraordinary situation
+as the instant matter falls below that threshold.
+10
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.799 Page 11 of 24
+
+1
+
+privacy right of the individual” in favor of the government. United States v. Montoya de
+
+2
+
+Hernandez, 473 U.S. 531, 539–40 (1985). Thus, the standard for determining whether a
+
+3
+
+person is under arrest at a Port of Entry is whether a reasonable person would believe that
+
+4
+
+he is being subjected to more than the “temporary detention occasioned by border
+
+5
+
+crossing formalities.” United States v. Hernandez, 322 F.3d 592, 596–97 (9th Cir. 2003)
+
+6
+
+(quotation omitted). Nonetheless, such searches and detentions must be “conducted
+
+7
+
+promptly.” United States v. Espericueta Reyes, 631 F.2d 616, 622 (9th Cir. 1980).
+
+8
+9
+
+The Court must then assess the reasonableness of any delay to presentment beyond
+six hours. Corley, 556 U.S. at 320 (if “the confession occurred before presentment and
+
+10
+
+beyond six hours, however, the court must decide whether delaying that long was
+
+11
+
+unreasonable or unnecessary under the McNabb–Mallory cases, and if it was, the
+
+12
+
+confession is to be suppressed.”) A “delay for the purpose of interrogation is the epitome
+
+13
+
+of ‘unnecessary delay.’” Corley, 556 U.S. at 308 (citing Mallory, 354 U.S. at 455–56).
+
+14
+
+That is because the McNabb–Mallory Rule functions “to deter police from engaging in
+
+15
+
+lengthy prearraignment detentions for the purpose of further interrogating a defendant.”
+
+16
+
+United States v. Garcia-Hernandez, 569 F.3d 1100, 1106 (9th Cir. 2009). And, local
+
+17
+
+agency rules and court rules governing initial appearances must also accommodate §
+
+18
+
+3501(c) to ensure prompt presentment. United States v. Valenzuela-Espinoza, 697 F.3d
+
+19
+
+742, 750–51 (9th Cir. 2012) (finding a 10:30 a.m. filing requirement for same-day
+
+20
+
+arraignments did not justify a presentment delay).
+
+21
+
+On the other hand, the Ninth Circuit has “‘identified three categories of reasonable
+
+22
+
+delays apart from transportation, distance, and the availability of a magistrate’: (1) delays
+
+23
+
+for ‘humanitarian reasons;’ (2) ‘delays due to the unavailability of government personnel
+
+24
+
+[and judges] necessary to completing the arraignment process;’ and (3) ‘delays necessary
+
+25
+
+to determine whether a suspect should be criminally charged.’” United States v. Pimental,
+
+26
+
+755 F.3d 1095, 1101 (9th Cir. 2014) (quoting Valenzuela–Espinoza, 697 F.3d at 752)
+
+27
+
+(internal quotation marks and alteration omitted). In addition, § 3501(c) expressly permits
+
+28
+
+11
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.800 Page 12 of 24
+
+1
+
+a delay occasioned by “the means of transportation and the distance to be traveled to the
+
+2
+
+nearest available” magistrate. 18 U.S.C. § 3501(c). And, courts also consider “the public
+
+3
+
+policy concerns” created by delaying a defendant’s presentation to the magistrate judge,
+
+4
+
+see United States v. Djordjevic, 631 F. App’x 463, 464 (9th Cir. 2015), including
+
+5
+
+“discouraging officers from unnecessarily delaying arraignments, preventing admission
+
+6
+
+of involuntary confessions, and encouraging early processing of defendants.” Van Poyck,
+
+7
+
+77 F.3d at 289 (citing United States v. Wilson, 838 F.2d 1081, 1087 (9th Cir. 1988)).
+
+8
+
+III.
+
+9
+10
+
+Discussion
+A. Definition of “Confession” Under § 3501
+As a threshold matter, the Government asks the Court to find that § 3501(c) does
+
+11
+
+not apply to Agent Hutchinson’s interview with Mr. Kemmerer because Mr. Kemmerer’s
+
+12
+
+responses are effectively exculpatory in reliance on United States v. Gonzales, 749 F.2d
+
+13
+
+1329, 1335 (9th Cir. 1984). (ECF No. 64 at 8–9 (explaining that “Defendant denied
+
+14
+
+knowledge (and indeed, even any suspicion) of the narcotics in his vehicle”).) Mr.
+
+15
+
+Kemmerer argues that his statements are not exculpatory, and that Gonzales is no longer
+
+16
+
+good law. (ECF No. 65.) The Court finds that 18 U.S.C. § 3501(c) applies.
+
+17
+
+Section 3501(c) restricts the admissibility of a criminal defendant’s “confession”
+
+18
+
+for undue delay in certain circumstances. 18 U.S.C. § 3501(c). The statute defines the
+
+19
+
+term “confession” to include “any confession of guilt of any criminal offense or any self-
+
+20
+
+incriminating statement made or given orally or in writing.” 18 U.S.C. § 3501(e).
+
+21
+
+Statements that are “self-incriminating” include, for example, a defendant’s admission
+
+22
+
+that he “committed any act which would constitute an element of the crime,” United
+
+23
+
+States v. Amador-Galvan, 12 F.3d 1108 (9th Cir. 1993), or “factual admissions
+
+24
+
+connecting [the defendant] to” the crime. United States v. Baker, 888 F. Supp. 1521, 1526
+
+25
+
+(D. Haw. 1995). Section 3501(e) may also apply to statements are, in some sense,
+
+26
+
+exculpatory. See United States v. Liera, 585 F.3d 1237, 1240 (9th Cir. 2009); but see
+
+27
+28
+
+12
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.801 Page 13 of 24
+
+1
+
+United States v. Gonzales, 749 F.2d 1329, 1335 (9th Cir. 1984) (excluding “basically
+
+2
+
+exculpatory” statements) (emphasis in original).
+
+3
+
+The Ninth Circuit’s decision in Liera is instructive. In Liera, CBP officers twice
+
+4
+
+interrogated defendant Liera, who was eventually charged with alien smuggling. United
+
+5
+
+States v. Liera, 585 F.3d 1237, 1240 (9th Cir. 2009). During the first interrogation, Liera
+
+6
+
+denied knowledge of the aliens, told the officer that the truck at issue belonged to
+
+7
+
+someone else, and said that he borrowed the truck to get to work. Id. During the second
+
+8
+
+interrogation, after an officer observed that “Liera’s phone had received three calls from a
+
+9
+
+phone number stored . . . under the name ‘Pollos,’” Liera “acknowledged that one
+
+10
+
+meaning for ‘Pollos was ‘smuggled aliens’” but “claimed that the ‘Pollos’ entry in his
+
+11
+
+cell phone referred to a friend of his who sold chickens.” Id. In addressing a Rule 5
+
+12
+
+challenge, the Ninth Circuit held “that the district court clearly erred by refusing to
+
+13
+
+suppress statements Liera made during his second interrogation.” Id. at 1244. The Ninth
+
+14
+
+Circuit, moreover, expressly referenced § 3501(e) when discussing Liera’s “confession”
+
+15
+
+at the second interview, emphasizing that a confession includes “any self incriminating
+
+16
+
+statement.” Id. at 1242 n.5 (emphasis in original). Thus, the Ninth Circuit applied §
+
+17
+
+3501(e) to Liera’s discussion of the “Pollos” calls, noting that the Government eventually
+
+18
+
+relied on the calls at trial. Id. at 1244.
+
+19
+
+Mr. Kemmerer’s statements are likewise covered by § 3501(e). Mr. Kemmerer was
+
+20
+
+interviewed by Agent Hutchinson while in custody regarding the methamphetamine
+
+21
+
+discovered in his vehicle. (Gov’t Hrg. Ex. 13, DVD of Interview.) Mr. Kemmerer
+
+22
+
+repeatedly denied knowledge of the methamphetamines and explained that a neighbor
+
+23
+
+had access to the car. (Id.) Mr. Kemmerer also discussed his relationship to the car,
+
+24
+
+border crossing history, conduct in the days preceding his arrest, and communications
+
+25
+
+with other people who had access to the car. (Id.) The Agent, moreover, indicated that
+
+26
+
+several of Mr. Kemmerer’s statements were suspicious or deceitful, including his denial
+
+27
+28
+
+13
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.802 Page 14 of 24
+
+1
+
+of knowledge, failure to bring up a prior arrest, and certain details as to his recent use of
+
+2
+
+the car. (Id.)
+
+3
+
+Mr. Kemmerer’s detailed statements are self-incriminating within the meaning of §
+
+4
+
+3501(e) because they could be used to tie Mr. Kemmerer to the instant crime. See United
+
+5
+
+States v. Baker, 888 F. Supp. 1521, 1526 (D. Haw. 1995) (applying § 3501 to an
+
+6
+
+interview wherein defendant “generally denied being a pimp and taking money from
+
+7
+
+prostitutes, but made some factual admissions connecting him to certain alleged
+
+8
+
+prostitutes”). In addition, the fact that the Government expressly reserves the right to use
+
+9
+
+Mr. Kemmerer’s statements at trial, (ECF No. 64 at 8), underscores that “Defendant’s
+
+10
+
+statements could be considered self-incriminating in nature.” Baker, 888 F. Supp. at 1532
+
+11
+
+(emphasis added); see also Liera, 585 F.3d at 1244 (observing that the subject statements
+
+12
+
+were used by the prosecution at trial). Afterall, if “a statement made were in fact truly
+
+13
+
+exculpatory it would, of course, never be used by the prosecution.” See Miranda v.
+
+14
+
+Arizona, 384 U.S. 436, 476–77 (1966). And, contrary to the Government’s assertions,
+
+15
+
+borrowing from Miranda when interpreting the scope of § 3501(e) is reasonable because
+
+16
+
+§ 3501’s legislative history indicates that the statute was enacted in response to Miranda
+
+17
+
+and its concerns regarding incriminating statements made by defendants. United States v.
+
+18
+
+Richardson, 238 F.3d 433 (9th Cir. 2000) (citing United States v. Dickerson, 120 S.Ct.
+
+19
+
+2326, 2332 (2000)).
+
+20
+
+To the extent that Gonzales requires otherwise, the Court agrees with Defendant
+
+21
+
+that its holding has been overruled by Liera. In Gonzales, a defendant charged with bank
+
+22
+
+robbery told the police that he gave an acquaintance “a ride to the vicinity of the robbed
+
+23
+
+bank,” that later the acquaintance “flagged [defendant] down for another ride,” and that
+
+24
+
+the acquaintance then “gave [defendant] the bait bills that the police found in his sock.”
+
+25
+
+Gonzales, 749 F.2d at 1332 (emphasis in original). The Ninth Circuit reasoned that these
+
+26
+
+statements were “basically exculpatory” and thus did not fall within the ambit of §
+
+27
+
+3501(e). Id. That conclusion is incompatible with Liera’s application of § 3501(e) to
+
+28
+
+14
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.803 Page 15 of 24
+
+1
+
+defendant Liera’s discussion of the “Pollos” calls. In both cases the defendants’
+
+2
+
+statements served only to distance themselves from the possession of evidence linking
+
+3
+
+them to the crime. Compare Liera, 585 F.3d at 1240 (offering an explanation to suggest
+
+4
+
+defendant was not guilty despite the “Pollos” calls in his cellphone log) with Gonzales,
+
+5
+
+749 F.2d at 1332 (offering an explanation to suggest defendant was not guilty despite his
+
+6
+
+possession of the bait bills). Consequently, Liera creates an irreconcilable conflict with
+
+7
+
+Gonzales and the Court will follow the more recent precedent. See Miller v. Gammie, 335
+
+8
+
+F.3d 889, 900 (9th Cir. 2003) (noting that in cases of “clear irreconcilability . . . district
+
+9
+
+courts should consider themselves bound by the intervening higher authority and reject
+
+10
+11
+
+the prior opinion of this court as having been effectively overruled”).
+Thus, the Court finds that Mr. Kemmerer’s interview with Agent Hutchinson falls
+
+12
+
+within the scope of § 3501(c) pursuant to Liera and Baker because they may be “self-
+
+13
+
+incriminating.” 18 U.S.C. 3501(e).
+
+14
+
+B. Waiver of Rule 5 Challenge
+
+15
+
+The Government further argues that Mr. Kemmerer waived any right to argue a
+
+16
+
+Rule 5 violation in waiving his Miranda rights. Though Mr. Kemmerer’s Miranda waiver
+
+17
+
+was “voluntary, knowing and intelligent,” the Court concludes that Mr. Kemmerer’s
+
+18
+
+Miranda waiver does not extend to Rule 5 protections.
+
+19
+20
+
+1. Mr. Kemmerer’s Miranda Waiver is Valid.
+To address the Government’s argument, the Court must find there is a valid
+
+21
+
+Miranda waiver. Mr. Kemmerer contends that his Miranda waiver was involuntary
+
+22
+
+because, by that time he spoke to Agent Hutchinson, he had been under arrest for over six
+
+23
+
+hours, restrained to a bench, and unable to freely access water, the restroom, or a phone.
+
+24
+
+(ECF No. 34 at 5; ECF No. 68 at 2.) The Government argues that Mr. Kemmerer’s oral
+
+25
+
+and written waivers are adequate and that he was in no way coerced while in custody.
+
+26
+
+(ECF No. 71 at 2–8.) Here, the Government has established a valid waiver.
+
+27
+28
+
+15
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.804 Page 16 of 24
+
+1
+
+In reviewing the Parties’ submissions, and the video of Mr. Kemmerer’s interview
+
+2
+
+with Agent Hutchinson, the Court first concludes that Mr. Kemmerer’s Miranda waiver
+
+3
+
+was made voluntarily. There is no evidence indicating that Mr. Kemmerer was
+
+4
+
+particularly susceptible to coercion. The record, for example, does not suggest that he had
+
+5
+
+any mental deficits, was intoxicated, or is a juvenile. Cf. Doody v. Ryan, 649 F.3d 986,
+
+6
+
+1008 (9th Cir. 2011) (relying on defendant’s age and diminished mental acuity from sleep
+
+7
+
+deprivation). Likewise, the record does not suggest that Agent Hutchinson made any
+
+8
+
+effort to coerce Mr. Kemmerer through, for example, “threats or promises to [the
+
+9
+
+Defendant] before he waived his rights.” United States v. Cha, 765 F. App’x 254, 255
+
+10
+
+(9th Cir.), cert. denied, 140 S. Ct. 419, 205 L. Ed. 2d 240 (2019). There is also no
+
+11
+
+allegation that Agent Hutchinson even attempted to question Mr. Kemmerer in a manner
+
+12
+
+that might trick or confuse him so as to be “psychologically coercive.” See United States
+
+13
+
+v. Preston, 751 F.3d 1008, 1028 (9th Cir. 2014). Rather, as the Government notes, Mr.
+
+14
+
+Kemmerer was responsive throughout the conversation and did not confess, see United
+
+15
+
+States v. Perez, 538 Fed. App’x 818, 819 (9th Cir. 2013) (recognizing that whether “a
+
+16
+
+suspect remains in control of his responses and consistently denies guilt is compelling
+
+17
+
+evidence that his will was not overborne.”), even if he felt somewhat nervous or
+
+18
+
+“intimated” at being interviewed. (Gov’t Hrg. Ex. 13.) Thus, though Mr. Kemmerer was
+
+19
+
+held for six hours in custody, with a portion of that in handcuffs or an ankle chain, these
+
+20
+
+facts alone do not support a finding that Mr. Kemmerer’s Miranda waiver was
+
+21
+
+involuntary. 7 See Berghuis v. Thompkins, 560 U.S. 370, 387 (2010) (finding that the
+
+22
+23
+24
+25
+26
+27
+28
+
+7
+
+In addition to challenging the voluntariness of his Miranda waiver, (ECF No. 68 at 4), Mr. Kemmerer
+also asserts that his statements to Agent Hutchinson were involuntary within the meaning of § 3501(c).
+(ECF No. 68 at 1–3.) Though the Government contends that Mr. Kemmerer “conflat[es] his
+voluntariness challenge under 18 U.S.C. § 3501(c) with a claim that Defendant’s waiver of his Miranda
+rights was involuntary,” (ECF No. 71 at 2), it is not clear to the Court that the two standards are, in fact,
+that different, having already determined that § 3501 applies in this case. See supra Section III.A. Both
+Parties, moreover, seem to agree that whether the Mr. Kemmerer’s statements are voluntary comes
+16
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.805 Page 17 of 24
+
+1
+
+duration of a three-hour interrogation alone was insufficient to establish coercion unless it
+
+2
+
+were “accompanied . . . by other facts indicating coercion, such as an incapacitated and
+
+3
+
+sedated suspect, sleep and food deprivation, and threats.”)
+
+4
+
+In addition, the Court finds that Mr. Kemmerer’s Miranda waiver was also
+
+5
+
+knowing and intelligent. See United States v. Vallejo, 237 F.3d 1008, 1014–15 (9th Cir.),
+
+6
+
+opinion amended on denial of reh’g, 246 F.3d 1150 (9th Cir. 2001). Here, Agent
+
+7
+
+Hutchinson read each Miranda right to Mr. Kemmerer, who confirmed his understanding
+
+8
+
+orally, initialed the waiver form at each question, and then signed the form. (Tr. 1 at 14–
+
+9
+
+23; see Gov’t Hrg. Ex. 12, Miranda Form.) Mr. Kemmerer did not ask to clarify the
+
+10
+
+rights he relinquished by his waiver or otherwise indicate that he did not understand the
+
+11
+
+questions posed by Agent Hutchinson. (Tr. 1 at 33–36.) Mr. Kemmerer has, moreover,
+
+12
+
+not challenged to his understanding of the waiver – only that it was involuntary.
+
+13
+
+In light of these two findings – that Mr. Kemmerer’s waiver was voluntary and that
+
+14
+
+the record shows no sign Mr. Kemmerer did not understand the waiver – the Court
+
+15
+
+concludes that Mr. Kemmerer’s Miranda waiver was “voluntary, knowing and
+
+16
+
+intelligent.” Miranda, 384 U.S. at 479.
+
+17
+18
+19
+20
+21
+
+27
+
+down to the coerciveness of any officers’ conduct during Mr. Kemmerer’s interrogation and preceding
+detention. (Compare ECF No. 64 at 12 (Government arguing that involuntariness results from
+sufficiently “coercive circumstances”) with ECF No. 68 at 2 (Mr. Kemmerer arguing that his arrest and
+interrogation arose from “circumstances [that] were coercive”). Under these circumstances, the Court
+finds that Mr. Kemmerer’s statements to Agent Hutchinson were made voluntarily because (1) Mr.
+Kemmerer did not evince any special susceptibility to being coerced, (2) Agent Hutchinson’s conduct
+and questioning did not evince physical or psychological coercion, (3) Mr. Kemmerer’s demeanor
+conveyed a willingness to engage with Agent Hutchinson, and (4) Mr. Kemmerer did not confess during
+the interview. That Mr. Kemmerer was held for six hours, with restraints during about two of those
+hours, before being interviewed by Agent Hutchinson is not sufficient for a finding of involuntariness
+given this case’s specific circumstances, either under § 3501(c) or as to his Miranda waiver.
+
+28
+
+17
+
+22
+23
+24
+25
+26
+
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.806 Page 18 of 24
+
+1
+2
+
+2. The Waiver Does Not Extend to Rule 5.
+Having found that Mr. Kemmerer’s Miranda waiver is valid, the Court now
+
+3
+
+considers the Government’s argument that Mr. Kemmerer “waived his presentment
+
+4
+
+challenge when he waived his Miranda rights” in reliance on United States v. Indian Boy
+
+5
+
+X, 565 F.2d 585, 591 (9th Cir. 1977). (ECF No. 24 at 8.) Mr. Kemmerer contends that
+
+6
+
+Indian Boy X does not control because (1) it precedes the Supreme Court’s most recent
+
+7
+
+articulation of the prompt presentment rule in Corley by 32 years, (2) Corley makes no
+
+8
+
+mentioned of a potential waiver via Miranda, and (3) the Ninth Circuit recently found a
+
+9
+
+Rule 5 violation in United States v. Liera, 585 F.3d 1237, 1246 (9th Cir. 2009), despite
+
+10
+
+acknowledging there was a valid Miranda waiver. (ECF No. 38 at 1–2.) In light of the
+
+11
+
+Parties’ arguments, the Ninth Circuits precedents, and the public policy reasons at issue
+
+12
+
+in Rule 5, the Court finds that Mr. Kemmerer did not waive his right to prompt
+
+13
+
+presentment because Indian Boy X does not remain good law, and there are strong
+
+14
+
+reasons to conclude that waiver of Rule 5 and Miranda are distinct.
+
+15
+
+The Court begins its analysis with Indian Boy X. There, the Ninth Circuit
+
+16
+
+concluded that “[n]either ‘X’ [n]or his parents lacked capacity to make a knowing waiver
+
+17
+
+of Miranda rights . . . [and thus] the decision to make a statement to the F.B.I. was an
+
+18
+
+intelligent, knowing one.” United States v. Indian Boy X, 565 F.2d 585, 592 (9th Cir.
+
+19
+
+1977). As a result, since “the Miranda waiver was valid, there was a valid waiver of the
+
+20
+
+McNabb-Mallory prompt arraignment right.” Id. The Ninth Circuit first acknowledged
+
+21
+
+this principle in United States v. Lopez, 450 F.2d 169, 170 (9th Cir. 1971), which in turn
+
+22
+
+drew on the D.C. Circuit’s decision in Pettyjohn v. United States, 419 F.2d 651, 656
+
+23
+
+(D.C. Cir. 1969) (finding that “appellant waived any Mallory claim to immediate
+
+24
+
+arraignment by voluntarily agreeing to speak with the police.”).
+
+25
+
+Since Indian Boy X, however, only one district court in this circuit has followed its
+
+26
+
+holding. See United States v. Lukens, 735 F. Supp. 387, 391 (D. Wy. 1990). And no panel
+
+27
+
+of the Ninth Circuit has followed suit. To the contrary, as Mr. Kemmerer observes, the
+
+28
+
+18
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.807 Page 19 of 24
+
+1
+
+Ninth Circuit seems to have implicitly overruled Indian Boy X through its more recent
+
+2
+
+ruling in Liera. See United States v. Liera, 585 F.3d 1237 (9th Cir. 2009). In Liera, the
+
+3
+
+Ninth Circuit affirmed the district court’s denial of Liera’s motion to suppress his post-
+
+4
+
+arrest statements on the basis of an invalid Miranda waiver because (1) Liera testified
+
+5
+
+that he waived his Miranda rights and (2) Liera’s counsel repeatedly stated that there had
+
+6
+
+been a valid and knowing Miranda waiver. Id. at 1246. At the same time, however, the
+
+7
+
+Ninth Circuit found that “the district court clearly erred by refusing to suppress
+
+8
+
+statements Liera made during his second interrogation” because they occurred more than
+
+9
+
+six hours after his arrest and that delay “unnecessary to complete the arraignment process
+
+10
+
+or determine whether to file criminal charges against Liera.” Id. at 1243. Consequently,
+
+11
+
+and in contrast to both Indian Boy X and the Government’s arguments, (ECF No. 71 at
+
+12
+
+11–13), the Ninth Circuit’s decision in Liera plainly decouples a defendant’s waiver of
+
+13
+
+Miranda from that of Rule 5.
+
+14
+
+The Ninth Circuit’s more recent treatment of Miranda and Rule 5 in Liera,
+
+15
+
+moreover, better comports with the Supreme Court’s analysis of Rule 5 in Corley. In
+
+16
+
+Corley, the Supreme Court entertained a challenge to Rule 5 where the Government, in
+
+17
+
+essence, argued that § 3501(a) “means that once a district court . . . finds a confession
+
+18
+
+voluntary, in it comes [thereby] entirely eliminat[ing] McNabb–Mallory with its bar to
+
+19
+
+admitting even a voluntary confession if given during an unreasonable delay in
+
+20
+
+presentment.” Corley v. United States, 556 U.S. 303, 313 (2009). In reliance on the
+
+21
+
+language of the § 3501 as well as the statute’s legislative history, the Supreme Court
+
+22
+
+concluded that the Government’s interpretation was untenable. Id. at 314–20. The
+
+23
+
+Supreme Court also recognized the real-world concern that, without “McNabb–Mallory
+
+24
+
+there is no apparent remedy for delay in presentment.” Id. at 320. The Supreme Court
+
+25
+
+reasoned that the protection afforded to criminal defendants by Rule 5 is thus more than
+
+26
+
+“some administrative nicety” and, in fact, “stretches back to the common law, when it
+
+27
+28
+
+19
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.808 Page 20 of 24
+
+1
+
+was ‘one of the most important’ protections ‘against unlawful arrest.’” Id. at 320 (quoting
+
+2
+
+Cty. of Riverside v. McLaughlin, 500 U.S. 44, 61 (1991) (J., Scalia, dissenting)).
+
+3
+
+Here, the Government’s interpretation poses the same risk as in Corley with
+
+4
+
+respect to a smaller, but very substantial, number of criminal cases: those where the
+
+5
+
+Government can show an adequate Miranda waiver has taken place more than six hours
+
+6
+
+after an arrest. Indeed, because many courts have deemed Miranda waivers valid and
+
+7
+
+confessions voluntary in such circumstances, the harms caused by unnecessary delays in
+
+8
+
+presentment will have no remedy in a large swath of prosecutions if the Court adopts the
+
+9
+
+Government’s argument. See, e.g., United States v. Carpentino, 948 F.3d 10, 29 (1st Cir.
+
+10
+
+2020) (upholding Miranda waiver despite “spells of alternating detention and questioning
+
+11
+
+(lasting, in the aggregate, just over six hours)”); United States v. Heron, 564 F.3d 879,
+
+12
+
+881–82, 886–87 (7th Cir. 2009) (finding voluntary waiver where Miranda warnings were
+
+13
+
+not administered until more than thirty-two hours after arrest); Cunningham v. Perez, 345
+
+14
+
+F.3d 802, 810–11 (9th Cir. 2003) (finding that an eight hour interrogation did not
+
+15
+
+“undermine [defendant’s] free will”); United States v. Gamez, 301 F.3d 1138, 1144 (9th
+
+16
+
+Cir. 2002) (finding confession made after 31 hours was voluntary); Bastidas v.
+
+17
+
+Henderson, 664 F. Supp. 51, 53–54 (E.D.N.Y.1987), aff’d, 842 F.2d 1287 (2d Cir.1988)
+
+18
+
+(waiver found even though defendant had been held at the police station for ten hours
+
+19
+
+before Miranda warnings were given). In other words, unless a defendant’s Rule 5
+
+20
+
+waiver is decoupled from that of Miranda as in Liera, the very problem the Supreme
+
+21
+
+Court sought to avoid in Corley will manifest in many other cases: “federal agents would
+
+22
+
+be free to question suspects for extended periods before bringing them out in the open,
+
+23
+
+and we have always known what custodial secrecy leads to.” Id. (citing McNabb v.
+
+24
+
+United States, 318 U.S. 332 (1943)).
+
+25
+
+In addition, the Court is not convinced that incorporating a Mr. Kemmerer’s right
+
+26
+
+to prompt presentment in a Miranda waiver is fair or prudent in these circumstances. As
+
+27
+
+is evident from Mr. Kemmerer’s Miranda form and questioning, Agent Hutchinson never
+
+28
+
+20
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.809 Page 21 of 24
+
+1
+
+explained to Mr. Kemmerer that he has a right to appear before the Magistrate Judge
+
+2
+
+without unnecessary delay. Thus, in the absence of any explanation of this right, the
+
+3
+
+Court is not prepared to infer that Mr. Kemmerer would have “knowingly” or
+
+4
+
+“intelligently” waived his right to prompt presentment by electing to speak with Agent
+
+5
+
+Hutchinson. Certainly, in the context of Miranda, no such inference would be permissible
+
+6
+
+without the officer first instructing the defendant on his rights “before questioning
+
+7
+
+begins,” Davis v. United States, 512 U.S. 452, 457 (1994), and the Court applies the same
+
+8
+
+reasoning here.
+
+9
+
+C. Merits of Rule 5 Challenge
+Finally, the Court addresses the merits of Mr. Kemmerer’s Rule 5 challenge. 8 The
+
+10
+11
+
+Court “must find whether the defendant confessed within six hours of arrest.” Corley,
+
+12
+
+556 U.S. at 320. For the following reasons, the Court concludes that Mr. Kemmerer’s
+
+13
+
+statements were made within the “safe harbor” period under § 3501.
+
+14
+
+The Court calculates the safe harbor by first looking to the moment when Mr.
+
+15
+
+Kemmerer was arrested. The Court begins its analysis with United States v. Juvenile
+
+16
+
+(RRA-A), 229 F.3d 737, 743 (9th Cir. 2000). In Juvenile, an inspector at the United States
+
+17
+
+border with Mexico ordered a juvenile defendant (“RRA–A”) and the car transporting
+
+18
+
+him into the secondary inspection lot after noticing that the back seat cushions of the car
+
+19
+
+had no indentations. Id. at 741. The “vehicle occupants were brought into an office” and
+
+20
+21
+8
+
+27
+
+The Court rejects the Government’s argument that Mr. Kemmerer must further specify which
+statements within the interview he seeks to suppress under 18 U.S.C. § 3501(c) because there is no
+dispute here that Mr. Kemmerer seeks to suppress his interview with Agent Hutchinson as a whole and
+the Parties have entered a tape of the interview into the record. Any requirement to further specify the
+statements to be suppressed, moreover, would seem to contradict common practice as the Ninth Circuit’s
+opinions on Rule 5 motions to suppress incriminating statements do not always identify a specific
+statement to be suppressed or even explain how the subject statement is incriminating. See, e.g., United
+States v. Djordjevic, 631 F. App’x 463, 464 (9th Cir. 2015) (noting only that defendant sought to
+suppress his “inculpatory statements”); United States v. Van Poyck, 77 F.3d 285, 287 (9th Cir. 1996)
+(referring only to defendant’s “incriminating statements”).
+
+28
+
+21
+
+22
+23
+24
+25
+26
+
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.810 Page 22 of 24
+
+1
+
+frisked. Id. In the meantime, “the inspector discovered 80.10 pounds of marijuana in the
+
+2
+
+vehicle.” Id. “RRA–A was subsequently handcuffed to a bench in a locked security
+
+3
+
+office, where she remained for the next four hours.” Id. In reliance on these facts, the
+
+4
+
+Ninth Circuit determined that RRA–A was arrested once handcuffed because that “was
+
+5
+
+the clearest indication that she was no longer free to leave.” Id. at 743. Importantly, the
+
+6
+
+Ninth Circuit also determined that the arrest did not happen before that moment because
+
+7
+
+(1) defendant’s temporary frisk in the security office merely “constituted a detention,”
+
+8
+
+and (2) “RA–A was handcuffed after the inspector discovered the narcotics in the vehicle,
+
+9
+
+separating that detention from the search itself.” Id.
+
+10
+
+Here, the completion of a search which led to the discovery of methamphetamine
+
+11
+
+and probable cause to arrest, and the use of a restraint that objectively indicates a person
+
+12
+
+is not free to leave (i.e., the ankle chain), converged at approximately 10:40 a.m. Upon
+
+13
+
+attempting to enter the United States through the San Ysidro POE, Mr. Kemmerer was
+
+14
+
+ordered to get out of his car and immediately handcuffed. (Kemmerer Decl. at ¶¶ 3–4;
+
+15
+
+Perez ROI). An officer escorted Mr. Kemmerer to the security office with his hands
+
+16
+
+cuffed behind his back. (Kemmerer Decl. at ¶¶ 6–7; Perez ROI.) That officer patted Mr.
+
+17
+
+Kemmerer down, removed the handcuffs, and then “shackled [his] foot to the bench” of
+
+18
+
+the security office. (Kemmerer Decl. at ¶ 8.) While shackled, Mr. Kemmerer “could not
+
+19
+
+freely use the restroom,” (Kemmerer Decl. at ¶ 10), and “[c]ertainly . . . was [not] free to
+
+20
+
+get up at will and move around.” (ECF No. 30 at 10.) The officers, moreover, “never told
+
+21
+
+[Mr. Kemmerer] that [he] was not under arrest or that [the officer] was detaining [him]
+
+22
+
+for officer safety.” (Kemmerer Decl. at ¶ 5.) Thus, by the time Mr. Kemmerer was
+
+23
+
+shackled at 9:41 a.m., he was subjected to the first factor: a level of restraint analogous to
+
+24
+
+that of RRA–A’s handcuffs in Juvenile.
+
+25
+
+In addition to the restraints at issue, the Court also looks to the point in time when
+
+26
+
+probable cause ripened after drugs were discovered during a search of the load vehicle.
+
+27
+
+As the Ninth Circuit remarked in Juvenile, determining the moment of arrest requires
+
+28
+
+22
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.811 Page 23 of 24
+
+1
+
+“separating that detention from the search itself.” Juvenile (RRA-A), 229 F.3d at 743.
+
+2
+
+Here, that occurred at 10:40 a.m. While Mr. Kemmerer was being held in the security
+
+3
+
+office, the CBP officers at the POE conducted a thorough search of his car. First, CBP
+
+4
+
+Officer Abram Lopez examined images of Defendant’s car on the Z-portal x-ray machine
+
+5
+
+and noticed several anomalies. (Hutchinson Decl. at ¶ 5.) Then, at approximately 10:15
+
+6
+
+a.m., CBP Officer David Davis inspected the vehicle, drove it to the processing area, and
+
+7
+
+removed one package from the rear passenger side quarter panel. (Id. at ¶¶ 6, 7.) Another
+
+8
+
+officer then tested its contents. (Id. at ¶ 7.) The contents tested positive for
+
+9
+
+methamphetamine no later than 10:40 a.m., at which point Davis contacted “Apple
+
+10
+
+Enterprises to potentially remove the fuel tank” from the car. (Id.) Thus, by 10:40 a.m.,
+
+11
+
+the officers’ discovery of narcotics sufficiently separated Mr. Kemmerer’s detention from
+
+12
+
+the search of his car. Juvenile (RRA-A), 229 F.3d at 743. Cf. United States v. Sanchez,
+
+13
+
+No. 14-CR-2547-GPC, 2015 WL 1873208, at *6 (S.D. Cal. Apr. 23, 2015) (“the
+
+14
+
+circumstances of Sanchez’s detention would lead a reasonable innocent person to believe
+
+15
+
+that he would be free to go once the search of the [car] was over and he answered any
+
+16
+
+questions” because “the search revealed packages containing methamphetamine.”)
+
+17
+
+Thus, the Court finds that Mr. Kemmerer was arrested at 10:40 a.m. It was at this
+
+18
+
+time that there was both probable cause to arrest Mr. Kemmerer, following the discovery
+
+19
+
+of methamphetamine, and a level of restraint that would lead a reasonable person to
+
+20
+
+believe he was not free to leave. Thus, at this point, Mr. Kemmerer’s arrest rose beyond
+
+21
+
+the level of a “temporary detention occasioned by border crossing formalities.” United
+
+22
+
+States v. Hernandez, 322 F.3d 592, 596–97 (9th Cir. 2003) (quotation omitted).
+
+23
+
+Because the Court concludes that Mr. Kemmerer’s arrest took place at 10:40 a.m.,
+
+24
+
+and recognizing that Agent Hutchinson began his interview of Mr. Kemmerer at 3:46
+
+25
+
+p.m. and concluded at 4:52 p.m., the Court finds that Mr. Kemmerer’s interview fell
+
+26
+
+within the six-hour safe harbor period permitted under 18 U.S.C. § 3501(c). As such, it is
+
+27
+
+admissible. Corley, 556 U.S. at 320. That the interview went over by twelve minutes
+
+28
+
+23
+3:19-CR-02513-GPC
+
+ Case 3:19-cr-02513-GPC Document 91 Filed 08/14/20 PageID.812 Page 24 of 24
+
+1
+
+under these specific circumstances is a de minimis violation not requiring suppression.
+
+2
+
+See United States v. Oropeza-Flores, 230 F.3d 1368 (9th Cir. 2000) (finding no
+
+3
+
+procedural harm resulting from a confession that began “six hours and a few minutes
+
+4
+
+after [defendant’s] arrest”).
+
+5
+
+IV.
+
+6
+
+Conclusion
+For the foregoing reasons, the Court makes three findings here. First, the Court
+
+7
+
+finds that § 3501(c) applies to Mr. Kemmerer’s statements. Second, the Court finds that
+
+8
+
+Mr. Kemmerer’s valid Miranda waiver does not foreclose a challenge to the statements
+
+9
+
+under § 3501(c). Lastly, the Court finds that Mr. Kemmerer’s interview by Agent
+
+10
+
+Hutchinson fell within six-hour safe harbor period of § 3501(c). Consequently, the Court
+
+11
+
+DENIES Mr. Kemmerer’s motion and declines to suppress his statements in the
+
+12
+
+interview following his arrest.
+
+13
+
+IT IS SO ORDERED.
+
+14
+
+Dated: August 14, 2020
+
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+24
+3:19-CR-02513-GPC
+
+ 

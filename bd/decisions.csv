@@ -1,0 +1,30 @@
+doc_id,nature,issue_requete,phrase_conclusion,mentionne_miranda,mentionne_involontaire,mentionne_menaces,mentionne_promesses,mentionne_tromperie
+DEC001,decision du juge,accordee,motion in limine to admit Pre-Miranda Statements is GRANTED,True,True,True,True,True
+DEC002,decision du juge,indeterminee,,True,True,True,True,False
+DEC003,decision du juge,rejetee,"DENIES Defendant’s motion to suppress statements, without prejudice",False,True,False,False,False
+DEC004,decision du juge,reportee,DEFERS ruling on Defendant’s motion to suppress statements,False,False,False,False,False
+DEC005,decision du juge,partielle,motion to suppress is granted in part,True,True,False,True,True
+DEC006,decision du juge,rejetee,motion to suppress his pre- and post- Miranda statements is DENIED,True,True,True,True,False
+DEC007,decision du juge,accordee,GRANTS Defendant’s Supplemental Motion to Suppress holding cell statements,True,True,True,False,False
+DEC008,decision du juge,rejetee,Motion to exclude his statements as involuntary or inadmissible are DENIED,True,True,False,False,False
+DEC009,decision du juge,indeterminee,,True,True,True,True,True
+DEC010,decision du juge,rejetee,DENIES Defendant’s motion to suppress,True,False,False,False,False
+DEC011,decision du juge,reportee,DEFERS ruling on Defendant’s motion to suppress statements,True,False,False,False,False
+DEC012,decision du juge,indeterminee,,False,True,False,False,True
+DEC013,decision du juge,partielle,"motion to suppress her May 22, statements is GRANTED IN PART",True,True,True,True,False
+DEC014,decision du juge,accordee,motion to suppress statements is granted,True,True,False,False,False
+DEC015,decision du juge,reportee,DEFERS ruling on Defendant’s motion to suppress statements,False,False,False,False,False
+DEC016,decision du juge,rejetee,DENIES Defendant’s motion to suppress,True,False,False,False,False
+DEC017,decision du juge,partielle,"motion to suppress his September 10, 2019 statements is GRANTED IN PART",True,True,True,False,False
+DEC018,decision du juge,indeterminee,,True,True,True,True,True
+DEC019,decision du juge,indeterminee,,True,True,True,True,True
+DEC020,decision du juge,rejetee,DENIES Defendant’s motion to suppress,False,False,False,False,False
+DEC021,decision du juge,rejetee,motion was denied,True,True,True,True,True
+DEC022,decision du juge,rejetee,Motion to Exclude and Suppress Evidence and Statements is DENIED,True,False,False,False,False
+DEC023,decision du juge,rejetee,motion should be denied,True,False,False,False,False
+DEC024,decision du juge,rejetee,Motion to Suppress the autopsy report and its accompanying documents is DENIED,True,True,True,False,False
+DEC025,requete d'une partie,sans objet (requete),,True,True,True,False,True
+DEC026,requete d'une partie,sans objet (requete),,True,True,False,False,True
+DEC027,requete d'une partie,sans objet (requete),,True,True,True,True,True
+DEC028,requete d'une partie,sans objet (requete),,True,True,True,False,False
+DEC029,requete d'une partie,sans objet (requete),,True,True,True,True,True

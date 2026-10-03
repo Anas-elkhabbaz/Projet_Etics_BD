@@ -1,0 +1,56 @@
+doc_id,probleme,detail
+INT001,locuteurs abreges,"QI, QL, QN, QU"
+INT002,locuteurs abreges,"R W, RW, SAG, SAT"
+INT004,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT004,locuteurs abreges,"AW, RF, TC, VC"
+INT005,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT005,locuteurs abreges,"JJ, LC, NN, SS, TC, TH"
+INT006,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT006,locuteurs abreges,"ID, LD, RF, W, WW"
+INT007,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT007,locuteurs abreges,"GT, NN, TH"
+INT009,passages caviardes,informations masquees dans le document
+INT010,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT011,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT012,texte inexploitable,0 mots extraits
+INT014,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT015,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT015,locuteurs abreges,"CK, DL, MD, MID, SF"
+INT016,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT018,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT019,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT020,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT023,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT023,locuteurs non identifies,format de transcription non reconnu : texte decoupe en blocs
+INT024,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT025,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT026,locuteurs non identifies,format de transcription non reconnu : texte decoupe en blocs
+INT027,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT027,locuteurs non identifies,format de transcription non reconnu : texte decoupe en blocs
+INT028,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT029,locuteurs abreges,DR
+INT031,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT031,locuteurs non identifies,format de transcription non reconnu : texte decoupe en blocs
+INT032,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT032,locuteurs non identifies,format de transcription non reconnu : texte decoupe en blocs
+INT033,locuteurs abreges,"EP, LC, MD, MPC, MW, NC"
+INT034,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT034,locuteurs abreges,"BW, RC, RG"
+INT035,locuteurs non identifies,format de transcription non reconnu : texte decoupe en blocs
+INT036,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT036,locuteurs non identifies,format de transcription non reconnu : texte decoupe en blocs
+INT037,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT037,locuteurs abreges,"DR, ET, MT"
+INT038,locuteurs non identifies,format de transcription non reconnu : texte decoupe en blocs
+INT039,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT039,locuteurs non identifies,format de transcription non reconnu : texte decoupe en blocs
+INT040,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT040,locuteurs non identifies,format de transcription non reconnu : texte decoupe en blocs
+INT041,PDF scanne sans texte,texte recupere par l'OCR de DocumentCloud (erreurs de lecture possibles)
+INT041,passages caviardes,informations masquees dans le document
+DEC002,issue non trouvee,la phrase de conclusion n'a pas ete reconnue
+DEC009,issue non trouvee,la phrase de conclusion n'a pas ete reconnue
+DEC012,issue non trouvee,la phrase de conclusion n'a pas ete reconnue
+DEC018,issue non trouvee,la phrase de conclusion n'a pas ete reconnue
+DEC019,issue non trouvee,la phrase de conclusion n'a pas ete reconnue
+DEC029,passages caviardes,informations masquees dans le document

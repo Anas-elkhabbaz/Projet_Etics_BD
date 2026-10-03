@@ -1,0 +1,1410 @@
+Case 3:19-mj-24175-AHG-BAS Document 37 Filed 02/13/20 PageID.234 Page 1 of 13
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+UNITED STATES DISTRICT COURT
+
+9
+
+SOUTHERN DISTRICT OF CALIFORNIA
+
+10
+11
+
+UNITED STATES OF AMERICA,
+Plaintiff,
+
+12
+13
+
+v.
+
+14
+
+ISMAEL ALEJANDRO ROCHAVALDEZ,
+
+15
+16
+
+Case No.: 3:19-mj-24175-AHG
+ORDER:
+(1) DENYING MOTION TO DISMISS
+THE COMPLAINT;
+(2) DEFERRING RULING ON
+MOTION TO SUPPRESS
+STATEMENTS UNTIL TRIAL;
+
+Defendant.
+
+17
+18
+
+(3) DENYING MOTION TO
+COMPEL DISCOVERY; and
+
+19
+20
+
+(4) GRANTING MOTION FOR
+LEAVE TO FILE FURTHER
+MOTIONS
+
+21
+22
+
+[ECF No. 26]
+
+23
+24
+25
+26
+27
+
+Before the Court are Defendant’s consolidated motions to: 1) dismiss the complaint;
+2) suppress statements; 3) preserve evidence and compel discovery; and 4) grant leave to
+file further motions. ECF No. 26. The Court took the matters raised in the Motion under
+submission after oral argument on January 7, 2020. ECF No. 33. Having considered the
+
+28
+1
+3:19-mj-24175-AHG
+
+ Case 3:19-mj-24175-AHG-BAS Document 37 Filed 02/13/20 PageID.235 Page 2 of 13
+
+1
+2
+
+parties’ papers and their argument, the Court enters the following Order:
+I.
+
+BACKGROUND
+
+3
+
+Defendant is charged with violating 8 U.S.C. § 1325(a)(1), which provides, in
+
+4
+
+relevant part, that “[a]ny alien who (1) enters or attempts to enter the United States at any
+
+5
+
+time or place other than as designated by immigration officers . . . shall [be guilty of a
+
+6
+
+misdemeanor].” See ECF No. 1. The Government alleges that on October 9, 2019, a United
+
+7
+
+States Customs and Border Patrol (“Border Patrol”) agent encountered Defendant sitting
+
+8
+
+on a large rock in an area known as the “Cuchama Truck Trail,” approximately one quarter
+
+9
+
+mile north of the United States/Mexico International Boundary and approximately five and
+
+10
+
+a half miles west of the Tecate, California, Port of Entry. ECF No. 1 at 2. The Government
+
+11
+
+alleges that Defendant stated that he is a citizen of Mexico without immigration documents.
+
+12
+
+Id. The agent placed Defendant under arrest. Id. The Government alleges that Defendant
+
+13
+
+was advised of his Miranda rights and agreed to answer questions without an attorney
+
+14
+
+present. Id. During custodial questioning, the Government alleges that Defendant stated
+
+15
+
+that he is a citizen of Mexico and he illegally entered the United States on October 9, 2019.
+
+16
+
+On December 24, 2019, Defendant filed the consolidated motion currently before
+
+17
+
+the Court, seeking various forms of relief, including dismissal of the Complaint. ECF No.
+
+18
+
+26-1. In addition to seeking dismissal of the Complaint, Defendant moves the Court to:
+
+19
+
+1) order preservation of evidence; 2) compel discovery; 3) suppress statements; and
+
+20
+
+4) grant leave to file further motions. Id. The Court will address the Motion to Dismiss
+
+21
+
+before turning to the other motions.
+
+22
+23
+
+II.
+
+DISCUSSION
+A. Motion to Dismiss
+
+24
+
+Defendant moves to dismiss the Complaint on five grounds: 1) Congress violated
+
+25
+
+the non-delegation doctrine when it enacted § 1325(a)(1); 2) Congress violated the Due
+
+26
+
+Process Clause’s prohibition on vague laws when it enacted § 1325(a)(1); 3) Defendant’s
+
+27
+
+prosecution violates equal protection and due process; 4) § 1325 violates the Due Process
+
+28
+
+Clause; and 5) the complaint fails to allege all the elements of § 1325.
+2
+3:19-mj-24175-AHG
+
+ Case 3:19-mj-24175-AHG-BAS Document 37 Filed 02/13/20 PageID.236 Page 3 of 13
+
+1
+2
+
+The Court addresses each of Defendant’s arguments below.
+1.
+
+Violation of the Non-Delegation Doctrine
+
+3
+
+Defendant argues that the § 1325 charge against him should be dismissed under the
+
+4
+
+non-delegation doctrine because Congress delegated its core legislative functions to the
+
+5
+
+Executive Branch by allowing immigration officers to determine the times and places when
+
+6
+
+an alien can lawfully enter the United States. See 8 U.S.C. § 1325(a) (defining as one of
+
+7
+
+three alternative elements of the offense the entry or attempted entry into the United States
+
+8
+
+“at any time or place other than as designated by immigration officers”). The non-
+
+9
+
+delegation doctrine generally forbids Congress from transferring “powers which are strictly
+
+10
+
+and exclusively legislative” to other branches of government. Gundy v. United States, 139
+
+11
+
+S. Ct. 2116, 2123 (2019) (citation omitted). Defendant claims that the statute does not
+
+12
+
+provide any intelligible principle to guide this discretion.
+
+13
+
+“In our increasingly complex society, replete with ever changing and more technical
+
+14
+
+problems, [the Supreme] Court has understood that Congress simply cannot do its job
+
+15
+
+absent an ability to delegate power under broad general directives.” Id. (quoting Mistretta
+
+16
+
+v. United States, 488 U.S. 361, 372 (1989)) (internal alteration and quotations omitted).
+
+17
+
+Therefore, as long as “Congress has supplied an intelligible principle to guide the delegee’s
+
+18
+
+use of discretion[,]” a statute does not run afoul of the non-delegation doctrine. In
+
+19
+
+performing the analysis of whether such an “intelligible principle” is supplied, the Court
+
+20
+
+must “constru[e] the challenged statute to figure out what task it delegates and what
+
+21
+
+instructions it provides.” Gundy, 139 S. Ct. at 2123. Importantly, that task of construction
+
+22
+
+does not require the Court to look only at the text of the statute “in isolation.” Rather, the
+
+23
+
+intelligibility of the standards that guide the delegee’s discretion must be considered in
+
+24
+
+light of “the purpose of the [statute at issue], its factual background, and the statutory
+
+25
+
+context in which they appear.” Am. Power & Light Co. v. SEC, 329 U.S. 90, 104 (1946).
+
+26
+
+Construing § 1325 in United States v. Nunez-Soberanis, 406 F. Supp. 3d 835 (S.D.
+
+27
+
+Cal. 2019), another court in this District rejected the same non-delegation argument
+
+28
+
+Defendant presents here, reasoning as follows:
+3
+3:19-mj-24175-AHG
+
+ Case 3:19-mj-24175-AHG-BAS Document 37 Filed 02/13/20 PageID.237 Page 4 of 13
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+Defendant attempts to read into the statute a broader delegation than
+actually occurred by arguing that any individual immigration official can
+designate any piece of land as a place for entry. Not so. Congress requires
+that aliens seeking lawful entrance to the United States do so at a port of
+entry. See United States v. Corrales-Vasquez, 931 F.3d 944, 946 (9th Cir.
+2019); United States v. Aldana, 878 F.3d 877, 882 (9th Cir. 2017). Ports
+of entry can only be designated or de-designated by the Secretary of
+Homeland Security subject to the Administrative Procedures Act. See 8
+CFR § 100.4(a). Ports of entry also necessarily include facilities, staffed
+by immigration officials that are set up to accept applications for
+admission. Aldana, 878 F.3d at 882. To interpret Section 1325(a) to permit
+a border patrol agent to designate a portion of the border fence “on a whim”
+is in direct conflict with Congress’s clear statutory scheme.
+Id. at 839-40. This Court agrees. Contrary to Defendant’s argument, when viewed in the
+proper context rather than viewing the statutory text in isolation, § 1325’s delegation to
+immigration officers to designate time and place of lawful entry is not unfettered, but
+significantly constrained. Am. Power, 329 U.S. at 104; see also Gundy, 139 S. Ct. at 212324 (considering the text of a statute “alongside its context, purpose, and history” to
+determine the extent of discretion afforded to the delegee in question).
+Congress’s delegation of the duty to designate the time and place for lawful entry of
+aliens also does not expand the scope of criminal liability under § 1325. Opening or closing
+ports of entry does not change or expand the conduct that leads to criminal liability under
+§ 1325. Closing ports or restricting hours of operation may make it more cumbersome for
+aliens to enter legally, but it does not create new or different criminal liability.
+Therefore, the Court denies Defendant’s motion to dismiss based on the nondelegation doctrine.
+2.
+
+Vagueness
+
+Defendant argues the charge against him should be dismissed because § 1325 is void
+for vagueness. A statute can be impermissibly vague in either of two circumstances: 1) the
+statute “fails to provide people of ordinary intelligence a reasonable opportunity to
+understand what conduct it prohibits;” or 2) the statute “authorizes or even encourages
+
+28
+4
+3:19-mj-24175-AHG
+
+ Case 3:19-mj-24175-AHG-BAS Document 37 Filed 02/13/20 PageID.238 Page 5 of 13
+
+1
+
+arbitrary and discriminatory enforcement.” Hill v. Colorado, 530 U.S. 703, 732 (2000).
+
+2
+
+Defendant argues that § 1325 is impermissibly vague because it permits immigration
+
+3
+
+officers unlimited discretion to decide what places to designate for lawful entry. As
+
+4
+
+discussed above, this is not correct. Individual Border Patrol agents cannot designate ports
+
+5
+
+of entry on a whim. Section 1325 clearly delineates the conduct that it prescribes and is not
+
+6
+
+impermissibly vague.
+
+7
+8
+
+Therefore, the Court denies Defendant’s motion to dismiss based on vagueness.
+3.
+
+Violation of Equal Protection and Due Process
+
+9
+
+Defendant argues that his prosecution violates the Equal Protection and Due Process
+
+10
+
+Clauses because the Government brought this charge through the district court rather than
+
+11
+
+through the Central Violations Bureau (“CVB”). As described in Defendant’s Motion,
+
+12
+
+“CVB defendants are generally cited and released, receive notice of their court date in the
+
+13
+
+mail, and resolve their charges without a criminal conviction.” ECF No. 26-1 at 3.
+
+14
+
+Defendant was not charged through CVB. Instead, Defendant was taken into custody
+
+15
+
+following arrest on October 9, 2019, and brought before a magistrate judge for his initial
+
+16
+
+appearance the following day. ECF No. 3. The magistrate judge granted the Government’s
+
+17
+
+motion to detain Defendant at his initial appearance based on a review of the factors set
+
+18
+
+forth in the Bail Reform Act, 18 U.S.C. § 3142(g). Id. The undersigned considered and
+
+19
+
+denied Defendant’s request for bond modification at a hearing on November 7, 2019.
+
+20
+
+ECF No. 14. A district judge denied Defendant’s appeal of this ruling on December 20,
+
+21
+
+2019, ECF No. 25, and the United States Court of Appeals for the Ninth Circuit affirmed
+
+22
+
+this decision on February 5, 2020. ECF No. 34. Defendant has therefore remained in
+
+23
+
+custody since his arrest.
+
+24
+
+First, Defendant argues that the Government violated the Equal Protection Clause of
+
+25
+
+the United States Constitution by failing to prosecute Defendant through the CVB because
+
+26
+
+by doing so, the Government discriminated against Defendant on the basis of alienage,
+
+27
+
+national origin, and race. The Equal Protection Clause is part of the Fourteenth
+
+28
+
+Amendment, and states in relevant part that the government shall not “deny to any person
+5
+3:19-mj-24175-AHG
+
+ Case 3:19-mj-24175-AHG-BAS Document 37 Filed 02/13/20 PageID.239 Page 6 of 13
+
+1
+
+within its jurisdiction the equal protection of the laws.” U.S. Const. amend. XIV.
+
+2
+
+Defendant does not address the appropriate standard for the Court’s review of this
+
+3
+
+claim in his motion. The Court agrees with multiple judges in this district who have
+
+4
+
+concluded that the prosecution of § 1325 defendants outside the CVB does not create a
+
+5
+
+classification based on alienage that would invoke strict scrutiny. See, e.g., United States
+
+6
+
+v. Ramirez-Ortiz, 370 F. Supp. 3d 1151, 1154 (S.D. Cal. 2019); United States v. Silva-Sosa,
+
+7
+
+No. 18MJ23270-KSC, 2019 WL 1470868, at *2 (S.D. Cal. Apr. 3, 2019); United States v.
+
+8
+
+Mazariegos-Ramirez, No. 18MJ22276-WQH, 2019 WL 338923, at *2 (S.D. Cal. Jan. 28,
+
+9
+
+2019); United States v. Chavez-Diaz, No. 18MJ20098 AJB, 2018 WL 9543024, at *3 (S.D.
+
+10
+
+Cal. Oct. 30, 2018), rev’d on other grounds, No. 18-50391, 2020 WL 562292 (9th Cir. Feb.
+
+11
+
+5, 2020). 1 The Government’s decision to bring § 1325 charges outside the CVB creates a
+
+12
+
+distinction among defendants based on their alleged criminal activity (attempting to enter
+
+13
+
+or entering the United States unlawfully), not based on alienage. See Ramirez-Ortiz, 370
+
+14
+
+F. Supp. 3d at 1154 (quoting United States v. Mendoza-Hinojosa, 216 F.3d 1085, 2000 WL
+
+15
+
+429701, at *2 (9th Cir. 2000) (unpublished table case) for the dual proposition that there
+
+16
+
+exists a “distinction between statutes which classify based on alienage and statutes which
+
+17
+
+classify based on criminal actions” and that “imposing different rules on immigrants versus
+
+18
+
+citizens does not in itself create a suspect classification”).
+
+19
+
+Moreover, the Supreme Court has recognized that Congressional acts regarding
+
+20
+
+immigration are “subject only to narrow judicial review.” Fiallo v. Bell, 430 U.S. 787, 792
+
+21
+
+(1977) (citation omitted). In Fiallo, the Supreme Court recognized that “in the exercise of
+
+22
+
+its broad power over immigration and naturalization, ‘Congress regularly makes rules that
+
+23
+24
+25
+26
+27
+28
+
+1
+
+Chavez-Diaz was reversed by the Ninth Circuit because the Court of Appeals found that
+the defendant had waived his right to bring his constitutional challenges on appeal by
+entering an unconditional guilty plea, while the district court had found no waiver and
+considered the constitutional challenges on their merits. See Chavez-Diaz, 2020 WL
+562292, at *2-6. Therefore, the Ninth Circuit opinion reversing the district court does not
+address the merits analysis, much less contradict it.
+6
+3:19-mj-24175-AHG
+
+ Case 3:19-mj-24175-AHG-BAS Document 37 Filed 02/13/20 PageID.240 Page 7 of 13
+
+1
+
+would be unacceptable if applied to citizens.’” Id. (quoting Mathews v. Diaz, 426 U.S. 67,
+
+2
+
+80 (1976)). Even if a failure to prosecute § 1325 defendants through the CVB has a
+
+3
+
+disparate impact on aliens, therefore, it would not be subject to strict scrutiny. See also
+
+4
+
+United States v. Barajas-Guillen, 632 F.2d 749, 752 (9th Cir. 1980) (“[C]lassifications
+
+5
+
+among aliens made pursuant to the immigration laws need only be supported by some
+
+6
+
+rational basis to fulfill equal protection guarantees.”).
+
+7
+
+Applying the rational basis test, the Court finds that the Government’s decision to
+
+8
+
+prosecute Defendant outside the CVB readily meets this standard. Although the Equal
+
+9
+
+Protection Clause requires all similarly situated persons to be treated alike, “so too, ‘the
+
+10
+
+Constitution does not require things which are different in fact or opinion to be treated in
+
+11
+
+law as though they were the same.’” Plyler v. Doe, 457 U.S. 202, 216 (1982) (internal
+
+12
+
+alteration and citation omitted). “Undocumented aliens cannot be treated as a suspect class
+
+13
+
+because their presence in this country in violation of federal law is not a ‘constitutional
+
+14
+
+irrelevancy.’” Id. at 223. In analyzing whether the Government’s decision to prosecute
+
+15
+
+§ 1325 defendants outside the CVB survives rational basis review, the question is whether
+
+16
+
+“the classification at issue bears some fair relationship to a legitimate public purpose.”
+
+17
+
+Hoffman v. United States, 767 F.2d 1431, 1436 (9th Cir. 1985) (quoting Plyler, 457 U.S.
+
+18
+
+at 216).
+
+19
+
+The Government’s proffered reasons for finding Defendant’s § 1325 offense
+
+20
+
+unsuitable for disposition through the CVB include: 1) The CVB is “a national center
+
+21
+
+charged with processing violation notices (tickets) issued and payments received for petty
+
+22
+
+offenses committed on federal property[,]” and thus a criminal misdemeanor offense under
+
+23
+
+Title 8 of the United States Code is not the type of offense for which the CVB calendar
+
+24
+
+was
+
+25
+
+www.cvb.uscourts.gov); and 2) Since Defendant was arrested for his alleged offense rather
+
+26
+
+than being given a violation notice, Rule 5 of the Federal Rules of Criminal Procedure
+
+27
+
+entitled Defendant to be taken “without unnecessary delay” before a magistrate judge
+
+28
+
+following his arrest, making it impossible to route his case to the CVB for processing.
+
+designed,
+
+ECF
+
+No.
+
+30
+
+at
+
+7
+
+(quoting
+
+Central
+
+Violations
+
+Bureau,
+
+7
+3:19-mj-24175-AHG
+
+ Case 3:19-mj-24175-AHG-BAS Document 37 Filed 02/13/20 PageID.241 Page 8 of 13
+
+1
+
+Id. at 8; Fed. R. Crim. P. 5(a)(1)(A). Both of these reasons for processing § 1325 defendants
+
+2
+
+differently than other defendants accused of federal “petty offenses” satisfy the rational
+
+3
+
+basis standard of review.
+
+4
+
+In finding the test met, the Court here adopts Judge Anthony J. Battaglia’s detailed
+
+5
+
+explanation and persuasive reasoning on the same question in Chavez-Diaz, 2018 WL
+
+6
+
+9543024, at *1–4. In addition, the Court notes that requiring the Government to process
+
+7
+
+§ 1325 defendants through the CVB would likely prove unworkable given the nature of the
+
+8
+
+charge: unlawful entry into the United States by an alien. As Defendant notes, CVB
+
+9
+
+defendants are not taken into custody. They are allowed to continue living in the United
+
+10
+
+States without restriction, and typically given the option to either pay a fine or appear at a
+
+11
+
+hearing. That would not be a manageable way to address individuals whose alleged offense
+
+12
+
+is entering the United States without authorization.
+
+13
+
+Second, Defendant argues that the prosecution of Defendant violates the Equal
+
+14
+
+Protection Clause because failing to prosecute Defendant through CVB amounts to
+
+15
+
+selective prosecution or selective enforcement. “A selective-prosecution claim is not a
+
+16
+
+defense on the merits to the criminal charge itself, but an independent assertion that the
+
+17
+
+prosecutor has brought the charge for reasons forbidden by the Constitution.” United States
+
+18
+
+v. Armstrong, 517 U.S. 456, 463 (1996). The standard for proving a claim of selective
+
+19
+
+prosecution is demanding. Id. The executive branch, through the Attorney General and
+
+20
+
+United States Attorneys, has wide discretion in enforcing criminal laws. Id. at 464. As long
+
+21
+
+as there is probable cause to support a prosecution, “whether or not to prosecute, and what
+
+22
+
+charge to file or bring before a grand jury,” falls squarely within the prosecutor’s discretion.
+
+23
+
+Id. (quoting Bordenkircher v. Hayes, 434 U.S. 357, 364 (1978)); see also United States v.
+
+24
+
+Batchelder, 442 U.S. 114, 124 (1979) (“Whether to prosecute and what charge to file or
+
+25
+
+bring before a grand jury are decisions that generally rest in the prosecutor’s discretion”).
+
+26
+
+Defendant does not argue that the fact he was charged under § 1325 reflects selective
+
+27
+
+prosecution. Instead, he argues that failing to prosecute him through CVB reflects selective
+
+28
+
+prosecution. ECF No. 26-1 at 3. It is not clear that the manner of processing, rather than
+8
+3:19-mj-24175-AHG
+
+ Case 3:19-mj-24175-AHG-BAS Document 37 Filed 02/13/20 PageID.242 Page 9 of 13
+
+1
+
+the fact of prosecution, can be the basis of a claim for selective prosecution. Nonetheless,
+
+2
+
+Defendant has not shown that he is similarly situated to a CVB defendant, but treated
+
+3
+
+differently. Section 1325 defendants are not similarly situated to CVB defendants merely
+
+4
+
+because their offenses carry comparable punishments. As discussed above, alienage is an
+
+5
+
+element of § 1325, and the statute passes constitutional muster due to Congress’s “broad
+
+6
+
+power over immigration and naturalization.” Fiallo, 430 U.S. at 792.
+
+7
+
+Defendant’s claim that the charge should be dismissed because of selective
+
+8
+
+enforcement also fails. A selective enforcement claim focuses on the investigatory
+
+9
+
+decisions of government agencies, such as the United States Customs and Border Patrol.
+
+10
+
+United States v. Sellers, 906 F.3d 848, 853 (2018). Although investigatory decisions of
+
+11
+
+agencies are not entitled to the same deference as prosecutorial decisions by the Attorney
+
+12
+
+General or United States Attorneys, id., Defendant’s selective enforcement claim relates
+
+13
+
+solely to how the charge brought against him by the United States Attorney’s office was
+
+14
+
+processed. Defendant’s claim is not related to any investigatory activity by the Border
+
+15
+
+Patrol or any other federal agency preceding the charge. The Government’s prosecution of
+
+16
+
+Defendant outside the CVB does not amount to improper selective prosecution or
+
+17
+
+enforcement.
+
+18
+
+Third, Defendant argues his prosecution outside the CVB violates the Due Process
+
+19
+
+Clause. Defendant argues that his substantive due process rights have been violated
+
+20
+
+because it shocks the conscience to deprive Defendant of the benefits of the CVB process.
+
+21
+
+ECF No. 26-1 at 4. The Court disagrees. Defendant’s arrest and detention were supported
+
+22
+
+by a showing of probable cause, which was reviewed and approved by a magistrate judge.
+
+23
+
+Following his detention, Defendant was brought to the federal building, where he met with
+
+24
+
+an attorney. A magistrate judge appointed counsel to represent him and Defendant had
+
+25
+
+multiple opportunities to seek conditions of pretrial release, and appeal the Court’s
+
+26
+
+decisions to detain him. None of these procedures shocks the conscience.
+
+27
+
+Defendant’s claim that his right to procedural due process was violated also fails. A
+
+28
+
+procedural due process analysis considers three factors: 1) the “private interest that will be
+9
+3:19-mj-24175-AHG
+
+ Case 3:19-mj-24175-AHG-BAS Document 37 Filed 02/13/20 PageID.243 Page 10 of 13
+
+1
+
+affected by the official action;” 2) “the risk of an erroneous deprivation of such interest
+
+2
+
+through the procedures used, and the probable value, if any, of additional or substitute
+
+3
+
+procedural safeguards;” and 3) “the Government’s interest, including the function involved
+
+4
+
+and the fiscal and administrative burdens that the additional or substitute procedural
+
+5
+
+requirement would entail.” Mathews v. Eldridge, 424 U.S. 319, 335 (1976). To be sure, the
+
+6
+
+liberty interest that is implicated when an individual is detained by the Government is
+
+7
+
+substantial. But that interest must be weighed against the Government’s interest, and as
+
+8
+
+discussed above, the Government has put forth substantial reasons why processing § 1325
+
+9
+
+defendants through the CVB would not be practicable. Further, the procedures that were
+
+10
+
+followed in Defendant’s prosecution adequately protect against the risk of an erroneous
+
+11
+
+deprivation of that interest. Those procedures include a probable cause review to support
+
+12
+
+detention, appointment of counsel, and consideration of pretrial release conditions under
+
+13
+
+the Bail Reform Act. Therefore, Defendant’s procedural due process claim does not
+
+14
+
+establish a constitutional violation under the Mathews balancing test.
+
+15
+
+The Court denies Defendant’s motion to dismiss based on his constitutional
+
+16
+
+challenges to the Streamline process.
+
+17
+
+4.
+
+Constitutionality of § 1325
+
+18
+
+Defendant argues that § 1325 is unconstitutional because alienage is an element of
+
+19
+
+§ 1325, and the definition of “alien” set forth in 8 U.S.C. § 1101(a)(3), which defines the
+
+20
+
+term as used throughout Chapter 8 of the U.S. Code, was found to violate the Equal
+
+21
+
+Protection Clause as it relates to citizenship of children born abroad by the Supreme Court
+
+22
+
+in Sessions v. Morales-Santana, 137 S. Ct. 1678, 1686 (2017). The Ninth Circuit rejected
+
+23
+
+this same argument, however, in United States v. Madero-Diaz, 752 F. App’x 537, 538
+
+24
+
+(9th Cir. 2019). Inexplicably, Defendant raised this argument without also noting that the
+
+25
+
+Ninth Circuit Court of Appeals has squarely rejected it. This Court does not have the
+
+26
+
+authority or inclination to overrule the Ninth Circuit on this issue.
+
+27
+28
+
+The Court denies Defendant’s motion to dismiss based on the alleged
+unconstitutionality of § 1325.
+10
+3:19-mj-24175-AHG
+
+ Case 3:19-mj-24175-AHG-BAS Document 37 Filed 02/13/20 PageID.244 Page 11 of 13
+
+1
+
+5.
+
+Failure to Allege All Elements of Section 1325
+
+2
+
+Defendant argues that the charge should be dismissed because the Government
+
+3
+
+failed to allege that Defendant knew he was an alien when he attempted to enter the United
+
+4
+
+States, and thus failed to allege “all the elements of the charged offense” by omitting a
+
+5
+
+mens rea element in the charging document. ECF No. 26-1 at 4.
+
+6
+
+The Court disagrees that knowledge of alienage is an element of a charge under
+
+7
+
+§ 1325. Defendant relies in part on Rehaif v. United States, 139 S. Ct. 2191 (2019) to make
+
+8
+
+this argument. Rehaif, however, is distinguishable. In Rehaif, the Supreme Court held that
+
+9
+
+a defendant can be convicted of possession of a firearm by an alien who is illegally or
+
+10
+
+unlawfully present in the United States under 18 U.S.C. § 922(g) only if the Government
+
+11
+
+shows that the defendant knew of his illegal or unlawful immigration status. Rehaif, 139 S.
+
+12
+
+Ct. 2196. The Court’s interpretation of § 922(g) was governed by the overall statutory
+
+13
+
+scheme, which includes 18 U.S.C. § 924(a)(2). Section 924(a)(2) expressly provides for
+
+14
+
+punishment of a defendant who “knowingly violates” § 922(g). There is no similar express
+
+15
+
+requirement in 8 U.S.C. § 1325, however, that a violation be “knowing.”
+
+16
+
+Rehaif does address the general standard for interpreting the mens rea requirement
+
+17
+
+for an element of a criminal statute. Id. at 2195. The “longstanding presumption” is that
+
+18
+
+“Congress intends to require a defendant to possess a culpable mental state regarding ‘each
+
+19
+
+of the statutory elements that criminalize otherwise innocent conduct.’” Id. (quoting United
+
+20
+
+States v. X-Citement Video, Inc., 513 U.S. 64, 74 (1994)). However, unlike the statute at
+
+21
+
+issue in Rehaif, the element of alienage in a § 1325 charge does not criminalize “otherwise
+
+22
+
+innocent conduct.” See Nunez-Soberanis, 406 F. Supp. 3d at 843-45. The conduct that
+
+23
+
+§ 1325 criminalizes is attempting to cross the border outside the port of entry, free from
+
+24
+
+official restraint. See, e.g., United States v. Argueta-Rosales, 819 F.3d 1149, 1151 (9th Cir.
+
+25
+
+2016); United States v. Lombero-Valdovinos, 429 F.3d 927, 929 (9th Cir. 2005). Any
+
+26
+
+person, whether a United States citizen or an alien, who engages in such conduct violates
+
+27
+
+the laws of the United States. Nunez-Soberanis, 406 F. Supp. 3d. at 844 (citing
+
+28
+
+19 U.S.C. § 1459(a)). Therefore, the Government does not need to prove that a defendant
+11
+3:19-mj-24175-AHG
+
+ Case 3:19-mj-24175-AHG-BAS Document 37 Filed 02/13/20 PageID.245 Page 12 of 13
+
+1
+
+knew he or she was an alien to obtain a conviction for violating 8 U.S.C. § 1325(a)(1).
+
+2
+
+Defendant also argues that knowledge of alienage must be alleged because
+
+3
+
+§ 1325(a)(1) charges an attempt crime. But a defendant cannot be convicted of attempted
+
+4
+
+illegal entry under § 1325 unless he or she has the specific intent to enter the country free
+
+5
+
+from official restraint. Lombera-Valdovinos, 429 F.3d at 929. That specific intent is
+
+6
+
+sufficient to meet the mens rea requirement for an attempt crime. See, e.g., United States
+
+7
+
+v. Gracidas-Ulibarry, 231 F.3d 1188, 1193 (9th Cir. 2000) (requiring specific intent for an
+
+8
+
+attempt crime resolves “the uncertainty whether the defendant’s purpose was indeed to
+
+9
+
+engage in criminal, rather than innocent, conduct.”).
+
+10
+11
+12
+13
+
+The Court denies Defendant’s motion to dismiss based on failure to allege all
+elements of § 1325.
+B. Motion to Suppress
+The Court DEFERS ruling on Defendant’s motion to suppress his statements. The
+
+14
+
+Court will hear further argument and rule on Defendant’s motion to suppress at the date
+
+15
+
+of trial, when it is clear which statements the Government intends to offer.
+
+16
+
+C. Motion for Preservation and Production of Discovery
+
+17
+
+Next, Defendant moves the Court for an order to compel the Government to produce
+
+18
+
+“all discovery and for the preservation of all evidence he is entitled to under the
+
+19
+
+Constitution and the Federal Rules of Criminal Procedure.” ECF No. 26-1 at 10. The
+
+20
+
+Government opposes, stating that it has complied, and will continue to comply, with its
+
+21
+
+discovery obligations. In particular, Defendant requests that the AUSA assigned to this
+
+22
+
+case “oversee . . . a review of all personnel files of each agent involved, and . . . state on
+
+23
+
+the record that he has done so and complied with his obligations to provide [all required]
+
+24
+
+information.” Id. Additionally, Defendant specifically requests “disclosure [of] all
+
+25
+
+information in the government’s possession” regarding the membership of any agent
+
+26
+
+involved in this case in a certain Facebook group or other social media groups containing
+
+27
+
+evidence of possible bias. Id. In response, the Government states that CBP counsel has
+
+28
+
+reviewed the files of all agents involved and has found no impeachment information. ECF
+12
+3:19-mj-24175-AHG
+
+ Case 3:19-mj-24175-AHG-BAS Document 37 Filed 02/13/20 PageID.246 Page 13 of 13
+
+1
+
+No. 30 at 15. Therefore, Defendant’s first request has been satisfied. The Government
+
+2
+
+further states that it will make inquiries of the agents regarding social media membership
+
+3
+
+and will either disclose the responses to Defendant or file a motion with the Court regarding
+
+4
+
+whether the information gleaned from those inquiries is discoverable. Id. No such motion
+
+5
+
+has been filed. Thus, there does not appear to be any specific undisclosed discovery at
+
+6
+
+issue. For that reason, the Court denies the Motion as moot.
+
+7
+
+D. Motion for Leave to File Further Motions
+
+8
+
+Finally, Defendant moves for leave to file further motions. Defendant’s request is
+
+9
+
+general, referring to no specific motion Defendant anticipates filing. See ECF No. 26-1 at
+
+10
+
+10. The Court is unaware of any authority that would limit Defendant’s right to file further
+
+11
+
+motions in this case, and the Government does not oppose the request, as long as such
+
+12
+
+motions are based on newly discovered evidence. ECF No. 30 at 15. Therefore, the Court
+
+13
+
+GRANTS the motion for leave to file further motions.
+
+14
+
+III.
+
+CONCLUSION
+
+15
+
+For the reasons set forth above, the Court (1) DENIES Defendant’s Motion to
+
+16
+
+Dismiss the Complaint; (2) DEFERS ruling on Defendant’s motion to suppress statements;
+
+17
+
+(3) DENIES AS MOOT Defendant’s Motion to Compel Discovery; and (4) GRANTS
+
+18
+
+Defendant leave to file further motions.
+
+19
+
+IT IS SO ORDERED.
+
+20
+21
+
+Dated: February 13, 2020
+
+22
+23
+24
+25
+26
+27
+28
+13
+3:19-mj-24175-AHG
+
+ 

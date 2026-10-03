@@ -1,0 +1,871 @@
+Case 3:17-cr-02475-CAB Document 110 Filed 05/15/19 PageID.634 Page 1 of 8
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+UNITED STATES DISTRICT COURT
+
+9
+
+SOUTHERN DISTRICT OF CALIFORNIA
+
+10
+11
+
+UNITED STATES OF AMERICA,
+
+Case No.: 17cr2475-CAB
+
+Plaintiff,
+
+12
+13
+
+v.
+
+14
+
+RAYMOND LIDDY,
+
+ORDER ON MOTION TO
+SUPPRESS [Doc. No. 84]
+
+Defendant.
+
+15
+16
+17
+
+Defendant Raymond Liddy is charged with a violation of Section 2252(a)(4)(B) of
+
+18
+
+Title 18 of the United States Code. [Doc. No. 13.] Before the Court is the defendant’s
+
+19
+
+motion to suppress statements he made to law enforcement. [Doc. No. 84.] The
+
+20
+
+government filed a response in opposition. [Doc. No. 98]. Defendant filed a reply. [Doc.
+
+21
+
+No. 105.] The Court heard argument on May 2, 2019. [Doc. No. 106.] The parties were
+
+22
+
+granted leave to submit additional exhibits for the Court’s consideration. [Doc. Nos. 107,
+
+23
+
+108.] Having considered the briefs, the arguments of counsel and the additional
+
+24
+
+materials, the motion to suppress is DENIED.
+
+25
+
+I.
+
+Factual Background
+
+26
+
+On the morning of July 25, 2017, at 7:00 a.m., three officers (FBI Special Agents
+
+27
+
+Daniel Evans and Nathaniel Dingle, and SDPD Detective Susan Righthouse), arrived at
+
+28
+1
+17cr2475-CAB
+
+ Case 3:17-cr-02475-CAB Document 110 Filed 05/15/19 PageID.635 Page 2 of 8
+
+1
+
+Raymond Liddy’s home.1 The officers were wearing tactical vests and had visible
+
+2
+
+holstered firearms. They rang the bell. Liddy was awake and came to the door wearing
+
+3
+
+shorts and a t-shirt. Agent Evans inquired if the defendant was Raymond Liddy. The
+
+4
+
+agent then identified himself and his colleagues and asked if Liddy “had a minute to
+
+5
+
+speak with them.” When Liddy inquired what about, Agent Evans asked if they could
+
+6
+
+speak inside. Liddy allowed the officers to enter his home and informed the officers his
+
+7
+
+wife was asleep upstairs, so Agent Evans said they would “keep it down.” After
+
+8
+
+inquiring if there were any children in the home, Agent Evans informed Liddy they were
+
+9
+
+following up on information regarding computer usage and concerns about emails. Liddy
+
+10
+
+then asked to move the conversation to the “back of the house” and the three officers
+
+11
+
+accompanied Liddy to the kitchen to talk.
+
+12
+
+As they sat in the kitchen, Agent Evans explained that they were investigating an
+
+13
+
+email account that came back to the defendant’s house with an account identifier
+
+14
+
+“cahubby.” Agent Evans indicated they were following up on concerns about
+
+15
+
+questionable photos. Agent Evans and Liddy discussed Liddy’s computer usage, an adult
+
+16
+
+website and photos on the website. The discussion continued about pictures on the site
+
+17
+
+and how Liddy may have received them, whether his chat site conversations involved
+
+18
+
+children, and any other computer accounts he may have.
+
+19
+
+Agent Evans did not directly accuse Liddy of anything but inquired if Liddy may
+
+20
+
+have accidently received or sent pictures involving children. Agent Evans asked if Liddy
+
+21
+
+had saved any pictures of children. He also inquired about the type of computer Liddy
+
+22
+
+owns and whether Liddy ever had chats about children. Agent Evans asked again about
+
+23
+
+whether Liddy had other accounts or screen names, and whether Liddy alone used the
+
+24
+
+“cahubby” screen name.
+
+25
+26
+27
+28
+
+1
+
+The Court finds the facts as set forth from a review of the audio recordings made on July 25, 2017, the
+reports filed with the motions, the defendant’s declaration, and the post-hearing lodgments submitted by
+counsel.
+2
+17cr2475-CAB
+
+ Case 3:17-cr-02475-CAB Document 110 Filed 05/15/19 PageID.636 Page 3 of 8
+
+1
+
+After approximately 25 minutes, Agent Evans went on to explain that certain
+
+2
+
+service providers had reported email exchanges on accounts associated with Liddy and
+
+3
+
+they needed to “get to the bottom of it.” He expressed concern about a pattern of
+
+4
+
+behavior that was troubling and pressed Liddy to explain the nature of his interest
+
+5
+
+regarding child pornography. Agent Evans and Liddy then discussed whether a forensic
+
+6
+
+examination of Liddy’s computer would uncover stored or deleted pictures involving
+
+7
+
+children or requests for such images.
+
+8
+
+No threats were ever issued, no promises were made, no weapons were unholstered
+
+9
+
+or brandished or force even implied. Agent Evans never raised his voice, the tone and
+
+10
+
+tempo of the interrogation was polite, calm, hushed and conversational. Excepting one
+
+11
+
+question from Detective Righthouse about cloud storage, she and Agent Dingle did not
+
+12
+
+participate in the conversation.
+
+13
+
+Approximately 35 minutes after the officers arrived, following the above
+
+14
+
+exchange, Agent Evans explained that he had a warrant to search the entire house and
+
+15
+
+additional agents would arrive shortly to conduct the search. The interrogation
+
+16
+
+essentially ended at this point before the search team arrived. Agent Evans told Liddy he
+
+17
+
+was not under arrest, he was free to leave, although Liddy would not be permitted to
+
+18
+
+change clothes until the house was “cleared.”
+
+19
+
+Agent Evans suggested Liddy wake his wife so she would not be alarmed by the
+
+20
+
+arrival of the search team. Upon learning, however, that Liddy had firearms in the master
+
+21
+
+bedroom, Agent Evans required for the safety of all concerned that Detective Righthouse
+
+22
+
+accompany Liddy into the room and remain with Mrs. Liddy while she dressed. Liddy
+
+23
+
+and Agent Evans returned downstairs and Agent Evans asked Liddy where he would like
+
+24
+
+to sit to stay out of the way. Liddy got his coffee and returned to the kitchen. At
+
+25
+
+approximately 7:47 a.m., as the search team was entering, Agent Evans provided Liddy
+
+26
+
+with a copy of the warrant and again told him he did not have to stay during the search.
+
+27
+
+Liddy elected to stay during the search. Although Liddy was always in the
+
+28
+
+company of an officer while he remained in the house, no further questions were directed
+3
+17cr2475-CAB
+
+ Case 3:17-cr-02475-CAB Document 110 Filed 05/15/19 PageID.637 Page 4 of 8
+
+1
+
+to him regarding his computer usage or habits. Liddy made some unsolicited comments
+
+2
+
+about his computer habits, but Agent Evan’s interrogation had discontinued. Further
+
+3
+
+interactions between the officers and Liddy were primarily related to the conducting of
+
+4
+
+the search of the premises. Subsequent conversations focused on the logistics of securing
+
+5
+
+Liddy’s firearms, confirming if there was any attorney-client privileged information on
+
+6
+
+Liddy’s computer or phone to safeguard those communications, and whether Liddy
+
+7
+
+would voluntarily come to the FBI office to submit to a polygraph concerning whether he
+
+8
+
+had any inappropriate contact with children.2 Liddy was told he did not have to stay but
+
+9
+
+continued to elect to do so and arranged to take a sick day from work. An officer made
+
+10
+
+the electronic communication to Liddy’s office on his behalf rather than give Liddy
+
+11
+
+access to his phone, to preserve the phone for later search.
+
+12
+
+Shortly after 9:00 a.m., Agent Evans informed Liddy that child pornography
+
+13
+
+images had been located on a thumb drive and although it was still not his intention to
+
+14
+
+place Liddy under arrest at that time, he gave Miranda warnings to Liddy, who
+
+15
+
+acknowledged he understood all his rights. Although the agent downplayed the
+
+16
+
+seriousness of the situation, Liddy’s rights were clearly presented. Discussion then
+
+17
+
+continued about Liddy driving himself to the FBI office to participate in a voluntary
+
+18
+
+polygraph. While those arrangements were being finalized, Agent Evans was informed
+
+19
+
+that the U.S. Attorney’s Office had instructed he take Liddy into custody. At
+
+20
+
+approximately 10:15 a.m., Liddy was told he was being arrested and was handcuffed and
+
+21
+
+transported to the FBI office in San Diego.
+
+22
+
+Liddy moves to suppress all the statements he made on July 25, 2017, arguing that
+
+23
+
+from the time the officers entered his home he was subject to a custodial interrogation
+
+24
+
+and he should have been informed of his rights before any questions were asked. Liddy
+
+25
+26
+27
+28
+
+2
+
+Further reflecting the cooperative atmosphere, Liddy also engaged with the officers during the
+execution of the search, in conversation about his new kitten, the nature of his job at the Attorney
+General’s Office, and his military service.
+4
+17cr2475-CAB
+
+ Case 3:17-cr-02475-CAB Document 110 Filed 05/15/19 PageID.638 Page 5 of 8
+
+1
+
+further argues that the Miranda advisements he received after the interrogation were
+
+2
+
+ineffective as Agent Evans engaged in a deliberate “two-step interrogation procedure”
+
+3
+
+intended to elicit inculpatory statements before the defendant was advised of his rights
+
+4
+
+and the subsequent advisal did not correct the situation.
+
+5
+6
+
+The question before the Court is whether Liddy was “in custody” for purposes of
+Miranda at the time he was interviewed by law enforcement agents in his home.
+
+7
+
+II.
+
+8
+
+In Miranda v. Arizona, 384 U.S. 436, 444-45 (1966), the Supreme Court adopted
+
+9
+
+Legal Standard
+
+procedural safeguards to guarantee that suspects are advised of certain rights before a
+
+10
+
+“custodial interrogation.” In “Miranda case law, ‘custody’ is a term of art that specifies
+
+11
+
+circumstances that are thought generally to present a serious danger of coercion.”
+
+12
+
+Howes v. Fields, 565 U.S. 499, 508-09 (2012). “The initial step is to ascertain whether,
+
+13
+
+in light of ‘the objective circumstances of the interrogation’ a ‘reasonable person [would]
+
+14
+
+have felt he or she was not at liberty to terminate the interrogation and leave.’” Id., at
+
+15
+
+509 (citations omitted).
+
+16
+
+In United States v. Craighead, 539 F.3d 1073 (9th Cir. 2008), the court specifically
+
+17
+
+addressed the circumstance of interrogation by law enforcement officers in the suspect’s
+
+18
+
+home and when such questioning becomes custodial in nature and requires Miranda
+
+19
+
+warnings. The court first stated that in-home interrogation is not per se custodial and that
+
+20
+
+in general courts have been much less likely to find an interrogation in the suspect’s
+
+21
+
+home was custodial in nature. Id., at 1083. “The element of compulsion that concerned
+
+22
+
+the Court in Miranda is less likely to be present where the suspect is in familiar
+
+23
+
+surroundings.” Id.
+
+24
+
+The court nevertheless determined that an interrogation in the suspect’s home may
+
+25
+
+be found to be custodial under certain circumstances and considered the extent to which
+
+26
+
+the circumstances of the interrogation turned the otherwise comfortable and familiar
+
+27
+
+surroundings of the home into a “police-dominated atmosphere.” Id. To guide the
+
+28
+
+determination of whether an in-home interrogation was custodial, a “necessarily fact
+5
+17cr2475-CAB
+
+ Case 3:17-cr-02475-CAB Document 110 Filed 05/15/19 PageID.639 Page 6 of 8
+
+1
+
+intensive” inquiry, the court enunciated several factors, that although “not to be
+
+2
+
+interpreted as an exhaustive pronouncement,” are relevant to whether the circumstances
+
+3
+
+of an interrogation created a police-dominated atmosphere. Id. at 1084.
+
+4
+
+The Craighead factors are (1) the number of law enforcement personnel and
+
+5
+
+whether they were armed; (2) whether the suspect was an any point restrained either by
+
+6
+
+physical force or threats; (3) whether the suspect was isolated from others; and (4)
+
+7
+
+whether the suspect was informed that he was free to leave or terminate the interview,
+
+8
+
+and the context in which any such statements were made. Id.
+
+9
+10
+
+III.
+
+Discussion
+
+The totality of the circumstances in this case are distinguishable from those in
+
+11
+
+Craighead and do not support the conclusion that law enforcement had created such a
+
+12
+
+police-dominated atmosphere in Liddy’s home that Liddy was “in custody” at the time of
+
+13
+
+Agent Evan’s interrogation therefore requiring Miranda warnings before the questioning
+
+14
+
+took place.
+
+15
+
+In Craighead, eight law enforcement officers from the FBI, a sheriff’s department
+
+16
+
+and Air Force Special Investigations, accompanied by the defendant’s Air Force superior,
+
+17
+
+entered Craighead’s house on a military base pursuant to a search warrant. Id., at 1078.
+
+18
+
+The officers were armed, and some unholstered their firearms in the defendant’s
+
+19
+
+presence. Id., at 1085. The defendant was escorted into an unfurnished storage room
+
+20
+
+with a single door. The door was closed and the defendant was questioned by an FBI
+
+21
+
+agent while an armed detective stood with his back against the door and six more officers
+
+22
+
+were searching the house. Id,, at 1086, 1089. The Air Force Sergeant who was
+
+23
+
+specifically there to provide “emotional support” for the defendant was excluded from the
+
+24
+
+room where the interrogation took place. Id., at 1087. Although the defendant was told
+
+25
+
+by the FBI agent his statements were voluntary and he could leave, the court found the
+
+26
+
+totality of the circumstances were such that the defendant reasonably could have believed
+
+27
+
+he was not free to leave or decline to be interviewed. Craighead’s home had become a
+
+28
+
+police-dominated atmosphere such that a reasonable person would have felt he was in
+6
+17cr2475-CAB
+
+ Case 3:17-cr-02475-CAB Document 110 Filed 05/15/19 PageID.640 Page 7 of 8
+
+1
+
+custody and was not at liberty to terminate the interrogation and leave. As such the court
+
+2
+
+concluded Miranda warnings should have been administered before he was questioned.
+
+3
+
+The circumstances of this case are quite different. Although a large search team
+
+4
+
+eventually arrived at defendant Liddy’s home that morning, unlike Craighead, Liddy was
+
+5
+
+not initially confronted with a swarm of officers entering his home without his
+
+6
+
+permission and dominating the environment. Liddy answered his door bell to find three
+
+7
+
+officers who asked if he would speak with them. Liddy invited them into his home and
+
+8
+
+he directed the officers to his kitchen. During the 35 minutes that followed, Liddy
+
+9
+
+answered Agent Evans’ questions regarding his computer usage, habits and activities.
+
+10
+
+There was no other police presence and Liddy was not aware that a warrant had issued
+
+11
+
+and a search was imminent.
+
+12
+
+The three officers were armed, however, no weapons were drawn and Liddy was
+
+13
+
+never restrained by physical force or intimidation during the questioning. Liddy was not
+
+14
+
+isolated from others. He requested the officers not disturb his wife and moved the
+
+15
+
+conversation to the kitchen to avoid waking her. Although he was not specifically told he
+
+16
+
+could terminate the interview, he also was never told, nor was it ever implied, that he
+
+17
+
+would be subject to arrest if he asked to continue the interview to another date or
+
+18
+
+terminate it entirely.
+
+19
+
+The setting does not become custodial requiring the administration of Miranda
+
+20
+
+warnings simply because Agent Evans suspected Liddy of criminal activity. Although
+
+21
+
+“any interview of one suspected of a crime by a police officer will have coercive aspects
+
+22
+
+to it, simply by virtue of the fact that the police officer is part of a law enforcement
+
+23
+
+system which may ultimately cause the suspect to be charged with a crime,” that alone is
+
+24
+
+insufficient to render the questioning custodial. Oregon v. Mathiason, 429 U.S. 492, 495
+
+25
+
+(1977). Liddy was never threatened with criminal charges or arrest if he did not
+
+26
+
+cooperate. At the time of the interrogation, his home had not become police-dominated
+
+27
+
+atmosphere such that a reasonable person would have considered himself in custody,
+
+28
+7
+17cr2475-CAB
+
+ Case 3:17-cr-02475-CAB Document 110 Filed 05/15/19 PageID.641 Page 8 of 8
+
+1
+
+unable to terminate the interview or ask the officers to leave. Miranda warnings were not
+
+2
+
+required.
+Defendant focuses on the atmosphere in Liddy’s home during the search following
+
+3
+4
+
+Agent Evans’ interrogation. To be sure, for safety and the preservation of evidence,
+
+5
+
+Liddy was not allowed to move unescorted around his home during the execution of the
+
+6
+
+search. However, the control law enforcement exercised once the search began, is not a
+
+7
+
+factor in the analysis of the atmosphere when the interrogation took place. From 7:00
+
+8
+
+a.m., when Liddy allowed the three officers into his home to the conclusion of the
+
+9
+
+interview at approximately 7:35 a.m., the atmosphere was not one of police dominance
+
+10
+
+and coercion. The record does not support defendant’s assertion that comprehensive
+
+11
+
+questioning of Liddy continued for over two hours. To the contrary, even before the
+
+12
+
+search began, interrogation of Liddy ceased. Discussion between Liddy and officers once
+
+13
+
+the search ensued was confined to the search-related procedures regarding his firearms
+
+14
+
+and attorney-client files, and whether he would voluntary submit to a polygraph at the
+
+15
+
+FBI office,3 as well as small talk about Liddy’s kitten, job and military service.
+
+16
+
+Liddy was not in custody during his interrogation, therefore no Miranda warnings
+
+17
+
+were required. Defendant’s motion to suppress his pre- and post- Miranda statements is
+
+18
+
+DENIED.
+
+19
+
+Dated: May 14, 2019
+
+20
+21
+22
+23
+24
+25
+26
+27
+3
+
+28
+
+The fact the Liddy was arranging to drive himself to the FBI office undercuts his current declaration
+that he felt he was in custody, unable to leave the premises without being subject to arrest.
+8
+17cr2475-CAB
+
+ 

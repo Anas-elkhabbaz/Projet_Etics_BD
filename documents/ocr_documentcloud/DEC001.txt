@@ -1,0 +1,1372 @@
+Case 3:19-cr-00838-GPC Document 37 Filed 12/18/19 PageID.288 Page 1 of 13
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+UNITED STATES DISTRICT COURT
+
+9
+
+SOUTHERN DISTRICT OF CALIFORNIA
+
+10
+11
+
+UNITED STATES OF AMERICA,
+
+12
+13
+14
+15
+16
+
+Case No.: 19-CR-0838-GPC
+
+Plaintiff,
+
+ORDER DENYING MOTION TO
+SUPPRESS STATEMENTS AND
+GRANTING MOTION IN LIMINE
+AS TO PRE-MIRANDA
+STATEMENTS.
+
+v.
+ANTONIO VELASCO-ESPARZA,
+Defendant.
+
+[ECF Nos. 20, 30, 34.]
+
+17
+18
+
+On May 24, 2019, Defendant Antonio Velasco-Esparza filed a motion to suppress
+
+19
+
+post-Miranda statements taken by officers following his arrest at the Otay-Mesa border.
+
+20
+
+ECF No. 20. On May 31, 2019, the Government filed a response. ECF No. 21. The Court
+
+21
+
+conducted an evidentiary hearing on August 16, 2019. ECF Nos. 26, 29. Following the
+
+22
+
+hearing, on September 6, 2019, Mr. Velasco-Esparza filed a supplemental motion to
+
+23
+
+suppress statements made prior to the administration of Miranda warnings. ECF No. 30.
+
+24
+
+On September 20, 2019, the Government filed a response. ECF No. 31. The Court then
+
+25
+
+held an evidentiary hearing on the motions to suppress all of Velasco’s statements on
+
+26
+
+October 4, 2019. ECF Nos. 33, 35. After the hearing, the Government confirmed that it
+
+27
+28
+
+1
+19-CR-0838-GPC
+
+ Case 3:19-cr-00838-GPC Document 37 Filed 12/18/19 PageID.289 Page 2 of 13
+
+1
+
+did not intend to offer Defendant’s post-Miranda statements in their case-in-chief, and
+
+2
+
+the Court found that all of Defendant’s statements taken by the officers were voluntary.
+Because the prosecution has agreed not to offer any of Defendants’ statement made
+
+3
+4
+
+during, after or while, he received Miranda warnings, the remaining question is whether
+
+5
+
+Defendant’s post-arrest, pre-Miranda statements are admissible under the booking
+
+6
+
+questions exception. See Pennsylvania v. Muniz, 496 U.S. 582 (1990). Most recently, on
+
+7
+
+November 8, 2019, the Government filed a motion in limine requesting, among other
+
+8
+
+things, permission to admit Defendant’s pre-Miranda statements at trial. ECF No. 34 at 5.
+
+9
+
+For the following reasons, the Court finds that these statements are admissible, and
+
+10
+
+DENIES Defendant’s motions to suppress and GRANTS the Government’s motion in
+
+11
+
+limine.
+
+12
+
+I.
+
+Factual and Procedural Background
+
+13
+
+a. The Arrest
+
+14
+
+On February 11, 2019, at approximately 10:55 a.m., Antonio Velasco-Esparza
+
+15
+
+(“Defendant”) applied for admission to the United States at the Otay Mesa Port of Entry.
+
+16
+
+Defendant drove alone to the Otay Mesa Port of Entry. While approaching the primary
+
+17
+
+inspection area, a Customs and Border Protection (“CBP”) dog alerted to Defendant’s
+
+18
+
+vehicle. A CBP Officer inspected the vehicle. During the inspection, another officer
+
+19
+
+asked Defendant if the vehicle was his and if everything in it belonged to him. Defendant
+
+20
+
+responded yes to both questions. He then told the officer that he was going home to San
+
+21
+
+Diego. Defendant was arrested, and the vehicle was taken to secondary inspection.
+
+22
+
+In the secondary inspection area, Defendant’s vehicle was scanned using the Z-
+
+23
+
+Portal machine. After the vehicle was scanned, a third CBP officer identified “anomalies”
+
+24
+
+in the vehicle’s gas tank. A fourth CBP officer physically inspected the vehicle as a CBP
+
+25
+
+contractor removed the gas tank. The gas tank was found to contain 25.74 kilograms of
+
+26
+
+methamphetamine.
+
+27
+28
+
+2
+19-CR-0838-GPC
+
+ Case 3:19-cr-00838-GPC Document 37 Filed 12/18/19 PageID.290 Page 3 of 13
+
+1
+
+///
+
+2
+
+b. The Interrogation Pre-Miranda
+
+3
+
+At approximately 3:00 p.m., Defendant was taken to a room at the Otay Mesa Port
+
+4
+
+of Entry which had been converted from an old cell and contained a table, a bench, and a
+
+5
+
+couple of chairs. (ECF No. 29, August 16, 2019 Hearing (“Aug. Hrg.”) at 10.) Homeland
+
+6
+
+Security Investigations Special Agents Mendoza and Salcedo joined Defendant there and
+
+7
+
+explained that they were going to “go over some biographical information.” (ECF No.
+
+8
+
+20-1, Ex. A, Interrogation Transcript (“Int. Tr.”) at 2.) Agents Mendoza and Salcedo
+
+9
+
+asked Defendant his name, date of birth, social security number, and address. (ECF No.
+
+10
+
+20-1, Int. Tr. at 1–2.) Among Defendant’s responses, Defendant stated he had “barely
+
+11
+
+moved out . . . to San Diego” and “honestly live[d] in San Jose.” (ECF No. 20-1, Int. Tr.
+
+12
+
+at 2.)
+
+13
+
+Defendant then informed the Agents that he “wan[ted] to talk to [his] lawyer.”
+
+14
+
+(ECF No. 20-1, Int. Tr. at 3.) Agent Mendoza ignored the request, repeating his question,
+
+15
+
+“Okay. Um, well what’s your address in San Jose?” (ECF No. 20-1, Int. Tr. at 3.)
+
+16
+
+Mendoza continued to ask Defendant various questions from “ICE Form 73, a personal
+
+17
+
+history report,” (ECF No. 29, Aug. Hrg. at 7), including his place of birth, e-mail, weight,
+
+18
+
+height, eye color, scars/tattoos, and employment. (ECF No. 20-1, Int. Tr. at 2–5.)
+
+19
+
+Agent Mendoza thereafter turned to inquire about Defendant’s family. Mendoza
+
+20
+
+asked for Defendant’s parents’ names, phone numbers, and addresses. (ECF No. 20-1,
+
+21
+
+Int. Tr. at 5–7.) Mendoza clarified to Defendant that the questions were “just for
+
+22
+
+biographical purposes.” (ECF No. 20-1, Int. Tr. at 5.) As Defendant responded to
+
+23
+
+Mendoza’s questions, he provided some incriminating answers not directly responsive to
+
+24
+
+Mendoza’s questioning. In response to a question about his father’s address, Defendant
+
+25
+
+offered that his parents “have nothing to do, like, with this stuff, Bro, trust me,” and that
+
+26
+
+he was “the only stupid here (sic).” (ECF No. 20-1, Int. Tr. at 6.)
+
+27
+28
+
+3
+19-CR-0838-GPC
+
+ Case 3:19-cr-00838-GPC Document 37 Filed 12/18/19 PageID.291 Page 4 of 13
+
+1
+
+Mendoza next asked for Defendant’s marital status and, upon learning he had a
+
+2
+
+girlfriend and two children, inquired of Defendant’s girlfriend’s name, date of birth,
+
+3
+
+phone number, and address as well as the children’s names, ages, and primary residence
+
+4
+
+(mother or father). (ECF No. 20-1, Int. Tr. at 5–7.) Defendant expressed some hesitation,
+
+5
+
+asking do “[y]ou need those names?” (ECF No. 20-1, Int. Tr. at 7.) Defendant repeated,
+
+6
+
+“You need, like the names, like, is there something, like, background or something?”, to
+
+7
+
+which Agent Mendoza responded, “it’s not something bad, it’s just, I’m just trying to get
+
+8
+
+the information, background information on you.” (ECF No. 20-1, Int. Tr. at 8.)
+
+9
+
+Otherwise, Defendant answered Mendoza’s questions.
+
+10
+
+At this point, Agent Mendoza asked Defendant about any alcohol and drug use.
+
+11
+
+Specifically, Agent Mendoza asked Defendant how often and recently he drank alcohol,
+
+12
+
+used drugs, or smoked. (ECF No. 20-1, Int. Tr. at 9–10.) Mendoza also asked Defendant
+
+13
+
+how much money he had on him, as well as whether he had any medical conditions or
+
+14
+
+took prescription medicine. (ECF No. 20-1, Int. Tr. at 10.)
+
+15
+
+c. Questioning During and After Miranda
+
+16
+
+Once the agents completed the background questioning, Agent Mendoza read
+
+17
+
+Defendant his rights pursuant to Miranda. (ECF No. 20-1, Int. Tr. at 11.) Defendant
+
+18
+
+orally acknowledged that he understood each right, (ECF No. 20-1, Int. Tr. at 11), and
+
+19
+
+signed a Miranda waiver form. (ECF No. 20-1, Ex. B.) Agent Mendoza subsequently
+
+20
+
+asked Defendant several times if he waived his Miranda rights would he wish to speak
+
+21
+
+with the Agents until Defendant eventually agreed. (ECF No. 20-1, Int. Tr. at 12–14).
+
+22
+
+Defendant offered several incriminating remarks that were directly responsive to
+
+23
+
+Mendoza’s questioning.
+
+24
+
+After waiving his Miranda rights, Defendant gave a statement indicating that he
+
+25
+
+had agreed to cross a car into California in exchange for $6,000. Defendant maintained
+
+26
+
+that he did not know what was concealed within the vehicle. The Government is not
+
+27
+28
+
+4
+19-CR-0838-GPC
+
+ Case 3:19-cr-00838-GPC Document 37 Filed 12/18/19 PageID.292 Page 5 of 13
+
+1
+
+seeking to introduce any of Defendants statements made during or after the
+
+2
+
+administration of Miranda warnings.
+
+3
+
+II.
+
+Legal Standard
+
+4
+
+a. The Booking Exception
+
+5
+
+In the seminal case of Miranda, the Supreme Court created a prophylactic
+
+6
+
+protection to the Fifth Amendment: “the prosecution may not use statements, whether
+
+7
+
+exculpatory or inculpatory, stemming from custodial interrogation of the defendant
+
+8
+
+unless it demonstrates the use of procedural safeguards effective to secure the privilege
+
+9
+
+against self-incrimination.” Miranda v. Arizona, 384 U.S. 436, 444 (1966).
+
+10
+
+Thirty-six years later, the Supreme Court exempted from Miranda’s protection
+
+11
+
+responses to questions intended “to secure the biographical data necessary to complete
+
+12
+
+booking or pretrial services.” Pennsylvania v. Muniz, 496 U.S. 582, 601 (1990) (plurality
+
+13
+
+opinion) (quotation marks omitted) (concluding that the answers to questions regarding
+
+14
+
+the defendant’s name, address, height, weight, eye color, date of birth, and current age
+
+15
+
+were admissible in the absence of Miranda warnings). Because such questions “rarely
+
+16
+
+elicit an incriminating response, routine gathering of biographical data does not constitute
+
+17
+
+interrogation sufficient to trigger constitutional protections,” United States v. Gonzalez–
+
+18
+
+Sandoval, 894 F.2d 1043, 1046 (9th Cir. 1990), even if asked after a defendant has
+
+19
+
+invoked the right to counsel. See United States v. Zapien, 861 F.3d 971, 975 (9th Cir.
+
+20
+
+2017) (per curiam).
+
+21
+
+The exception does not apply, however, to questioning “conducted for an
+
+22
+
+investigatory purpose and not for the booking process,” United States v. Poole, 794 F.2d
+
+23
+
+462, 466 (9th Cir. 1986) (as amended), or questioning that is “reasonably likely to elicit
+
+24
+
+an incriminating response from the suspect,” United States v. Booth, 669 F.2d 1231, 1237
+
+25
+
+(9th Cir. 1981) (quotation omitted). To account for the “potential for abuse by law
+
+26
+
+enforcement officers who might, under the guise of seeking ‘objective’ or ‘neutral’
+
+27
+28
+
+5
+19-CR-0838-GPC
+
+ Case 3:19-cr-00838-GPC Document 37 Filed 12/18/19 PageID.293 Page 6 of 13
+
+1
+
+information, deliberately elicit an incriminating statement from a suspect,” id., the Court
+
+2
+
+has adopted an “objective” test. Zapien, 861 F.3d at 975 (citing United States v.
+
+3
+
+Washington, 462 F.3d 1124, 1132 (9th Cir. 2006)). Under this test, “context” is key.
+
+4
+
+Zapien, 861 F.3d at 975 (citing United States v. Pacheco-Lopez, 531 F.3d 420, 424–25
+
+5
+
+(6th Cir. 2008)). After all, “[e]ven a relatively innocuous question may, in light of the
+
+6
+
+unusual susceptibility of a particular suspect, be reasonably likely to elicit an
+
+7
+
+incriminating response.” Booth, 669 F.2d at 1238.
+
+8
+
+In particular, the “relationship of the question asked to the crime suspected is
+
+9
+
+highly relevant.” United States v. Mata-Abundiz, 717 F.2d 1277, 1280 (9th Cir. 1983).
+
+10
+
+For example, ‘[w]hile there is usually nothing objectionable about asking a detainee his
+
+11
+
+place of birth, the same question assumes a completely different character when an INS
+
+12
+
+agent asks it of a person he suspects is an illegal alien.” United States v. Henley, 984 F.2d
+
+13
+
+1040, 1042 (9th Cir. 1993). Likewise, “when a defendant [is] charged with murder,” their
+
+14
+
+“unadmonished responses to questions about [a] gang affiliation” are protected by
+
+15
+
+Miranda. United States v. Williams, 842 F.3d 1143, 1148 (9th Cir. 2016).
+
+16
+
+For a question to fall within the ambit of Miranda, the likeliness to produce an
+
+17
+
+incriminating response should be objectively apparent when the question is asked. United
+
+18
+
+States v. Salgado, 292 F.3d 1169, 1174 (9th Cir. 2002) (considering, as one factor, that
+
+19
+
+defendant’s “response became incriminating only after the passage of a substantial period
+
+20
+
+of time”). Also, the “subjective intent of the agent is relevant but not conclusive.” United
+
+21
+
+States v. Mata-Abundiz, 717 F.2d 1277, 1280 (9th Cir. 1983). And, that an officer already
+
+22
+
+knows the answer to the question asked does not necessarily show that officer seeks to
+
+23
+
+elicit an incriminating response. United States v. Washington, 462 F.3d 1124, 1133 n.1
+
+24
+
+(9th Cir. 2006) (“A desire to confirm the information for booking purposes does not
+
+25
+
+mean that the question constitutes interrogation.”)
+
+26
+27
+28
+
+6
+19-CR-0838-GPC
+
+ Case 3:19-cr-00838-GPC Document 37 Filed 12/18/19 PageID.294 Page 7 of 13
+
+1 III.
+
+Analysis
+
+2
+
+a. The Pre-Miranda Questioning Falls Within the Booking Exception.
+
+3
+
+Defendant asks that the Court suppress all statements made during the pre-Miranda
+
+4
+
+questioning on the basis that Agent Mendoza’s questions “were far beyond the limited
+
+5
+
+scope of biographical questions approved by the Supreme Court.” (ECF No. 20 at 3.) The
+
+6
+
+Court finds, to the contrary, that the questioning falls within the ambit of the booking
+
+7
+
+exception for the following reasons.
+
+8
+9
+
+As a threshold matter, the Court notes that the Government’s reliance on ICE Form
+73 is misplaced. (Cf. ECF No. 31 at 4–5.) Every court has a duty to examine each case
+
+10
+
+under the booking questions exception in light of the specific circumstances and
+
+11
+
+“context” attendant to it. Pennsylvania, 496 U.S. at 601–02; Zapien, 861 F.3d at 976
+
+12
+
+(considering both “the questions themselves and the context in which they were asked “).
+
+13
+
+Thus, an agent’s use of a form, even if standard and widely adopted, affords no
+
+14
+
+talismanic protection to the questions they ask. See United States v. Mateo, 392 F. Supp.
+
+15
+
+3d 454, 466 (D. Vt. 2019) (rejecting questions from a U.S. Marshall form regarding
+
+16
+
+“Defendant's siblings’ names, addresses, dates of birth, and phone numbers” and
+
+17
+
+“whether Defendant used drugs and drank alcohol” as likely “to elicit incriminating
+
+18
+
+responses and . . . not needed for any administrative purpose”); see also Rosa v. McCray,
+
+19
+
+396 F.3d 210, 222 (2d Cir. 2005) (asking whether certain questions were “narrowly
+
+20
+
+crafted by the officer to obtain information necessary to complete the booking form”).
+
+21
+
+This is evident even here, with respect to ICE Form 73, as the Government
+
+22
+
+concedes that the Agent’s drug and alcohol questions are “somewhat closely related to
+
+23
+
+the offense charged” and has declined to try to offer them at trial even though they take
+
+24
+25
+26
+27
+28
+
+7
+19-CR-0838-GPC
+
+ Case 3:19-cr-00838-GPC Document 37 Filed 12/18/19 PageID.295 Page 8 of 13
+
+1
+
+place during the Agent’s booking questions.1 (ECF No. 31 at 5 n.2.) Also, as was true in
+
+2
+
+Mateo, ICE Form 73 also contains a problematic section entitled “Criminal / Other
+
+3
+
+Associates.” (ECF No. 21-1, Ex. 2 at 2.); Mateo, 392 F. Supp. 3d at 466.
+
+4
+
+Turning to the instant issue, the Court nonetheless finds that the questions asked by
+
+5
+
+Agent Mendoza – namely, “What’s your address?” and “What part of Mexico [does your
+
+6
+
+father live in]? Or do you know the address?”, (ECF No. 20-1, Ex. A at 2, 6) – are not
+
+7
+
+“reasonably likely to elicit an incriminating response” in this specific case. Booth, 669
+
+8
+
+F.2d at 1237. There is no apparent “relationship” between where Defendant lives, or his
+
+9
+
+father’s specific address, and the charge that Defendant imported methamphetamine.
+
+10
+
+Mata-Abundiz, 717 F.2d at 1280. Neither location would increase Defendant’s
+
+11
+
+punishment were he to be found guilty, see Williams, 842 F.3d at 1148, nor clearly help
+
+12
+
+the government in proving its burden a trial. See Henley, 984 F.2d at 1042. Moreover,
+
+13
+
+that Defendant’s non-sequitur responses are incriminating does not suggest otherwise.
+
+14
+
+Mitchell v. Lackner, No. 13-1807-DMG, 2014 WL 5581371, at *6 (C.D. Cal. Oct. 31,
+
+15
+
+2014). And, the Agent’s testimony that such questions had never, in his experience,
+
+16
+
+elicited incriminating responses tends to support a finding that they are permissible as
+
+17
+
+booking questions in this case. (ECF No. 29, Aug. Hrg. at 9, 15.)
+In addition, though Defendant is right that “some of the information collected from
+
+18
+19
+
+the personal history report goes into the” Report for Investigation (ROI), the Court finds
+
+20
+
+that this does not violate the booking exception here. (ECF No. 30 at 2.) Certainly,
+
+21
+
+questioning “conducted for an investigatory purpose and not for the booking process” is
+
+22
+
+not admissible under Miranda. Poole, 794 F.2d at 466. However, Agent Mendoza’s
+
+23
+
+testimony as to what goes in the ROI does not explicitly cover the statements which
+
+24
+25
+26
+27
+28
+
+The Government asserts that Agent Mendoza asked questions related to Defendant’s drug and alcohol
+use “to identify whether Defendant has [a] chemical dependency issue that could cause him to be
+rejected from the Metropolitan Correctional Center.” (ECF No. 31 at 5 n.2.)
+1
+
+8
+19-CR-0838-GPC
+
+ Case 3:19-cr-00838-GPC Document 37 Filed 12/18/19 PageID.296 Page 9 of 13
+
+1
+
+Defendant now challenges. (See ECF No. 29, Aug. Hrg. at 52, 55 (referring only to
+
+2
+
+Defendant’s “[c]ell phone number, e-mail, passport information.”) Also, even assuming
+
+3
+
+Defendant’s responses are included in the ROI, those statements occurred in response to
+
+4
+
+questions that had an objective booking purpose supported by the factual record. First,
+
+5
+
+the Agent asked for where Defendant lived because that information is necessary to
+
+6
+
+“pretrial services.” Pennsylvania, 496 U.S. at 601. Second, as Agent Mendoza testified,
+
+7
+
+the Agents asked about Defendant’s parents to obtain their “emergency contact
+
+8
+
+information.”2 (ECF No. 29, Aug. Hrg. at 15.) The Government persuasively argues that,
+
+9
+
+given Defendant’s status as a citizen, and the cross border lives of many San Diego
+
+10
+
+residents, the fact that Defendant’s father resides in Mexico does not necessarily “negate
+
+11
+
+his ability to serve as an emergency contact.” (Transcript of Oct. Hrg. at 15.)
+
+12
+
+The Court also finds that there is nothing in the record to suggest Defendant was
+
+13
+
+especially susceptible to the Agents’ questioning. Defendant did not appear “sick or ill,”
+
+14
+
+is not a minor, was not “under the influence of narcotics” or “alcohol,” and showed no
+
+15
+
+signs of “low intellectual functioning.” (ECF No. 29, Aug. Hrg. at 36–37.) At most,
+
+16
+
+Defendant asserts that he was detained for four hours before the interrogation, and that he
+
+17
+
+asked for an attorney prior to incriminating himself. (ECF No. 30 at 4–5.) This, however,
+
+18
+
+does make the Defendant especially susceptible. Zapien, 861 F.3d at 976.
+The Court finds that Defendant’s additional contentions do not merit an alternate
+
+19
+20
+
+result. With respect to Agent Mendoza’s conduct, for example, Defendant argues that the
+
+21
+
+Agent’s decision to ignore Defendant’s invocation and then offer to speak to the
+
+22
+
+prosecutor on his behalf “make clear that he [was] seeking information that is beyond
+
+23
+24
+Notably, Agent Mendoza asked for multiple people’s contact information – Defendant’s father,
+mother, and girlfriend. It is not clear why, if Defendant provided enough information to contact the first
+named person, Agent Mendoza would need to ask for a second or third emergency contact. This is a
+moot point here as Mendoza first asked for Defendant’s father’s contact information, and in response
+Defendant made the incriminating statement.
+2
+
+25
+26
+27
+28
+
+9
+19-CR-0838-GPC
+
+ Case 3:19-cr-00838-GPC Document 37 Filed 12/18/19 PageID.297 Page 10 of 13
+
+1
+
+biographical.” (ECF No. 30 at 3.) However, that speculation is belied by Agent
+
+2
+
+Mendoza’s conduct. Mendoza had multiple opportunities to probe Defendants’
+
+3
+
+unsolicited, incriminating statements and chose not to do so. Similarly, Mendoza testified
+
+4
+
+that he does, in fact, “tell the U.S. Attorney” when he thinks “defendants give truthful
+
+5
+
+statements,” and knows that he cannot “make any promises.” (ECF No. 31, Aug. Hrg. at
+
+6
+
+31.) The Court is persuaded that Agent Mendoza’s offer, while it may wear on the
+
+7
+
+Defendant, does not evince an intent to “elicit an incriminating statement” “under the
+
+8
+
+guise of seeking ‘objective’ or ‘neutral’ information.” Booth, 669 F.2d at 1237. Also,
+
+9
+
+even if Agent Mendoza learned some information about Defendant from the CBP officers
+
+10
+
+at the primary inspection, Ninth Circuit precedent states that his decision to question
+
+11
+
+Defendant about that information does not trigger Miranda. Washington, 462 F.3d at
+
+12
+
+1133 n.1 (“A desire to confirm the information for booking purposes does not mean that
+
+13
+
+the question constitutes interrogation.”); (cf. ECF No. 30 at 4.)
+
+14
+
+Defendant also endeavors to distinguish the Government’s most salient precedent,
+
+15
+
+Zapien, to show that it is not dispositive here. (ECF No. 30 at 3–4.) Defendant notes that
+
+16
+
+Mr. Zapien received Miranda warnings and chose to re-initiate conversation with the
+
+17
+
+agents before making an incriminating statement. Zapien, 861 F.3d at 973. In contrast,
+
+18
+
+here, Defendant’s statements were made prior to any Miranda warnings, and directly in
+
+19
+
+response to the alleged booking questions. Id. While this is true, it does not change the
+
+20
+
+fact that, on the whole, Agent Mendoza’s questions were not objectively likely to elicit an
+
+21
+
+incriminating response in this scenario. And, of course, the Government is correct that
+
+22
+
+Zapien shows booking questions may succeed an invocation. (ECF No. 31 at 6); Zapien,
+
+23
+
+861 F.3d at 976; United States v. Velarde-Lopez, 54 F. App’x 265, 267 (9th Cir. 2002).
+
+24
+
+Thus, the Court finds that Agent Mendoza’s questioning during the first 9 minutes
+
+25
+
+of the interrogation, (ECF No. 20-1, Ex. A, 1–9), falls within the booking questions
+
+26
+
+exception to Miranda and Defendant’s responses are admissible.
+
+27
+28
+
+10
+19-CR-0838-GPC
+
+ Case 3:19-cr-00838-GPC Document 37 Filed 12/18/19 PageID.298 Page 11 of 13
+
+1
+
+b. The Defendant’s Statements Were Voluntary.
+
+2
+
+While the Court provided an oral ruling on October 4, 2019 that the Defendant’s
+
+3
+
+statements to interviewing officers were voluntary, the Court herein supplements its
+
+4
+
+earlier decision with the following discussion and analysis.
+
+5
+
+Defendant argues that the Agents’ conduct and the circumstances in totality
+
+6
+
+functioned to overbear Defendant’s will. (ECF No. 20 at 5.) Defendant points to the facts
+
+7
+
+that: there were two officers; Defendant was under arrest; Defendant lacked counsel;
+
+8
+
+Defendant’s invocation was ignored; and the Agent “represent[ed] that he could
+
+9
+
+favorably influence the outcome of the case by writing to the judge and speaking to the
+
+10
+11
+
+prosecutor” if Defendant told the “truth.” (ECF No. 20 at 5.)
+In response, the Government asserts the contrary: “[a]ll of the evidence supports a
+
+12
+
+finding a voluntariness.” (ECF No. 31 at 8.) The Government posits that Defendant did
+
+13
+
+not appear sick, was not threatened, did not appear under the influence of narcotics or
+
+14
+
+alcohol, did not appear low functioning, did not ask to stop the interview or complain
+
+15
+
+about the interview’s conditions, and was not handcuffed. (ECF No. 31 at 8–9; ECF No.
+
+16
+
+29, Aug. Hrg. at 12, 36, 37.) The Government also notes that the Agents did not raise
+
+17
+
+their voices during the interview, were not armed, and wore plain clothes. (ECF No. 31 at
+
+18
+
+9; ECF No. 29, Aug. Hrg. at 12, 37.) The Government further asserts that neither agent
+
+19
+
+pressured Defendant, both agents were calm, the interview lasted approximately 35
+
+20
+
+minutes in total, and Defendant both orally, and by completing the waiver form,
+
+21
+
+knowingly waived Miranda. (ECF No. 21 at 10, 12–13; ECF No. 20-1, Ex. B.)
+
+22
+
+“A confession is involuntary if coerced either by physical intimidation or
+
+23
+
+psychological pressure.” United States v. Haswood, 350 F.3d 1024, 1027 (9th Cir. 2003).
+
+24
+
+The Court examines this by asking “whether the defendant’s will was overborne at the
+
+25
+
+time he confessed.” United States v. Crawford, 372 F.3d 1048, 1060 (9th Cir. 2004) (en
+
+26
+27
+28
+
+11
+19-CR-0838-GPC
+
+ Case 3:19-cr-00838-GPC Document 37 Filed 12/18/19 PageID.299 Page 12 of 13
+
+1
+
+banc). The government bears the burden of proving that a confession is voluntary by a
+
+2
+
+preponderance of the evidence. Colorado v. Connelly, 479 U.S. 157, 168 (1986).
+
+3
+
+“Voluntariness depends on such factors as the surrounding circumstances and the
+
+4
+
+combined effect of the entire course of the officers’ conduct upon the defendant.” Henry
+
+5
+
+v. Kernan, 197 F.3d 1021, 1026 (9th Cir. 1999).
+Here, the Court cannot say that Defendant’s statements were involuntary. The
+
+6
+7
+
+Agents “advised [Defendant] of his rights both verbally and in writing,” United States v.
+
+8
+
+Lacey, 225 F. App’x 478, 480 (9th Cir. 2007), “and were polite and respectful.” United
+
+9
+
+States v. Barboza, 399 F. App’x 312, 313 (9th Cir. 2010). Agent Mendoza’s offer to help
+
+10
+
+the Defendant also “does not render a subsequent statement involuntary,” United States v.
+
+11
+
+Leon Guerrero, 847 F.2d 1363, 1366 (9th Cir. 1988) (citations omitted), nor did his
+
+12
+
+references to Defendant’s family rise to the level of a Tingle violation. See United States
+
+13
+
+v. Tingle, 658 F.2d 1332, 1334 (9th Cir. 1981) (finding confession involuntary where
+
+14
+
+“[i]n an effort to obtain a confession, [the officer] told [the defendant] either that she
+
+15
+
+would not see [her two-year-old] child for a while if she went to prison”).
+
+16
+
+In sum, while Defendant is correct that two officers wearing visible badges
+
+17
+
+interrogated him, Defendant’s condition is indistinguishable from most people taken to
+
+18
+
+secondary inspection at the Port of Entry. (ECF No. 29, Aug. Hrg. at 42.) Consequently,
+
+19
+
+because Defendant’s declaration was stricken, (ECF No. 20-1, Ex. C; ECF No. 29, Aug.
+
+20
+
+Hrg. at 59), and Defendant introduced no other witnesses or exhibits, there is no evidence
+
+21
+
+to contradict the prosecution’s assertion of voluntariness except the fact that the Agents
+
+22
+
+engaged in the booking questions after Defendant’s invocation. On these facts, the Court
+
+23
+
+finds that the prosecution has proven Defendants’ statements were voluntary.
+
+24 IV.
+
+Defendant’s Post-Miranda Statements
+
+25
+
+Finally, Defendant’s statements following the booking questions are not admissible
+
+26
+27
+28
+
+in the Government’s case-in-chief. If “a suspect requests counsel at any time during the
+12
+19-CR-0838-GPC
+
+ Case 3:19-cr-00838-GPC Document 37 Filed 12/18/19 PageID.300 Page 13 of 13
+
+1
+
+interview, he is not subject to further questioning until a lawyer has been made available
+
+2
+
+or the suspect himself reinitiates conversation.” Davis v. United States, 512 U.S. 452,
+
+3
+
+456–57 (1994); see Edwards v. Arizona, 451 U.S. 477, 485 (1981). And, a Defendant
+
+4
+
+cannot re-initiate the conversation if the questioning never stops. See United States v.
+
+5
+
+Rosenschein, 369 F. Supp. 3d 1147, 1158 (D.N.M. 2019). The Government has stated
+
+6
+
+that it does not intend to offer these statements in it case-in-chief. As such, the motion to
+
+7
+
+suppress these statements is DENIED as MOOT.
+
+8
+9
+
+V.
+
+Conclusion
+Considering the foregoing reasons, the Court finds that Defendant’s statements
+
+10
+
+uttered during the first nine minutes of his post-arrest interrogation are admissible under
+
+11
+
+the booking questions exception. The Court also finds that Defendant’s statements made
+
+12
+
+after the Agents afforded him Miranda warnings are voluntary.
+
+13
+
+Defendant’s Motion to Suppress Post-Miranda Statements in the Government’s
+
+14
+
+case-in-chief is DENIED as MOOT, Defendant’s Motion to Suppress Pre-Miranda
+
+15
+
+Statements is DENIED, and the Government’s motion in limine to admit Pre-Miranda
+
+16
+
+Statements is GRANTED.
+
+17
+18
+
+IT IS SO ORDERED.
+Dated: December 18, 2019
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+13
+19-CR-0838-GPC
+
+ 
