@@ -3,7 +3,8 @@
 
 BEGIN
     FOR t IN (SELECT table_name FROM all_tables WHERE owner = 'ETICS' AND table_name IN
-              ('TOXICITE_DOCUMENTS', 'MODERATION_REPLIQUES', 'PROBLEMES_QUALITE', 'DECISIONS',
+              ('DECISION_FINALE', 'TACTIQUES_LLM', 'ROLES_LLM', 'FICHES_LLM',
+               'TOXICITE_DOCUMENTS', 'MODERATION_REPLIQUES', 'PROBLEMES_QUALITE', 'DECISIONS',
                'REPLIQUES', 'LOCUTEURS', 'DOCUMENTS')) LOOP
         EXECUTE IMMEDIATE 'DROP TABLE etics.' || t.table_name || ' CASCADE CONSTRAINTS PURGE';
     END LOOP;
@@ -127,4 +128,57 @@ CREATE TABLE etics.toxicite_documents (
     replique_la_plus_toxique           VARCHAR2(20) CONSTRAINT fk_tox_rep REFERENCES etics.repliques (replique_id),
     modele                             VARCHAR2(40),
     seuils                             VARCHAR2(100)
+);
+
+-- Fiche remplie par le LLM pour chaque interrogatoire (05_llm_fiches.py)
+CREATE TABLE etics.fiches_llm (
+    doc_id               VARCHAR2(10)  CONSTRAINT pk_fiches PRIMARY KEY
+                                       CONSTRAINT fk_fiche_doc REFERENCES etics.documents (doc_id),
+    personne_interrogee  VARCHAR2(200),
+    statut_personne      VARCHAR2(20),
+    agence               VARCHAR2(200),
+    date_interrogatoire  VARCHAR2(20),
+    infraction           VARCHAR2(300),
+    droits_miranda_lus   VARCHAR2(10),
+    avocat_demande       VARCHAR2(10),
+    avocat_present       VARCHAR2(10),
+    resume               VARCHAR2(2000),
+    modele               VARCHAR2(40)
+);
+
+-- Role de chaque locuteur : regles (etape 02) compare au LLM (etape 05)
+CREATE TABLE etics.roles_llm (
+    doc_id       VARCHAR2(10)  NOT NULL,
+    locuteur     VARCHAR2(100) NOT NULL,
+    role_regles  VARCHAR2(20),
+    role_llm     VARCHAR2(20)  CONSTRAINT ck_role_llm CHECK (role_llm IN ('enqueteur', 'interroge', 'avocat', 'autre')),
+    CONSTRAINT pk_roles_llm PRIMARY KEY (doc_id, locuteur),
+    CONSTRAINT fk_roles_loc FOREIGN KEY (doc_id, locuteur) REFERENCES etics.locuteurs (doc_id, locuteur)
+);
+
+-- Tactique non ethique reperee par le LLM dans une replique (06_llm_tactiques_decision.py)
+CREATE TABLE etics.tactiques_llm (
+    tactique_id    NUMBER GENERATED ALWAYS AS IDENTITY CONSTRAINT pk_tactiques PRIMARY KEY,
+    replique_id    VARCHAR2(20)  NOT NULL CONSTRAINT fk_tac_rep REFERENCES etics.repliques (replique_id),
+    doc_id         VARCHAR2(10)  NOT NULL CONSTRAINT fk_tac_doc REFERENCES etics.documents (doc_id),
+    categorie      VARCHAR2(30)  CONSTRAINT ck_tac_cat CHECK (categorie IN ('menace', 'fausse_promesse',
+                   'mensonge_preuves', 'minimisation', 'pression_psychologique', 'humiliation_insulte',
+                   'non_respect_droits', 'discrimination')),
+    gravite        NUMBER(1)     CONSTRAINT ck_tac_grav CHECK (gravite BETWEEN 1 AND 3),
+    justification  VARCHAR2(1000),
+    citation       VARCHAR2(1000),
+    modele         VARCHAR2(40)
+);
+
+-- Decision finale par interrogatoire : moderation (etape 03) + tactiques LLM (etape 06)
+CREATE TABLE etics.decision_finale (
+    doc_id               VARCHAR2(10)  CONSTRAINT pk_decision_finale PRIMARY KEY
+                                       CONSTRAINT fk_dfin_doc REFERENCES etics.documents (doc_id),
+    verdict_final        VARCHAR2(10)  CONSTRAINT ck_dfin_verdict CHECK (verdict_final IN ('bon', 'mauvais', 'toxique')),
+    verdict_moderation   VARCHAR2(10),
+    nb_tactiques         NUMBER(6),
+    gravite_max          NUMBER(1),
+    nb_tactiques_graves  NUMBER(6),
+    tactiques_reperees   VARCHAR2(1000),
+    modele_llm           VARCHAR2(40)
 );

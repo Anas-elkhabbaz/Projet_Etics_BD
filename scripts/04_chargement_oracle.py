@@ -1,7 +1,7 @@
 """
 Projet ETICS (P02, Sujet 3) - Etape 4 : chargement de la BD structuree dans Oracle (schema ETICS).
 
-Entree : les CSV de bd/ (02_extraction_bd.py, et 03_moderation_toxicite.py s'il a tourne)
+Entree : les CSV de bd/ (etape 02, puis 03, 05 et 06 quand elles ont tourne)
 Sortie : oracle/02_donnees.sql (INSERT generes) + tables remplies dans Oracle, PDB FREEPDB1, schema ETICS
 
 Le script execute avec SQL*Plus, en connexion locale "/ as sysdba" (authentification Windows) :
@@ -31,7 +31,8 @@ PDB = "FREEPDB1"
 
 # Ordre parent -> enfant, impose par les cles etrangeres
 TABLES = ["documents", "locuteurs", "repliques", "decisions", "problemes_qualite",
-          "moderation_repliques", "toxicite_documents"]
+          "moderation_repliques", "toxicite_documents", "fiches_llm", "roles_llm", "tactiques_llm",
+          "decision_finale"]
 DATE_COLUMNS = {"date_collecte"}
 CLOB_CHUNK = 500      # caracteres par morceau de CLOB (une ligne SQL*Plus reste courte)
 COMMIT_EVERY = 1000

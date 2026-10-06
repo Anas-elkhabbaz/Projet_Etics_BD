@@ -16,7 +16,10 @@ Projet BD Etics/
 │   ├── 01_collecte_documents.py   télécharge les PDF
 │   ├── 02_extraction_bd.py        PDF -> tables structurées (CSV)
 │   ├── 03_moderation_toxicite.py  omni-moderation-latest -> verdicts
-│   └── 04_chargement_oracle.py    CSV -> base Oracle (schéma ETICS)
+│   ├── 04_chargement_oracle.py    CSV -> base Oracle (schéma ETICS)
+│   ├── 05_llm_fiches.py           LLM : fiche structurée + rôles des locuteurs
+│   ├── 06_llm_tactiques_decision.py  LLM : tactiques non éthiques + décision finale
+│   └── llm_commun.py              appel du LLM (JSON), reprise après interruption
 ├── bd/                            une table par fichier CSV
 ├── oracle/                        scripts SQL : utilisateur, schéma (clés), données
 └── archive_crime/                 ancienne piste C.R.I.M.E. (abandonnée, gardée pour mémoire)
@@ -37,9 +40,11 @@ Les PDF ne sont pas versionnés sur GitHub (trop volumineux) : `01_collecte_docu
 python scripts/01_collecte_documents.py    # télécharge les PDF + l'OCR DocumentCloud -> documents/
 python scripts/02_extraction_bd.py         # PDF -> tables structurées dans bd/*.csv
 python scripts/03_moderation_toxicite.py   # omni-moderation-latest -> scores + verdicts
+python scripts/05_llm_fiches.py            # LLM -> fiche par interrogatoire + rôles des locuteurs
+python scripts/06_llm_tactiques_decision.py  # LLM -> tactiques non éthiques + décision finale
 python scripts/04_chargement_oracle.py     # crée le schéma ETICS dans Oracle et charge toutes les tables
 ```
-L'étape 3 demande une clé OpenAI : `$env:OPENAI_API_KEY = "sk-..."` (PowerShell). Elle reprend où elle s'est arrêtée si elle est interrompue. Pour un test rapide : `--docs INT008`.
+Les étapes 3, 5 et 6 demandent une clé OpenAI : `$env:OPENAI_API_KEY = "sk-..."` (PowerShell). Elle reprend où elle s'est arrêtée si elle est interrompue. Pour un test rapide : `--docs INT008`.
 
 ## Base de données Oracle (PDB `FREEPDB1`, schéma `ETICS`)
 Dans SQL Developer, avec la connexion SYSTEM sur FREEPDB1 : *Autres utilisateurs > ETICS > Tables*, ou `SELECT * FROM etics.repliques;`.
@@ -55,12 +60,17 @@ Sans Python, on peut exécuter `oracle/00_utilisateur.sql`, `01_schema.sql` puis
 | `problemes_qualite` | 1 problème rencontré | `probleme_id` | `doc_id` → documents |
 | `moderation_repliques` | 1 réplique analysée | `replique_id` | `replique_id` → repliques ; `doc_id` → documents |
 | `toxicite_documents` | 1 interrogatoire | `doc_id` | `doc_id` → documents ; `replique_la_plus_toxique` → repliques |
+| `fiches_llm` | 1 interrogatoire | `doc_id` | `doc_id` → documents |
+| `roles_llm` | 1 locuteur | (`doc_id`, `locuteur`) | (`doc_id`, `locuteur`) → locuteurs |
+| `tactiques_llm` | 1 tactique repérée | `tactique_id` | `replique_id` → repliques ; `doc_id` → documents |
+| `decision_finale` | 1 interrogatoire | `doc_id` | `doc_id` → documents |
 
 ```
 documents 1──n locuteurs 1──n repliques 1──1 moderation_repliques
 documents 1──n repliques
 documents 1──1 decisions        documents 1──n problemes_qualite
-documents 1──1 toxicite_documents
+documents 1──1 toxicite_documents   documents 1──1 fiches_llm   documents 1──1 decision_finale
+locuteurs 1──1 roles_llm           repliques 1──n tactiques_llm
 ```
 
 ## Problèmes rencontrés (table `problemes_qualite`)
@@ -69,7 +79,17 @@ documents 1──1 toxicite_documents
 - Locuteurs abrégés (RW, SAT, VC…), donc le rôle est déduit par heuristique (nom dans le titre, mots-clés DET/AGENT, part de questions).
 - Bruit : numéros de ligne, en-têtes de tribunal, pagination, passages caviardés.
 
-## Méthode d'évaluation (hypothèses)
+## Où intervient le LLM
+| Étape | Sans LLM (règles) | Avec LLM |
+|---|---|---|
+| Structuration | 02 : regex pour découper les répliques et deviner les rôles | 05 : le LLM lit chaque interrogatoire et remplit une fiche JSON (personne interrogée, statut, agence, date, infraction, droits Miranda lus, avocat demandé), et corrige le rôle de chaque locuteur |
+| Toxicité | 03 : omni-moderation note la toxicité verbale (insultes, menaces, haine) | 06 : le LLM classe chaque réplique d'enquêteur selon une grille éthique (menace, fausse promesse, mensonge sur les preuves, minimisation, pression psychologique, humiliation, non-respect des droits, discrimination), avec une gravité de 1 à 3, une justification et une citation |
+
+La chaîne 01 → 06 fonctionne comme un **agent** au sens de l'énoncé : elle lit chaque fichier, identifie l'information, la structure en JSON et l'écrit dans la base, sans intervention.
+
+**Décision finale** (`decision_finale`) : **toxique** si une tactique de gravité 3 ou un verdict « toxique » de la modération ; **mauvais** si une tactique de gravité 2 ou un verdict « mauvais » ; **bon** sinon.
+
+## Méthode d'évaluation de la modération (étape 3)
 - On évalue le **comportement de l'enquêteur**. Un suspect qui raconte un crime fait monter le score « violence » sans que l'interrogatoire soit contraire à l'éthique.
 - Catégories prises en compte pour l'enquêteur : harassment, harassment/threatening, hate, hate/threatening, violence.
 - **toxique** : au moins une réplique d'enquêteur signalée par le modèle (score ≥ 0,5), ou plus de 2 % de répliques ≥ 0,5.
@@ -80,5 +100,5 @@ documents 1──1 toxicite_documents
 ## Prochaines étapes
 1. Lancer l'étape 3 avec une clé OpenAI, puis lire `bd/toxicite_documents.csv`.
 2. Vérifier à la main 5 à 10 verdicts (lire les répliques les plus toxiques) pour valider ou ajuster les seuils.
-3. Compléter la grille avec les tactiques que le modèle ne voit pas (fausses promesses, mensonge sur les preuves, refus d'avocat), en s'appuyant sur la table `decisions`.
+3. Lancer les étapes 5 et 6 (LLM), puis comparer sur une dizaine d'interrogatoires la décision du LLM avec une lecture humaine.
 4. Rédiger le rapport court et les diapositives (soutenance de 10 à 15 min) : documents d'entrée, architecture de la BD, problèmes rencontrés, méthode et résultats.
